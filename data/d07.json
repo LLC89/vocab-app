@@ -1,0 +1,5682 @@
+[
+ {
+  "w": "create",
+  "ipa": "/kriˈeɪt/",
+  "pos": "v.",
+  "zh": "创造；创作；产生；引起",
+  "ko": "만들다；창조하다；일으키다",
+  "kor": "mandeulda",
+  "ex": [
+   {
+    "en": "Firms who want to keep their outside directors through tough times may have to create incentives.",
+    "src": "英语二 2011 阅读 Text 1",
+    "zh": "想在艰难时期留住外部董事的公司，可能不得不制造激励机制。",
+    "ko": "어려운 시기에도 사외이사를 붙잡아 두고 싶은 기업은 인센티브를 만들어야 할지도 모른다.",
+    "g": {
+     "firms": "n. 公司（firm 复数）| 회사",
+     "want": "v. 想要 | 원하다",
+     "keep": "v. 留住，保持 | 유지하다",
+     "outside": "adj. 外部的 | 외부의",
+     "directors": "n. 董事（director 复数）| 이사",
+     "through": "prep. 在整个…期间；度过 | ~을 거치며",
+     "tough": "adj. 艰难的 | 힘든",
+     "times": "n. 时期 | 시기",
+     "may": "modal 可能 | ~일지도 모른다",
+     "create": "v. 创造，制造 | 만들다",
+     "incentives": "n. 激励措施（incentive 复数）| 인센티브"
+    },
+    "kg": {
+     "어려운": "어렵다（难）的定语形 -ㄴ，修饰后面的“시기”",
+     "시기에도": "시기（时期）+ 에（在…时）+ 도（也）",
+     "사외이사를": "사외이사（外部董事）+ 를（宾格助词）",
+     "붙잡아": "붙잡다（抓住）的连接形 -아",
+     "두고": "두다（放着，保持）+ -고（并列/连接）",
+     "싶은": "싶다（想）的定语形，-고 싶다 表示“想要”",
+     "기업은": "기업（企业）+ 은（主题助词）",
+     "인센티브를": "인센티브（激励）+ 를（宾格助词）",
+     "만들어야": "만들다（制造）+ -아/어야（必须…才）",
+     "할지도": "하다（做）+ -ㄹ지도（也许会）",
+     "모른다": "모르다（不知道），-ㄹ지도 모르다 = 也许会…"
+    },
+    "gram": [
+     {
+      "t": "who 引导的定语从句",
+      "d": "who want to keep… 修饰 Firms，说明“是哪样的公司”。who 在从句里作主语，后面直接接谓语。口语和书面里指人时常用 who 或 that。",
+      "ex": [
+       {
+        "en": "The students who study hard usually pass.",
+        "zh": "努力学习的学生通常能通过。",
+        "ko": "열심히 공부하는 학생들은 보통 합격한다."
+       },
+       {
+        "en": "I know a man who speaks five languages.",
+        "zh": "我认识一个会说五种语言的人。",
+        "ko": "나는 다섯 개 언어를 하는 사람을 안다."
+       }
+      ]
+     },
+     {
+      "t": "have to do（不得不）",
+      "d": "have to 表示因外在情况“不得不”做某事，may have to 是“可能不得不”。比 must 更强调客观需要。",
+      "ex": [
+       {
+        "en": "We have to leave early tomorrow.",
+        "zh": "我们明天得早点走。",
+        "ko": "우리는 내일 일찍 떠나야 한다."
+       },
+       {
+        "en": "You may have to wait a little.",
+        "zh": "你可能得等一会儿。",
+        "ko": "조금 기다려야 할지도 모릅니다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Artists create new things from old ideas.",
+    "src": "",
+    "zh": "艺术家用旧想法创造出新事物。",
+    "ko": "예술가들은 오래된 아이디어로 새로운 것을 만들어 낸다.",
+    "g": {
+     "artists": "n. 艺术家（artist 复数）| 예술가",
+     "create": "v. 创造 | 만들다",
+     "new": "adj. 新的 | 새로운",
+     "things": "n. 事物（thing 复数）| 것",
+     "old": "adj. 旧的 | 오래된",
+     "ideas": "n. 想法（idea 复数）| 아이디어"
+    },
+    "kg": {
+     "예술가들은": "예술가（艺术家）+ 들（复数）+ 은（主题助词）",
+     "오래된": "오래되다（old）的定语形 -ㄴ",
+     "아이디어로": "아이디어（想法）+ 로（用…，工具/材料）",
+     "새로운": "새롭다（新）的定语形",
+     "것을": "것（东西）+ 을（宾格助词）",
+     "만들어": "만들다（制造）的连接形",
+     "낸다": "내다（做出来），-아/어 내다 表示“做成、完成”"
+    },
+    "gram": []
+   }
+  ],
+  "phr": [
+   {
+    "en": "create jobs",
+    "zh": "创造就业",
+    "ko": "일자리를 만들다"
+   },
+   {
+    "en": "create a problem",
+    "zh": "制造问题",
+    "ko": "문제를 일으키다"
+   }
+  ]
+ },
+ {
+  "w": "creative",
+  "ipa": "/kriˈeɪtɪv/",
+  "pos": "adj.",
+  "zh": "有创造力的；创造性的",
+  "ko": "창의적인；창조적인",
+  "kor": "changuijeogin",
+  "ex": [
+   {
+    "en": "The more new things we try, the more inherently creative we become.",
+    "src": "2009 阅读 Text 1",
+    "zh": "我们尝试的新事物越多，天生就越有创造力。",
+    "ko": "우리가 새로운 것을 더 많이 시도할수록 본질적으로 더 창의적이 된다.",
+    "g": {
+     "more": "adv. 更多（the more…the more…）| 더",
+     "new": "adj. 新的 | 새로운",
+     "things": "n. 事物 | 것",
+     "try": "v. 尝试 | 시도하다",
+     "inherently": "adv. 内在地，天生地 | 본질적으로",
+     "creative": "adj. 有创造力的 | 창의적인",
+     "become": "v. 变成 | 되다"
+    },
+    "kg": {
+     "우리가": "우리（我们）+ 가（主格助词）",
+     "새로운": "새롭다（新）的定语形",
+     "것을": "것（东西）+ 을（宾格助词）",
+     "더": "更",
+     "많이": "많이（多地），副词",
+     "시도할수록": "시도하다（尝试）+ -ㄹ수록（越…越…）",
+     "본질적으로": "본질적（本质的）+ 으로（以…方式），“本质上”",
+     "창의적이": "창의적（创造性的）+ 이（补语助词，用于 되다 前）",
+     "된다": "되다（变成）的现在时陈述形"
+    },
+    "gram": [
+     {
+      "t": "the + 比较级…, the + 比较级…",
+      "d": "表示“越…，就越…”。前半句是条件，后半句是结果，两个比较级都要放在 the 后面。",
+      "ex": [
+       {
+        "en": "The harder you work, the luckier you get.",
+        "zh": "你越努力就越幸运。",
+        "ko": "열심히 할수록 더 운이 좋아진다."
+       },
+       {
+        "en": "The older he grew, the wiser he became.",
+        "zh": "他年纪越大越聪明。",
+        "ko": "그는 나이가 들수록 더 현명해졌다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "My sister is very creative and loves to paint.",
+    "src": "",
+    "zh": "我姐姐很有创造力，喜欢画画。",
+    "ko": "내 언니는 아주 창의적이고 그림 그리는 것을 좋아한다.",
+    "g": {
+     "sister": "n. 姐妹 | 언니",
+     "very": "adv. 很 | 아주",
+     "creative": "adj. 有创造力的 | 창의적인",
+     "loves": "v. 喜爱（love 三单）| 좋아하다",
+     "paint": "v. 画（画）| 그리다"
+    },
+    "kg": {
+     "내": "我的（나의 的缩写）",
+     "언니는": "언니（姐姐，女生称呼）+ 는（主题助词）",
+     "아주": "很，非常",
+     "창의적이고": "창의적이다（有创意）+ -고（并列）",
+     "그림": "画",
+     "그리는": "그리다（画）的定语形 -는",
+     "것을": "것（事情）+ 을（宾格）",
+     "좋아한다": "좋아하다（喜欢）的现在时陈述形"
+    },
+    "gram": [
+     {
+      "t": "love to do / love doing",
+      "d": "love 后可接不定式或动名词，意思基本相同，表示“喜欢做某事”。",
+      "ex": [
+       {
+        "en": "She loves to sing.",
+        "zh": "她喜欢唱歌。",
+        "ko": "그녀는 노래하는 것을 좋아한다."
+       },
+       {
+        "en": "They love playing chess.",
+        "zh": "他们喜欢下棋。",
+        "ko": "그들은 체스 두는 것을 좋아한다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "creative thinking",
+    "zh": "创造性思维",
+    "ko": "창의적 사고"
+   },
+   {
+    "en": "creative destruction",
+    "zh": "创造性破坏",
+    "ko": "창조적 파괴"
+   }
+  ]
+ },
+ {
+  "w": "creation",
+  "ipa": "/kriˈeɪʃn/",
+  "pos": "n.",
+  "zh": "创造；创作；作品；创立",
+  "ko": "창조；창작；창작물",
+  "kor": "changjo",
+  "ex": [
+   {
+    "en": "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.",
+    "src": "英语一 2018 翻译",
+    "zh": "在他出生之时，欧洲正目睹宗教剧的衰落，以及在古典悲剧和喜剧的激励下新形式的诞生。",
+    "ko": "그가 태어날 무렵 유럽은 종교극이 쇠퇴하고, 고전 비극과 희극에 자극받아 새로운 형식이 만들어지는 것을 지켜보고 있었다.",
+    "g": {
+     "date": "n. 日期，时候 | 날짜",
+     "birth": "n. 出生 | 출생",
+     "Europe": "n. 欧洲 | 유럽",
+     "witnessing": "v. 目睹（witness 现在分词）| 목격하다",
+     "passing": "n. 消逝，衰亡 | 쇠퇴",
+     "religious": "adj. 宗教的 | 종교적인",
+     "drama": "n. 戏剧 | 연극",
+     "creation": "n. 创造，诞生 | 창조",
+     "new": "adj. 新的 | 새로운",
+     "forms": "n. 形式（form 复数）| 형식",
+     "incentive": "n. 激励，刺激 | 자극",
+     "classical": "adj. 古典的 | 고전의",
+     "tragedy": "n. 悲剧 | 비극",
+     "comedy": "n. 喜剧 | 희극"
+    },
+    "kg": {
+     "그가": "그（他）+ 가（主格助词）",
+     "태어날": "태어나다（出生）+ -ㄹ（将来定语形）",
+     "무렵": "时候，前后",
+     "유럽은": "유럽（欧洲）+ 은（主题助词）",
+     "종교극이": "종교극（宗教剧）+ 이（主格助词）",
+     "쇠퇴하고": "쇠퇴하다（衰落）+ -고（并列）",
+     "고전": "古典",
+     "비극과": "비극（悲剧）+ 과（和）",
+     "희극에": "희극（喜剧）+ 에（受…影响，在…下）",
+     "자극받아": "자극받다（受到刺激）的连接形 -아",
+     "새로운": "새롭다（新）的定语形",
+     "형식이": "형식（形式）+ 이（主格助词）",
+     "만들어지는": "만들어지다（被创造）的定语形 -는",
+     "것을": "것（事情，名词化）+ 을（宾格）",
+     "지켜보고": "지켜보다（注视）+ -고",
+     "있었다": "있다（在）+ -었다，-고 있다 表示进行，过去时"
+    },
+    "gram": [
+     {
+      "t": "witness 后接并列宾语",
+      "d": "witness 在这里表示“见证、目睹”，后面接 the passing of… 和 the creation of… 两个并列宾语，用 and 连接。the + n. + of 结构是考研长难句常见的名词化表达。",
+      "ex": [
+       {
+        "en": "The 1990s witnessed rapid growth of the internet.",
+        "zh": "九十年代见证了互联网的快速发展。",
+        "ko": "1990년대는 인터넷의 빠른 성장을 목격했다."
+       },
+       {
+        "en": "We witnessed the birth of a new era.",
+        "zh": "我们见证了一个新时代的诞生。",
+        "ko": "우리는 새 시대의 탄생을 지켜보았다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The creation of this park took ten years.",
+    "src": "",
+    "zh": "建造这座公园花了十年。",
+    "ko": "이 공원을 만드는 데 십 년이 걸렸다.",
+    "g": {
+     "creation": "n. 创建 | 조성",
+     "this": "det. 这个 | 이",
+     "park": "n. 公园 | 공원",
+     "took": "v. 花费（take 过去式）| 걸리다",
+     "ten": "num. 十 | 십",
+     "years": "n. 年 | 년"
+    },
+    "kg": {
+     "이": "这",
+     "공원을": "공원（公园）+ 을（宾格助词）",
+     "만드는": "만들다（建造）的定语形 -는",
+     "데": "것（的事）的意思，-는 데 表示“做…这件事上”",
+     "십": "十",
+     "년이": "년（年）+ 이（主格助词）",
+     "걸렸다": "걸리다（花费，用时）的过去式"
+    },
+    "gram": [
+     {
+      "t": "take + 时间",
+      "d": "The creation took ten years，表示“花了…时间”；人做某事用 It takes sb. + 时间 + to do。",
+      "ex": [
+       {
+        "en": "The trip took three hours.",
+        "zh": "这趟旅行花了三小时。",
+        "ko": "여행은 세 시간이 걸렸다."
+       },
+       {
+        "en": "It took me a week to finish the book.",
+        "zh": "我花了一周读完这本书。",
+        "ko": "그 책을 다 읽는 데 일주일이 걸렸다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "the creation of",
+    "zh": "……的创造",
+    "ko": "~의 창조"
+   },
+   {
+    "en": "job creation",
+    "zh": "创造就业",
+    "ko": "일자리 창출"
+   }
+  ]
+ },
+ {
+  "w": "concrete",
+  "ipa": "/ˈkɒŋkriːt/",
+  "pos": "adj./n./v.",
+  "zh": "具体的；有形的；混凝土；使凝固",
+  "ko": "구체적인；콘크리트",
+  "kor": "guchejeogin",
+  "ex": [
+   {
+    "en": "But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a contract or regulation.",
+    "src": "英语一 2017 阅读 Text 4",
+    "zh": "但根据反贿赂法，必须证明存在具体的利益，例如合同或法规的批准。",
+    "ko": "그러나 반뇌물법에 따르면 계약이나 규정의 승인과 같은 구체적인 이익이 있다는 증거가 제시되어야 한다.",
+    "g": {
+     "under": "prep. 根据，在…之下 | ~에 따라",
+     "anti-bribery": "adj. 反贿赂的 | 반뇌물의",
+     "laws": "n. 法律 | 법",
+     "proof": "n. 证据，证明 | 증거",
+     "made": "v. 提出（make 过去分词）| 하다",
+     "concrete": "adj. 具体的 | 구체적인",
+     "benefits": "n. 利益 | 이익",
+     "approval": "n. 批准 | 승인",
+     "contract": "n. 合同 | 계약",
+     "regulation": "n. 法规 | 규정"
+    },
+    "kg": {
+     "그러나": "但是",
+     "반뇌물법에": "반뇌물법（反贿赂法）+ 에（根据）",
+     "따르면": "따르다（依据）+ -면（如果），“按照…的话”",
+     "계약이나": "계약（合同）+ 이나（或者）",
+     "규정의": "규정（规定）+ 의（的）",
+     "승인과": "승인（批准）+ 과（和，如）",
+     "같은": "같다（像，如同）的定语形",
+     "구체적인": "구체적（具体的）+ 인（是…的，定语形）",
+     "이익이": "이익（利益）+ 이（主格助词）",
+     "있다는": "있다（有）+ -다는（引用定语形，“有…的”）",
+     "증거가": "증거（证据）+ 가（主格助词）",
+     "제시되어야": "제시되다（被提出）+ -어야（必须）",
+     "한다": "하다，-어야 한다 表示“必须”"
+    },
+    "gram": [
+     {
+      "t": "such as 举例",
+      "d": "such as 后接具体例子，意思是“比如、诸如”，用来补充说明前面的名词。",
+      "ex": [
+       {
+        "en": "I like fruit such as apples and grapes.",
+        "zh": "我喜欢苹果、葡萄之类的水果。",
+        "ko": "나는 사과와 포도 같은 과일을 좋아한다."
+       },
+       {
+        "en": "Countries such as Japan have aging populations.",
+        "zh": "像日本这样的国家人口在老龄化。",
+        "ko": "일본 같은 나라는 인구가 고령화되고 있다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "I need a concrete plan, not just big ideas.",
+    "src": "",
+    "zh": "我需要一个具体的计划，而不只是宏大的想法。",
+    "ko": "나는 큰 아이디어만이 아니라 구체적인 계획이 필요하다.",
+    "g": {
+     "need": "v. 需要 | 필요하다",
+     "concrete": "adj. 具体的 | 구체적인",
+     "plan": "n. 计划 | 계획",
+     "just": "adv. 仅仅 | 단지",
+     "big": "adj. 大的 | 큰",
+     "ideas": "n. 想法 | 아이디어"
+    },
+    "kg": {
+     "나는": "我 + 는（主题助词）",
+     "큰": "크다（大）的定语形",
+     "아이디어만이": "아이디어（想法）+ 만（只）+ 이（主格助词）",
+     "아니라": "아니다（不是）+ -라（而是）",
+     "구체적인": "구체적（具体的）+ 인",
+     "계획이": "계획（计划）+ 이（主格）",
+     "필요하다": "필요하다（需要）的现在时陈述形"
+    },
+    "gram": [
+     {
+      "t": "not just A but B",
+      "d": "not just A (but B)：不只是 A，而是 B。这里省略了 but，强调前者不够，要的是后者。",
+      "ex": [
+       {
+        "en": "She is not just smart but kind.",
+        "zh": "她不仅聪明，而且善良。",
+        "ko": "그녀는 똑똑할 뿐만 아니라 친절하다."
+       },
+       {
+        "en": "Not just money but time matters.",
+        "zh": "不只是钱，时间也重要。",
+        "ko": "돈뿐만 아니라 시간도 중요하다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "concrete evidence",
+    "zh": "确凿证据",
+    "ko": "구체적인 증거"
+   },
+   {
+    "en": "concrete jungle",
+    "zh": "钢筋水泥丛林",
+    "ko": "콘크리트 정글"
+   }
+  ]
+ },
+ {
+  "w": "discrete",
+  "ipa": "/dɪˈskriːt/",
+  "pos": "adj.",
+  "zh": "离散的；分离的；不连续的",
+  "ko": "불연속적인；별개의",
+  "kor": "bulyeonsokjeogin",
+  "ex": [
+   {
+    "en": "Unlike a continuous flow, the data arrive as discrete units that can be counted one by one.",
+    "src": "",
+    "zh": "与连续的流不同，这些数据以可以逐个计数的离散单位到达。",
+    "ko": "연속적인 흐름과 달리 데이터는 하나하나 셀 수 있는 개별 단위로 도착한다.",
+    "g": {
+     "unlike": "prep. 与…不同 | ~와 달리",
+     "continuous": "adj. 连续的 | 연속적인",
+     "flow": "n. 流动 | 흐름",
+     "data": "n. 数据 | 데이터",
+     "arrive": "v. 到达 | 도착하다",
+     "discrete": "adj. 离散的 | 개별적인",
+     "units": "n. 单位 | 단위",
+     "counted": "v. 数（count 过去分词）| 세다",
+     "one": "num. 一 | 하나"
+    },
+    "kg": {
+     "연속적인": "연속적（连续的）+ 인",
+     "흐름과": "흐름（流动）+ 과（与）",
+     "달리": "다르다（不同）的副词形，“与…不同地”",
+     "데이터는": "데이터（数据）+ 는（主题助词）",
+     "하나하나": "一个一个",
+     "셀": "세다（数）的将来定语形 -ㄹ",
+     "수": "可能（-ㄹ 수 있다 结构）",
+     "있는": "있다（有）的定语形",
+     "개별": "个别",
+     "단위로": "단위（单位）+ 로（以…形式）",
+     "도착한다": "도착하다（到达）的现在时陈述形"
+    },
+    "gram": [
+     {
+      "t": "that 引导的定语从句",
+      "d": "units that can be counted…：that 引导定语从句修饰 units，在从句中作主语，can be counted 是被动语态。",
+      "ex": [
+       {
+        "en": "The book that I bought is great.",
+        "zh": "我买的那本书很棒。",
+        "ko": "내가 산 책은 훌륭하다."
+       },
+       {
+        "en": "Rules that can be broken are weak.",
+        "zh": "可以被打破的规则是脆弱的。",
+        "ko": "깨질 수 있는 규칙은 약하다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Discrete events happen separately, not together.",
+    "src": "",
+    "zh": "离散的事件是分开发生的，而不是一起发生。",
+    "ko": "개별적인 사건들은 함께가 아니라 따로 일어난다.",
+    "g": {
+     "discrete": "adj. 分离的 | 개별적인",
+     "events": "n. 事件 | 사건",
+     "happen": "v. 发生 | 일어나다",
+     "separately": "adv. 分开地 | 따로",
+     "together": "adv. 一起 | 함께"
+    },
+    "kg": {
+     "개별적인": "개별적（个别的）+ 인",
+     "사건들은": "사건（事件）+ 들（复数）+ 은（主题）",
+     "함께가": "함께（一起）+ 가（对比主格助词）",
+     "아니라": "아니다（不是）+ -라（而是）",
+     "따로": "分别，单独",
+     "일어난다": "일어나다（发生）的现在时陈述形"
+    },
+    "gram": [
+     {
+      "t": "discrete 与 discreet 易混",
+      "d": "discrete 意思是“分离的、离散的”，discreet 是“谨慎的、不张扬的”。两个词发音相同，拼写只差 e 与 t 的位置，考试里常考辨析。",
+      "ex": [
+       {
+        "en": "They kept a discreet silence.",
+        "zh": "他们谨慎地保持沉默。",
+        "ko": "그들은 신중하게 침묵을 지켰다."
+       },
+       {
+        "en": "There are three discrete groups.",
+        "zh": "有三个互相分离的组。",
+        "ko": "세 개의 별개 그룹이 있다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "discrete data",
+    "zh": "离散数据",
+    "ko": "이산 데이터"
+   },
+   {
+    "en": "discrete variable",
+    "zh": "离散变量",
+    "ko": "이산 변수"
+   }
+  ]
+ },
+ {
+  "w": "increase",
+  "ipa": "/ɪnˈkriːs/ (v.) /ˈɪnkriːs/ (n.)",
+  "pos": "v./n.",
+  "zh": "增加；增长；提高",
+  "ko": "증가하다；늘리다；증가",
+  "kor": "jeunggahada",
+  "ex": [
+   {
+    "en": "These terms are also intended to infuse work with meaning and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm.",
+    "src": "英语二 2015 阅读 Text 3",
+    "zh": "这些术语也意在赋予工作以意义，而且正如另一位教授拉凯什·库拉纳所指出的，能增强人们对公司的忠诚。",
+    "ko": "이러한 용어는 일에 의미를 불어넣고, 또 다른 교수인 라케시 쿠라나가 지적하듯이 회사에 대한 충성심을 높이려는 의도도 있다.",
+    "g": {
+     "terms": "n. 术语（term 复数）| 용어",
+     "also": "adv. 也 | 또한",
+     "intended": "v. 意图（intend 过去分词）| 의도하다",
+     "infuse": "v. 注入，使充满 | 불어넣다",
+     "work": "n. 工作 | 일",
+     "meaning": "n. 意义 | 의미",
+     "another": "det. 另一个 | 또 다른",
+     "professor": "n. 教授 | 교수",
+     "points": "v. 指出（point out）| 지적하다",
+     "increase": "v. 增加，提高 | 높이다",
+     "allegiance": "n. 忠诚 | 충성심",
+     "firm": "n. 公司 | 회사"
+    },
+    "kg": {
+     "이러한": "这样的",
+     "용어는": "용어（术语）+ 는（主题助词）",
+     "일에": "일（工作）+ 에（向，给）",
+     "의미를": "의미（意义）+ 를（宾格）",
+     "불어넣고": "불어넣다（注入）+ -고（并列）",
+     "또": "又，另外",
+     "다른": "다르다（别的）的定语形",
+     "교수인": "교수（教授）+ 인（是…的）",
+     "라케시": "拉凯什（人名）",
+     "쿠라나가": "쿠라나（库拉纳）+ 가（主格助词）",
+     "지적하듯이": "지적하다（指出）+ -듯이（就像…一样）",
+     "회사에": "회사（公司）+ 에",
+     "대한": "대하다（对于）的定语形，“关于/对…的”",
+     "충성심을": "충성심（忠诚心）+ 을（宾格）",
+     "높이려는": "높이다（提高）+ -려는（想要…的）",
+     "의도도": "의도（意图）+ 도（也）",
+     "있다": "있다（有）的陈述形"
+    },
+    "gram": [
+     {
+      "t": "be intended to do",
+      "d": "be intended to do 表示“旨在、意图做某事”。as… points out 是插入的 as 引导的方式状语从句，意思是“正如…所指出的”。",
+      "ex": [
+       {
+        "en": "The rule is intended to protect children.",
+        "zh": "这条规定旨在保护儿童。",
+        "ko": "그 규칙은 아이들을 보호하기 위한 것이다."
+       },
+       {
+        "en": "As the teacher points out, this is hard.",
+        "zh": "正如老师所指出的，这很难。",
+        "ko": "선생님이 지적하듯이 이것은 어렵다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Prices increase every year, but my salary does not.",
+    "src": "",
+    "zh": "物价年年上涨，但我的工资没涨。",
+    "ko": "물가는 해마다 오르지만 내 월급은 그렇지 않다.",
+    "g": {
+     "prices": "n. 价格（price 复数）| 물가",
+     "increase": "v. 上涨 | 오르다",
+     "every": "det. 每个 | 매",
+     "year": "n. 年 | 해",
+     "salary": "n. 工资 | 월급",
+     "does": "v. 做（代替前面的动词）| 하다"
+    },
+    "kg": {
+     "물가는": "물가（物价）+ 는（主题助词）",
+     "해마다": "해（年）+ 마다（每）",
+     "오르지만": "오르다（上涨）+ -지만（但是）",
+     "내": "我的",
+     "월급은": "월급（月薪）+ 은（主题/对比助词）",
+     "그렇지": "그렇다（那样）+ -지（否定式前接）",
+     "않다": "않다（不），-지 않다 表示否定"
+    },
+    "gram": [
+     {
+      "t": "助动词 do 代替前面的动词",
+      "d": "but my salary does not = but my salary does not increase。英语里为了避免重复，常用 do/does 代替前面出现过的实义动词。",
+      "ex": [
+       {
+        "en": "She runs faster than I do.",
+        "zh": "她比我跑得快。",
+        "ko": "그녀는 나보다 빨리 달린다."
+       },
+       {
+        "en": "He likes tea, but I don't.",
+        "zh": "他喜欢茶，我不喜欢。",
+        "ko": "그는 차를 좋아하지만 나는 아니다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "increase by 10%",
+    "zh": "增加10%",
+    "ko": "10% 증가하다"
+   },
+   {
+    "en": "on the increase",
+    "zh": "在增长",
+    "ko": "증가 추세인"
+   }
+  ]
+ },
+ {
+  "w": "decrease",
+  "ipa": "/dɪˈkriːs/ (v.) /ˈdiːkriːs/ (n.)",
+  "pos": "v./n.",
+  "zh": "减少；降低",
+  "ko": "감소하다；줄다；감소",
+  "kor": "gamsohada",
+  "ex": [
+   {
+    "en": "The drastically decreased population of the species worried scientists.",
+    "src": "英语二 2016 阅读 Text 2（改编）",
+    "zh": "该物种数量的急剧减少让科学家们感到担忧。",
+    "ko": "그 종의 개체 수가 급격하게 줄어든 것이 과학자들을 걱정시켰다.",
+    "g": {
+     "drastically": "adv. 急剧地 | 급격하게",
+     "decreased": "adj. 减少了的（decrease 过去分词）| 줄어든",
+     "population": "n. 数量，人口 | 개체 수",
+     "species": "n. 物种 | 종",
+     "worried": "v. 使担忧（worry 过去式）| 걱정시키다",
+     "scientists": "n. 科学家 | 과학자"
+    },
+    "kg": {
+     "그": "那",
+     "종의": "종（物种）+ 의（的）",
+     "개체": "个体",
+     "수가": "수（数量）+ 가（主格助词）",
+     "급격하게": "급격하다（急剧）的副词形 -게",
+     "줄어든": "줄다（减少）的过去定语形 -ㄴ",
+     "것이": "것（事情）+ 이（主格助词）",
+     "과학자들을": "과학자（科学家）+ 들（复数）+ 을（宾格）",
+     "걱정시켰다": "걱정시키다（使担忧）的过去式"
+    },
+    "gram": [
+     {
+      "t": "过去分词作定语",
+      "d": "decreased population 中，decreased 是过去分词，放在名词前作定语，表示“已经减少了的”。类似 broken glass（破碎的玻璃）。",
+      "ex": [
+       {
+        "en": "The broken window must be fixed.",
+        "zh": "破了的窗户必须修。",
+        "ko": "깨진 창문은 고쳐야 한다."
+       },
+       {
+        "en": "Increased costs worried the owner.",
+        "zh": "上涨的成本让老板担心。",
+        "ko": "늘어난 비용이 주인을 걱정시켰다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Sales decrease in winter, so we have a sale.",
+    "src": "",
+    "zh": "冬天销量下降，所以我们搞促销。",
+    "ko": "겨울에는 매출이 줄어서 우리는 세일을 한다.",
+    "g": {
+     "sales": "n. 销量 | 매출",
+     "decrease": "v. 减少 | 줄다",
+     "winter": "n. 冬天 | 겨울",
+     "sale": "n. 促销，大减价 | 세일"
+    },
+    "kg": {
+     "겨울에는": "겨울（冬天）+ 에는（在…时，强调）",
+     "매출이": "매출（销售额）+ 이（主格）",
+     "줄어서": "줄다（减少）+ -어서（因为）",
+     "우리는": "우리（我们）+ 는（主题）",
+     "세일을": "세일（促销）+ 을（宾格）",
+     "한다": "하다（做）的现在时"
+    },
+    "gram": [
+     {
+      "t": "so 表示结果",
+      "d": "so 连接两个分句，前面是原因，后面是结果，意思是“所以”。注意英语里 so 和 because 不能同时用在同一个句子里。",
+      "ex": [
+       {
+        "en": "It rained, so we stayed home.",
+        "zh": "下雨了，所以我们待在家里。",
+        "ko": "비가 와서 우리는 집에 있었다."
+       },
+       {
+        "en": "I was tired, so I slept early.",
+        "zh": "我累了，所以早睡了。",
+        "ko": "피곤해서 일찍 잤다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "decrease by",
+    "zh": "减少了（多少）",
+    "ko": "~만큼 감소하다"
+   },
+   {
+    "en": "a decrease in",
+    "zh": "……的减少",
+    "ko": "~의 감소"
+   }
+  ]
+ },
+ {
+  "w": "credit",
+  "ipa": "/ˈkredɪt/",
+  "pos": "n./v.",
+  "zh": "信贷；赊账；学分；功劳；把…归功于",
+  "ko": "신용；학점；공로",
+  "kor": "sinyong",
+  "ex": [
+   {
+    "en": "Fast-food chains should also stop offering inducements such as toys, cute animals and mobile phone credit to lure young customers.",
+    "src": "英语二 2011 新题型",
+    "zh": "快餐连锁店还应停止提供玩具、可爱动物玩偶和手机话费等诱惑物来吸引年轻顾客。",
+    "ko": "패스트푸드 체인점은 장난감, 귀여운 동물 인형, 휴대전화 통화료 같은 유인책으로 젊은 고객을 끌어들이는 것도 중단해야 한다.",
+    "g": {
+     "fast-food": "n. 快餐 | 패스트푸드",
+     "chains": "n. 连锁店 | 체인점",
+     "should": "modal 应该 | ~해야 한다",
+     "stop": "v. 停止 | 중단하다",
+     "offering": "v. 提供 | 제공하다",
+     "inducements": "n. 诱因，诱惑 | 유인책",
+     "toys": "n. 玩具 | 장난감",
+     "cute": "adj. 可爱的 | 귀여운",
+     "animals": "n. 动物 | 동물",
+     "mobile": "adj. 移动的 | 휴대",
+     "phone": "n. 电话 | 전화",
+     "credit": "n. 话费额度 | 요금",
+     "lure": "v. 引诱 | 끌어들이다",
+     "young": "adj. 年轻的 | 젊은",
+     "customers": "n. 顾客 | 고객"
+    },
+    "kg": {
+     "패스트푸드": "快餐",
+     "체인점은": "체인점（连锁店）+ 은（主题）",
+     "장난감": "玩具",
+     "귀여운": "귀엽다（可爱）的定语形",
+     "동물": "动物",
+     "인형": "玩偶",
+     "휴대전화": "手机",
+     "통화료": "通话费",
+     "같은": "같다（像）的定语形，“…之类的”",
+     "유인책으로": "유인책（诱导手段）+ 으로（以…方式）",
+     "젊은": "젊다（年轻）的定语形",
+     "고객을": "고객（顾客）+ 을（宾格）",
+     "끌어들이는": "끌어들이다（吸引）的定语形",
+     "것도": "것（事情）+ 도（也）",
+     "중단해야": "중단하다（中止）+ -해야（必须）",
+     "한다": "하다，-야 한다 表示“应该”"
+    },
+    "gram": [
+     {
+      "t": "such as + 不定式表目的 to lure",
+      "d": "to lure young customers 是不定式作目的状语，说明提供 inducements 是“为了吸引年轻顾客”。stop doing 表示“停止做某事”，注意区别 stop to do。",
+      "ex": [
+       {
+        "en": "He stopped smoking last year.",
+        "zh": "他去年戒烟了。",
+        "ko": "그는 작년에 담배를 끊었다."
+       },
+       {
+        "en": "She saved money to buy a car.",
+        "zh": "她存钱是为了买车。",
+        "ko": "그녀는 차를 사려고 돈을 모았다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "I paid by credit card and got a receipt.",
+    "src": "",
+    "zh": "我用信用卡付了款，拿到了收据。",
+    "ko": "나는 신용카드로 계산하고 영수증을 받았다.",
+    "g": {
+     "paid": "v. 支付（pay 过去式）| 지불하다",
+     "credit": "n. 信用 | 신용",
+     "card": "n. 卡 | 카드",
+     "got": "v. 得到（get 过去式）| 받다",
+     "receipt": "n. 收据 | 영수증"
+    },
+    "kg": {
+     "나는": "我 + 는（主题）",
+     "신용카드로": "신용카드（信用卡）+ 로（用…，工具）",
+     "계산하고": "계산하다（结账）+ -고（并列）",
+     "영수증을": "영수증（收据）+ 을（宾格）",
+     "받았다": "받다（收到）的过去式"
+    },
+    "gram": [
+     {
+      "t": "credit 的多重含义",
+      "d": "credit 可表示“信用/赊账”（on credit）、“学分”、以及“功劳”（give sb. credit for sth.，把功劳归于某人）。考研中常考“把…归功于”。",
+      "ex": [
+       {
+        "en": "She got full credit for the idea.",
+        "zh": "这个想法的功劳全归她。",
+        "ko": "그 아이디어의 공로는 모두 그녀에게 돌아갔다."
+       },
+       {
+        "en": "I need ten more credits to graduate.",
+        "zh": "我还差十个学分才能毕业。",
+        "ko": "졸업하려면 학점이 10점 더 필요하다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "on credit",
+    "zh": "赊账",
+    "ko": "외상으로"
+   },
+   {
+    "en": "credit card",
+    "zh": "信用卡",
+    "ko": "신용카드"
+   },
+   {
+    "en": "give credit to",
+    "zh": "归功于",
+    "ko": "~의 공으로 돌리다"
+   }
+  ]
+ },
+ {
+  "w": "credible",
+  "ipa": "/ˈkredəbl/",
+  "pos": "adj.",
+  "zh": "可信的；可靠的",
+  "ko": "믿을 수 있는；신뢰할 만한",
+  "kor": "mideul su inneun",
+  "ex": [
+   {
+    "en": "Newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge.",
+    "src": "英语一 2012 阅读 Text 3",
+    "zh": "新发表的发现声明以及看似重要而令人信服的可信发现，始终都可能受到质疑。",
+    "ko": "새로 발표된 발견 주장과, 중요하고 설득력 있어 보이는 신뢰할 만한 발견도 언제나 도전에 열려 있다.",
+    "g": {
+     "newly": "adv. 新近 | 새로",
+     "published": "adj. 发表了的 | 발표된",
+     "discovery": "n. 发现 | 발견",
+     "claims": "n. 主张，声明 | 주장",
+     "credible": "adj. 可信的 | 신뢰할 만한",
+     "discoveries": "n. 发现（discovery 复数）| 발견",
+     "appear": "v. 似乎 | ~해 보이다",
+     "important": "adj. 重要的 | 중요한",
+     "convincing": "adj. 有说服力的 | 설득력 있는",
+     "always": "adv. 总是 | 언제나",
+     "open": "adj. 开放的，易受…的 | 열려 있는",
+     "challenge": "n. 质疑，挑战 | 도전"
+    },
+    "kg": {
+     "새로": "新地",
+     "발표된": "발표되다（被发表）的定语形 -ㄴ",
+     "발견": "发现",
+     "주장과": "주장（主张）+ 과（和）",
+     "중요하고": "중요하다（重要）+ -고（并列）",
+     "설득력": "说服力",
+     "있어": "있다（有）的连接形",
+     "보이는": "보이다（看起来）的定语形，-아/어 보이다 = 看上去…",
+     "신뢰할": "신뢰하다（信赖）+ -ㄹ（将来定语形）",
+     "만한": "만하다（值得）的定语形",
+     "발견도": "발견（发现）+ 도（也）",
+     "언제나": "无论何时，总是",
+     "도전에": "도전（挑战）+ 에（对，向）",
+     "열려": "열리다（开着）的连接形 -어",
+     "있다": "있다，-어 있다 表示状态持续"
+    },
+    "gram": [
+     {
+      "t": "be open to + 名词",
+      "d": "be open to 的意思是“容易受到…的影响；对…持开放态度”。这里指发现始终“可被质疑”。that appear to be… 是定语从句，appear to be 意为“看起来是”。",
+      "ex": [
+       {
+        "en": "The plan is open to criticism.",
+        "zh": "这个计划容易招致批评。",
+        "ko": "그 계획은 비판받기 쉽다."
+       },
+       {
+        "en": "He is open to new ideas.",
+        "zh": "他乐于接受新想法。",
+        "ko": "그는 새로운 생각에 열려 있다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "A credible witness told the police the truth.",
+    "src": "",
+    "zh": "一位可信的证人对警方讲了实话。",
+    "ko": "믿을 만한 증인이 경찰에게 진실을 말했다.",
+    "g": {
+     "credible": "adj. 可信的 | 믿을 만한",
+     "witness": "n. 证人 | 증인",
+     "told": "v. 告诉（tell 过去式）| 말하다",
+     "police": "n. 警察 | 경찰",
+     "truth": "n. 真相 | 진실"
+    },
+    "kg": {
+     "믿을": "믿다（相信）+ -ㄹ（将来定语形）",
+     "만한": "만하다（值得）的定语形",
+     "증인이": "증인（证人）+ 이（主格）",
+     "경찰에게": "경찰（警察）+ 에게（对）",
+     "진실을": "진실（真相）+ 을（宾格）",
+     "말했다": "말하다（说）的过去式"
+    },
+    "gram": [
+     {
+      "t": "tell sb. sth.",
+      "d": "tell 后可连续接两个宾语：tell sb. sth.，意思是“告诉某人某事”，顺序是人在前，事在后。",
+      "ex": [
+       {
+        "en": "She told me a secret.",
+        "zh": "她告诉了我一个秘密。",
+        "ko": "그녀는 나에게 비밀을 말해 주었다."
+       },
+       {
+        "en": "He told us the news.",
+        "zh": "他告诉了我们那个消息。",
+        "ko": "그는 우리에게 그 소식을 전했다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "credible evidence",
+    "zh": "可信证据",
+    "ko": "믿을 만한 증거"
+   },
+   {
+    "en": "a credible threat",
+    "zh": "可信的威胁",
+    "ko": "현실적인 위협"
+   }
+  ]
+ },
+ {
+  "w": "grant",
+  "ipa": "/ɡrɑːnt/",
+  "pos": "v./n.",
+  "zh": "授予；同意；承认；拨款",
+  "ko": "수여하다；허락하다；보조금",
+  "kor": "suyeohada",
+  "ex": [
+   {
+    "en": "Washington overcame the strong opposition of his relatives to grant his slaves their freedom in his will.",
+    "src": "2008 阅读 Text 4",
+    "zh": "华盛顿克服了亲属的强烈反对，在遗嘱中给予他的奴隶自由。",
+    "ko": "워싱턴은 친척들의 강한 반대를 이겨내고 유언장에서 자신의 노예들에게 자유를 주었다.",
+    "g": {
+     "Washington": "n. 华盛顿 | 워싱턴",
+     "overcame": "v. 克服（overcome 过去式）| 이겨내다",
+     "strong": "adj. 强烈的 | 강한",
+     "opposition": "n. 反对 | 반대",
+     "relatives": "n. 亲属 | 친척",
+     "grant": "v. 授予，给予 | 주다",
+     "slaves": "n. 奴隶 | 노예",
+     "freedom": "n. 自由 | 자유",
+     "will": "n. 遗嘱 | 유언장"
+    },
+    "kg": {
+     "워싱턴은": "워싱턴（华盛顿）+ 은（主题）",
+     "친척들의": "친척（亲戚）+ 들（复数）+ 의（的）",
+     "강한": "강하다（强）的定语形",
+     "반대를": "반대（反对）+ 를（宾格）",
+     "이겨내고": "이겨내다（战胜）+ -고（连接）",
+     "유언장에서": "유언장（遗嘱）+ 에서（在）",
+     "자신의": "자신（自己）+ 의（的）",
+     "노예들에게": "노예（奴隶）+ 들（复数）+ 에게（给）",
+     "자유를": "자유（自由）+ 를（宾格）",
+     "주었다": "주다（给）的过去式"
+    },
+    "gram": [
+     {
+      "t": "grant sb. sth. 与 to do 目的状语",
+      "d": "grant 是双宾语动词：grant sb. sth. = 授予某人某物。to grant… 是不定式作目的状语，说明他克服反对的目的。take sth. for granted 则是“视…为理所当然”，是 grant 的另一个高频搭配。",
+      "ex": [
+       {
+        "en": "The school granted him a scholarship.",
+        "zh": "学校授予他一笔奖学金。",
+        "ko": "학교는 그에게 장학금을 주었다."
+       },
+       {
+        "en": "Don't take your health for granted.",
+        "zh": "别把健康视为理所当然。",
+        "ko": "건강을 당연하게 여기지 마라."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "I grant that you are right, but I still disagree.",
+    "src": "",
+    "zh": "我承认你是对的，但我仍然不同意。",
+    "ko": "네가 옳다는 건 인정하지만 나는 여전히 동의하지 않는다.",
+    "g": {
+     "grant": "v. 承认 | 인정하다",
+     "right": "adj. 正确的 | 옳은",
+     "still": "adv. 仍然 | 여전히",
+     "disagree": "v. 不同意 | 동의하지 않다"
+    },
+    "kg": {
+     "네가": "너（你）+ 가（主格，口语读作 네가）",
+     "옳다는": "옳다（正确）+ -다는（引用定语形）",
+     "건": "것은 的缩写，“…的事”",
+     "인정하지만": "인정하다（承认）+ -지만（但是）",
+     "나는": "我 + 는",
+     "여전히": "仍然",
+     "동의하지": "동의하다（同意）+ -지（否定前接）",
+     "않는다": "않다（不）的现在时，-지 않는다 = 不…"
+    },
+    "gram": [
+     {
+      "t": "grant that 从句",
+      "d": "grant 还可表示“承认（某事属实）”，后接 that 从句，常用来让步：I grant that…, but…（我承认…，但是…）。",
+      "ex": [
+       {
+        "en": "I grant it is expensive, but it is worth it.",
+        "zh": "我承认它贵，但物有所值。",
+        "ko": "비싸다는 건 인정하지만 그만한 가치가 있다."
+       },
+       {
+        "en": "Granted, he is young, yet he is capable.",
+        "zh": "诚然他年轻，但他有能力。",
+        "ko": "물론 그는 어리지만 능력이 있다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "take sth. for granted",
+    "zh": "视…为理所当然",
+    "ko": "~을 당연하게 여기다"
+   },
+   {
+    "en": "grant permission",
+    "zh": "给予许可",
+    "ko": "허가를 내주다"
+   },
+   {
+    "en": "research grant",
+    "zh": "科研经费",
+    "ko": "연구 보조금"
+   }
+  ]
+ },
+ {
+  "w": "crime",
+  "ipa": "/kraɪm/",
+  "pos": "n.",
+  "zh": "罪行；犯罪",
+  "ko": "범죄；죄",
+  "kor": "beomjoe",
+  "ex": [
+   {
+    "en": "Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runways.",
+    "src": "英语一 2016 阅读 Text 1",
+    "zh": "其立法者上周初步批准了一项法律，该法律将使在T台上雇用超瘦模特成为犯罪。",
+    "ko": "그곳의 입법자들은 지난주 런웨이에서 극도로 마른 모델을 고용하는 것을 범죄로 만드는 법안을 예비 승인했다.",
+    "g": {
+     "lawmakers": "n. 立法者 | 입법자",
+     "gave": "v. 给予（give 过去式）| 주다",
+     "preliminary": "adj. 初步的 | 예비의",
+     "approval": "n. 批准 | 승인",
+     "last": "adj. 上一个 | 지난",
+     "week": "n. 周 | 주",
+     "law": "n. 法律 | 법안",
+     "crime": "n. 犯罪 | 범죄",
+     "employ": "v. 雇用 | 고용하다",
+     "ultra-thin": "adj. 极瘦的 | 극도로 마른",
+     "models": "n. 模特 | 모델",
+     "runways": "n. T 台 | 런웨이"
+    },
+    "kg": {
+     "그곳의": "那里的",
+     "입법자들은": "입법자（立法者）+ 들（复数）+ 은（主题）",
+     "지난주": "上周",
+     "런웨이에서": "런웨이（T台）+ 에서（在）",
+     "극도로": "극도（极度）+ 로（地）",
+     "마른": "마르다（瘦）的定语形",
+     "모델을": "모델（模特）+ 을（宾格）",
+     "고용하는": "고용하다（雇用）的定语形",
+     "것을": "것（事情）+ 을（宾格）",
+     "범죄로": "범죄（犯罪）+ 로（作为，变成）",
+     "만드는": "만들다（使成为）的定语形",
+     "법안을": "법안（法案）+ 을（宾格）",
+     "예비": "预备，初步",
+     "승인했다": "승인하다（批准）的过去式"
+    },
+    "gram": [
+     {
+      "t": "make it + 名词 + 真正主语（it 作形式宾语）",
+      "d": "make it a crime to employ… 中，it 是形式宾语，真正的宾语是后面的 to employ…；a crime 是宾语补足语。意思“使雇用…成为犯罪”。",
+      "ex": [
+       {
+        "en": "The law makes it illegal to drive drunk.",
+        "zh": "法律规定酒驾违法。",
+        "ko": "법은 음주 운전을 불법으로 만든다."
+       },
+       {
+        "en": "I find it hard to wake up early.",
+        "zh": "我觉得早起很难。",
+        "ko": "나는 일찍 일어나는 것이 힘들다고 느낀다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The crime rate in this city has fallen.",
+    "src": "",
+    "zh": "这座城市的犯罪率下降了。",
+    "ko": "이 도시의 범죄율이 떨어졌다.",
+    "g": {
+     "crime": "n. 犯罪 | 범죄",
+     "rate": "n. 比率 | 율",
+     "city": "n. 城市 | 도시",
+     "fallen": "v. 下降（fall 过去分词）| 떨어지다"
+    },
+    "kg": {
+     "이": "这",
+     "도시의": "도시（城市）+ 의（的）",
+     "범죄율이": "범죄율（犯罪率）+ 이（主格）",
+     "떨어졌다": "떨어지다（下降）的过去式"
+    },
+    "gram": [
+     {
+      "t": "现在完成时",
+      "d": "has fallen 是现在完成时（have/has + 过去分词），表示过去发生的变化对现在有影响，强调“现在已经降了”。",
+      "ex": [
+       {
+        "en": "Prices have risen sharply.",
+        "zh": "物价大幅上涨了。",
+        "ko": "물가가 크게 올랐다."
+       },
+       {
+        "en": "She has lost her keys.",
+        "zh": "她把钥匙丢了。",
+        "ko": "그녀는 열쇠를 잃어버렸다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "commit a crime",
+    "zh": "犯罪",
+    "ko": "범죄를 저지르다"
+   },
+   {
+    "en": "crime rate",
+    "zh": "犯罪率",
+    "ko": "범죄율"
+   },
+   {
+    "en": "organized crime",
+    "zh": "有组织犯罪",
+    "ko": "조직 범죄"
+   }
+  ]
+ },
+ {
+  "w": "criminal",
+  "ipa": "/ˈkrɪmɪnl/",
+  "pos": "adj./n.",
+  "zh": "犯罪的；刑事的；罪犯",
+  "ko": "범죄의；형사의；범죄자",
+  "kor": "beomjoeui",
+  "ex": [
+   {
+    "en": "Children engage in criminal behavior because they were not sufficiently penalized for previous misdeeds.",
+    "src": "2004 完形",
+    "zh": "孩子们之所以有犯罪行为，是因为他们之前的过错没有受到足够的惩罚。",
+    "ko": "아이들이 범죄 행위를 하는 것은 이전의 잘못에 대해 충분히 처벌받지 않았기 때문이다.",
+    "g": {
+     "children": "n. 孩子 | 아이들",
+     "engage": "v. 从事（engage in）| 참여하다",
+     "criminal": "adj. 犯罪的 | 범죄의",
+     "behavior": "n. 行为 | 행위",
+     "because": "conj. 因为 | ~때문에",
+     "sufficiently": "adv. 充分地 | 충분히",
+     "penalized": "v. 惩罚（penalize 过去分词）| 처벌하다",
+     "previous": "adj. 以前的 | 이전의",
+     "misdeeds": "n. 过错，坏事 | 잘못"
+    },
+    "kg": {
+     "아이들이": "아이（孩子）+ 들（复数）+ 이（主格）",
+     "범죄": "犯罪",
+     "행위를": "행위（行为）+ 를（宾格）",
+     "하는": "하다（做）的定语形",
+     "것은": "것（事情）+ 은（主题）",
+     "이전의": "이전（以前）+ 의（的）",
+     "잘못에": "잘못（过错）+ 에（对于）",
+     "대해": "대하다（针对）的连接形",
+     "충분히": "充分地",
+     "처벌받지": "처벌받다（受罚）+ -지（否定前接）",
+     "않았기": "않다（不）+ -았기（过去 + 名词化）",
+     "때문이다": "때문（原因）+ 이다（是），“是因为”"
+    },
+    "gram": [
+     {
+      "t": "engage in + 名词",
+      "d": "engage in 表示“从事、参与（某种活动）”。because 引导原因状语从句，其中 were not penalized for… 是被动语态，penalize sb. for sth. 是“因某事惩罚某人”。",
+      "ex": [
+       {
+        "en": "They engage in trade with Asia.",
+        "zh": "他们与亚洲做贸易。",
+        "ko": "그들은 아시아와 무역에 종사한다."
+       },
+       {
+        "en": "He was punished for lying.",
+        "zh": "他因撒谎受到了惩罚。",
+        "ko": "그는 거짓말을 해서 벌을 받았다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The police caught the criminal near the station.",
+    "src": "",
+    "zh": "警察在车站附近抓住了罪犯。",
+    "ko": "경찰은 역 근처에서 범인을 잡았다.",
+    "g": {
+     "police": "n. 警察 | 경찰",
+     "caught": "v. 抓住（catch 过去式）| 잡다",
+     "criminal": "n. 罪犯 | 범인",
+     "near": "prep. 在…附近 | 근처",
+     "station": "n. 车站 | 역"
+    },
+    "kg": {
+     "경찰은": "경찰（警察）+ 은（主题）",
+     "역": "车站",
+     "근처에서": "근처（附近）+ 에서（在）",
+     "범인을": "범인（犯人）+ 을（宾格）",
+     "잡았다": "잡다（抓）的过去式"
+    },
+    "gram": [
+     {
+      "t": "police 作复数名词",
+      "d": "police 指“警方”，虽然形式上没有 s，但谓语要用复数：The police are coming。要说一个警察，用 a police officer。",
+      "ex": [
+       {
+        "en": "The police are investigating the case.",
+        "zh": "警方正在调查此案。",
+        "ko": "경찰이 그 사건을 수사하고 있다."
+       },
+       {
+        "en": "A police officer helped me.",
+        "zh": "一位警察帮了我。",
+        "ko": "경찰관 한 분이 나를 도와주었다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "criminal record",
+    "zh": "犯罪记录",
+    "ko": "범죄 기록"
+   },
+   {
+    "en": "criminal law",
+    "zh": "刑法",
+    "ko": "형법"
+   }
+  ]
+ },
+ {
+  "w": "discriminate",
+  "ipa": "/dɪˈskrɪmɪneɪt/",
+  "pos": "v.",
+  "zh": "歧视；区别对待；辨别",
+  "ko": "차별하다；구별하다",
+  "kor": "chabyeolhada",
+  "ex": [
+   {
+    "en": "The Taylor decision also declared sex discrimination in jury selection to be unconstitutional.",
+    "src": "英语二 2010 阅读 Text 4",
+    "zh": "泰勒案的判决还宣布陪审团遴选中的性别歧视违宪。",
+    "ko": "테일러 판결은 배심원 선정에서의 성차별도 위헌이라고 선언했다.",
+    "g": {
+     "Taylor": "n. 泰勒 | 테일러",
+     "decision": "n. 判决 | 판결",
+     "also": "adv. 也 | 또한",
+     "declared": "v. 宣布（declare 过去式）| 선언하다",
+     "sex": "n. 性别 | 성",
+     "discrimination": "n. 歧视 | 차별",
+     "jury": "n. 陪审团 | 배심원",
+     "selection": "n. 遴选 | 선정",
+     "unconstitutional": "adj. 违宪的 | 위헌인"
+    },
+    "kg": {
+     "테일러": "泰勒",
+     "판결은": "판결（判决）+ 은（主题）",
+     "배심원": "陪审员",
+     "선정에서의": "선정（选定）+ 에서의（在…之中的）",
+     "성차별도": "성차별（性别歧视）+ 도（也）",
+     "위헌이라고": "위헌（违宪）+ 이라고（引用，“说是…”）",
+     "선언했다": "선언하다（宣布）的过去式"
+    },
+    "gram": [
+     {
+      "t": "declare + 宾语 + to be + 形容词",
+      "d": "declare sth. to be… 表示“宣布某事为…”，to be 后面是宾语补足语。discrimination 是 discriminate 的名词形式，常搭配 discrimination against sb.（对某人的歧视）。",
+      "ex": [
+       {
+        "en": "The court declared the law to be invalid.",
+        "zh": "法院宣布该法无效。",
+        "ko": "법원은 그 법이 무효라고 선언했다."
+       },
+       {
+        "en": "The report found discrimination against women.",
+        "zh": "报告发现了对女性的歧视。",
+        "ko": "보고서는 여성에 대한 차별을 확인했다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "It is wrong to discriminate against people because of their age.",
+    "src": "",
+    "zh": "因年龄而歧视他人是错误的。",
+    "ko": "나이 때문에 사람을 차별하는 것은 잘못이다.",
+    "g": {
+     "wrong": "adj. 错误的 | 잘못된",
+     "discriminate": "v. 歧视 | 차별하다",
+     "against": "prep. 反对，针对 | ~에 대해",
+     "people": "n. 人们 | 사람",
+     "because": "conj. 因为 | ~때문에",
+     "age": "n. 年龄 | 나이"
+    },
+    "kg": {
+     "나이": "年龄",
+     "때문에": "因为（接名词后）",
+     "사람을": "사람（人）+ 을（宾格）",
+     "차별하는": "차별하다（歧视）的定语形",
+     "것은": "것（事情）+ 은（主题）",
+     "잘못이다": "잘못（错误）+ 이다（是）"
+    },
+    "gram": [
+     {
+      "t": "It is + 形容词 + to do（形式主语）",
+      "d": "It 是形式主语，真正的主语是后面的 to discriminate…。because of 后面接名词（短语），而 because 后面接句子，两者要区分。",
+      "ex": [
+       {
+        "en": "It is important to sleep well.",
+        "zh": "睡好很重要。",
+        "ko": "잘 자는 것은 중요하다."
+       },
+       {
+        "en": "We stayed in because of the rain.",
+        "zh": "因为下雨我们待在室内。",
+        "ko": "비 때문에 우리는 안에 있었다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "discriminate against",
+    "zh": "歧视",
+    "ko": "~을 차별하다"
+   },
+   {
+    "en": "discriminate between A and B",
+    "zh": "区分 A 和 B",
+    "ko": "A와 B를 구별하다"
+   }
+  ]
+ },
+ {
+  "w": "criticize",
+  "ipa": "/ˈkrɪtɪsaɪz/",
+  "pos": "v.",
+  "zh": "批评；评论；指责",
+  "ko": "비판하다；비평하다",
+  "kor": "bipanhada",
+  "ex": [
+   {
+    "en": "It is fair to criticize and question the mechanism.",
+    "src": "英语一 2014 阅读 Text 3",
+    "zh": "批评并质疑这一机制是合理的。",
+    "ko": "그 메커니즘을 비판하고 의문을 제기하는 것은 정당하다.",
+    "g": {
+     "fair": "adj. 公正的，合理的 | 정당한",
+     "criticize": "v. 批评 | 비판하다",
+     "question": "v. 质疑 | 의문을 제기하다",
+     "mechanism": "n. 机制 | 메커니즘"
+    },
+    "kg": {
+     "그": "那",
+     "메커니즘을": "메커니즘（机制）+ 을（宾格）",
+     "비판하고": "비판하다（批评）+ -고（并列）",
+     "의문을": "의문（疑问）+ 을（宾格）",
+     "제기하는": "제기하다（提出）的定语形",
+     "것은": "것（事情）+ 은（主题）",
+     "정당하다": "정당하다（正当）的陈述形"
+    },
+    "gram": [
+     {
+      "t": "It is fair to do",
+      "d": "It 是形式主语，to criticize and question… 是真正的主语。fair 在这里是“合理的、公平的”。两个动词 criticize 和 question 用 and 并列，共用一个 to。",
+      "ex": [
+       {
+        "en": "It is fair to ask for a refund.",
+        "zh": "要求退款是合理的。",
+        "ko": "환불을 요구하는 것은 정당하다."
+       },
+       {
+        "en": "It is natural to feel nervous.",
+        "zh": "感到紧张很自然。",
+        "ko": "긴장하는 것은 자연스럽다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Don't criticize others before you know the facts.",
+    "src": "",
+    "zh": "在了解事实之前，不要批评别人。",
+    "ko": "사실을 알기 전에는 다른 사람을 비판하지 마라.",
+    "g": {
+     "criticize": "v. 批评 | 비판하다",
+     "others": "n. 别人 | 다른 사람",
+     "before": "conj. 在…之前 | ~전에",
+     "know": "v. 知道 | 알다",
+     "facts": "n. 事实 | 사실"
+    },
+    "kg": {
+     "사실을": "사실（事实）+ 을（宾格）",
+     "알기": "알다（知道）的名词形 -기",
+     "전에는": "전（之前）+ 에는（在…时，强调）",
+     "다른": "别的",
+     "사람을": "사람（人）+ 을（宾格）",
+     "비판하지": "비판하다（批评）+ -지（否定前接）",
+     "마라": "말다（别）的命令形，-지 마라 = 不要…"
+    },
+    "gram": [
+     {
+      "t": "before 引导的时间状语从句",
+      "d": "before 引导从句时，从句用一般现在时表示将来或一般情况（不用 will）。祈使否定句用 Don't + 动词原形。",
+      "ex": [
+       {
+        "en": "Wash your hands before you eat.",
+        "zh": "吃饭前要洗手。",
+        "ko": "먹기 전에 손을 씻어라."
+       },
+       {
+        "en": "Call me before you leave.",
+        "zh": "走之前给我打电话。",
+        "ko": "떠나기 전에 나에게 전화해."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "criticize sb. for sth.",
+    "zh": "因某事批评某人",
+    "ko": "~ 때문에 ~를 비판하다"
+   },
+   {
+    "en": "be criticized for",
+    "zh": "因…受批评",
+    "ko": "~로 비판받다"
+   }
+  ]
+ },
+ {
+  "w": "critic",
+  "ipa": "/ˈkrɪtɪk/",
+  "pos": "n.",
+  "zh": "批评家；评论家；挑剔的人",
+  "ko": "비평가；평론가",
+  "kor": "bipyeongga",
+  "ex": [
+   {
+    "en": "In those far-off days, it was taken for granted that the critics of major papers would write in detail and at length about the events they covered.",
+    "src": "英语一 2010 阅读 Text 1",
+    "zh": "在那些遥远的日子里，人们理所当然地认为，主要报纸的评论家会详细而长篇地报道他们所采访的活动。",
+    "ko": "그 먼 옛날에는 주요 신문의 비평가들이 자신이 다룬 행사에 대해 자세하고 길게 쓰는 것이 당연하게 여겨졌다.",
+    "g": {
+     "far-off": "adj. 遥远的 | 먼",
+     "days": "n. 日子 | 시절",
+     "taken": "v. 视为（take 过去分词）| 여기다",
+     "granted": "adj. 理所当然的 | 당연한",
+     "critics": "n. 评论家 | 비평가",
+     "major": "adj. 主要的 | 주요",
+     "papers": "n. 报纸 | 신문",
+     "write": "v. 写 | 쓰다",
+     "detail": "n. 细节 | 자세함",
+     "length": "n. 长度（at length 详尽地）| 길게",
+     "events": "n. 活动 | 행사",
+     "covered": "v. 报道（cover 过去式）| 다루다"
+    },
+    "kg": {
+     "그": "那",
+     "먼": "멀다（远）的定语形",
+     "옛날에는": "옛날（过去）+ 에는（在…时）",
+     "주요": "主要",
+     "신문의": "신문（报纸）+ 의（的）",
+     "비평가들이": "비평가（评论家）+ 들（复数）+ 이（主格）",
+     "자신이": "자신（自己）+ 이（主格）",
+     "다룬": "다루다（处理，报道）的过去定语形",
+     "행사에": "행사（活动）+ 에（对于）",
+     "대해": "대하다（关于）的连接形",
+     "자세하고": "자세하다（详细）+ -고",
+     "길게": "길다（长）的副词形 -게",
+     "쓰는": "쓰다（写）的定语形",
+     "것이": "것（事情）+ 이（主格）",
+     "당연하게": "당연하다（理所当然）的副词形",
+     "여겨졌다": "여겨지다（被认为）的过去式"
+    },
+    "gram": [
+     {
+      "t": "it was taken for granted that…",
+      "d": "这是形式主语句型：it 是形式主语，that 从句才是真正的主语，take sth. for granted 意为“视…为理所当然”的被动语态。常见类似句型有 it is said / believed / known that…。",
+      "ex": [
+       {
+        "en": "It is believed that exercise improves memory.",
+        "zh": "人们认为锻炼能增强记忆。",
+        "ko": "운동이 기억력을 높인다고 여겨진다."
+       },
+       {
+        "en": "It was taken for granted that he would win.",
+        "zh": "大家都认为他理所当然会赢。",
+        "ko": "그가 이길 것이 당연하게 여겨졌다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The film critic gave the movie five stars.",
+    "src": "",
+    "zh": "这位影评人给这部电影打了五星。",
+    "ko": "영화 평론가는 그 영화에 별 다섯 개를 주었다.",
+    "g": {
+     "film": "n. 电影 | 영화",
+     "critic": "n. 评论家 | 평론가",
+     "gave": "v. 给（give 过去式）| 주다",
+     "movie": "n. 电影 | 영화",
+     "five": "num. 五 | 다섯",
+     "stars": "n. 星 | 별"
+    },
+    "kg": {
+     "영화": "电影",
+     "평론가는": "평론가（评论家）+ 는（主题）",
+     "그": "那",
+     "영화에": "영화（电影）+ 에（给）",
+     "별": "星",
+     "다섯": "五",
+     "개를": "개（个）+ 를（宾格）",
+     "주었다": "주다（给）的过去式"
+    },
+    "gram": [
+     {
+      "t": "give sb. sth.（双宾语）",
+      "d": "give 后面可以接两个宾语：先人后物，give sb. sth.。也可改写为 give sth. to sb.，意思不变。",
+      "ex": [
+       {
+        "en": "He gave me a gift.",
+        "zh": "他给了我一份礼物。",
+        "ko": "그는 나에게 선물을 주었다."
+       },
+       {
+        "en": "She gave a gift to her mother.",
+        "zh": "她把礼物送给妈妈。",
+        "ko": "그녀는 어머니께 선물을 드렸다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "film critic",
+    "zh": "影评人",
+    "ko": "영화 평론가"
+   },
+   {
+    "en": "a harsh critic of",
+    "zh": "……的严厉批评者",
+    "ko": "~의 가혹한 비판자"
+   }
+  ]
+ },
+ {
+  "w": "criteria",
+  "ipa": "/kraɪˈtɪəriə/",
+  "pos": "n.",
+  "zh": "标准；准则（criterion 的复数）",
+  "ko": "기준；척도",
+  "kor": "gijun",
+  "ex": [
+   {
+    "en": "Rather than just focusing on GDP, over 40 different sets of criteria from health, education and civil society engagement have been measured.",
+    "src": "英语一 2017 阅读 Text 3",
+    "zh": "除了只关注 GDP，人们还衡量了涵盖健康、教育和公民社会参与的 40 多套不同标准。",
+    "ko": "단지 GDP에만 초점을 맞추는 대신 건강, 교육, 시민사회 참여에 이르는 40가지가 넘는 서로 다른 기준이 측정되었다.",
+    "g": {
+     "rather": "adv. 而不是（rather than）| ~하기보다",
+     "focusing": "v. 聚焦（focus 现在分词）| 집중하다",
+     "GDP": "n. 国内生产总值 | 국내총생산",
+     "different": "adj. 不同的 | 다른",
+     "sets": "n. 套，组 | 묶음",
+     "criteria": "n. 标准 | 기준",
+     "health": "n. 健康 | 건강",
+     "education": "n. 教育 | 교육",
+     "civil": "adj. 公民的 | 시민의",
+     "society": "n. 社会 | 사회",
+     "engagement": "n. 参与 | 참여",
+     "measured": "v. 衡量（measure 过去分词）| 측정하다"
+    },
+    "kg": {
+     "단지": "只，仅仅",
+     "GDP에만": "GDP + 에（对）+ 만（只）",
+     "초점을": "초점（焦点）+ 을（宾格）",
+     "맞추는": "맞추다（对准）的定语形",
+     "대신": "代替，而不是",
+     "건강": "健康",
+     "교육": "教育",
+     "시민사회": "公民社会",
+     "참여에": "참여（参与）+ 에（到）",
+     "이르는": "이르다（达到）的定语形",
+     "40가지가": "40가지（40 种）+ 가（主格）",
+     "넘는": "넘다（超过）的定语形",
+     "서로": "相互",
+     "다른": "다르다（不同）的定语形",
+     "기준이": "기준（标准）+ 이（主格）",
+     "측정되었다": "측정되다（被测量）的过去式"
+    },
+    "gram": [
+     {
+      "t": "rather than + doing",
+      "d": "rather than 后接 -ing 形式，意思是“而不是…；与其…不如…”。前后结构要平行。criteria 是复数，单数是 criterion，谓语用复数。",
+      "ex": [
+       {
+        "en": "Rather than complain, he acted.",
+        "zh": "他没有抱怨，而是行动了。",
+        "ko": "그는 불평하기보다 행동했다."
+       },
+       {
+        "en": "These criteria are very strict.",
+        "zh": "这些标准非常严格。",
+        "ko": "이 기준들은 매우 엄격하다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "What are the criteria for getting this scholarship?",
+    "src": "",
+    "zh": "获得这笔奖学金的标准是什么？",
+    "ko": "이 장학금을 받기 위한 기준은 무엇입니까?",
+    "g": {
+     "criteria": "n. 标准 | 기준",
+     "getting": "v. 获得 | 받다",
+     "scholarship": "n. 奖学金 | 장학금"
+    },
+    "kg": {
+     "이": "这",
+     "장학금을": "장학금（奖学金）+ 을（宾格）",
+     "받기": "받다（获得）的名词形 -기",
+     "위한": "위하다（为了）的定语形",
+     "기준은": "기준（标准）+ 은（主题）",
+     "무엇입니까": "무엇（什么）+ 입니까（是…吗，敬语疑问）"
+    },
+    "gram": [
+     {
+      "t": "criterion / criteria 单复数",
+      "d": "criterion 是单数，criteria 是复数（源自希腊语）。因此是 one criterion, two criteria；常用 criteria for sth. 表示“…的标准”。",
+      "ex": [
+       {
+        "en": "The main criterion is experience.",
+        "zh": "主要标准是经验。",
+        "ko": "주요 기준은 경험이다."
+       },
+       {
+        "en": "We have three criteria for choosing a leader.",
+        "zh": "我们选领导有三条标准。",
+        "ko": "우리는 리더를 뽑는 세 가지 기준이 있다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "meet the criteria",
+    "zh": "符合标准",
+    "ko": "기준을 충족하다"
+   },
+   {
+    "en": "selection criteria",
+    "zh": "选拔标准",
+    "ko": "선발 기준"
+   }
+  ]
+ },
+ {
+  "w": "critical",
+  "ipa": "/ˈkrɪtɪkl/",
+  "pos": "adj.",
+  "zh": "批评的；关键的；危急的；批判性的",
+  "ko": "비판적인；중요한；위급한",
+  "kor": "bipanjeogin",
+  "ex": [
+   {
+    "en": "Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success.",
+    "src": "2007 阅读 Text 2",
+    "zh": "斯滕伯格指出，传统测试最擅长评估分析能力和语言能力，却无法衡量创造力和实用知识，而这些成分对解决问题和人生成功同样关键。",
+    "ko": "스턴버그는 전통적인 시험이 분석 능력과 언어 능력은 가장 잘 평가하지만, 문제 해결과 인생의 성공에도 중요한 창의성과 실용 지식은 측정하지 못한다고 지적한다.",
+    "g": {
+     "Sternberg": "n. 斯滕伯格 | 스턴버그",
+     "notes": "v. 指出 | 지적하다",
+     "traditional": "adj. 传统的 | 전통적인",
+     "tests": "n. 测试 | 시험",
+     "assess": "v. 评估 | 평가하다",
+     "analytical": "adj. 分析的 | 분석적인",
+     "verbal": "adj. 语言的 | 언어의",
+     "skills": "n. 能力 | 능력",
+     "fail": "v. 未能 | ~하지 못하다",
+     "measure": "v. 衡量 | 측정하다",
+     "creativity": "n. 创造力 | 창의성",
+     "practical": "adj. 实用的 | 실용적인",
+     "knowledge": "n. 知识 | 지식",
+     "components": "n. 组成部分 | 요소",
+     "critical": "adj. 关键的 | 중요한",
+     "problem": "n. 问题 | 문제",
+     "solving": "n. 解决 | 해결",
+     "life": "n. 生活 | 인생",
+     "success": "n. 成功 | 성공"
+    },
+    "kg": {
+     "스턴버그는": "스턴버그（斯滕伯格）+ 는（主题）",
+     "전통적인": "전통적（传统的）+ 인",
+     "시험이": "시험（考试）+ 이（主格）",
+     "분석": "分析",
+     "능력과": "능력（能力）+ 과（和）",
+     "언어": "语言",
+     "능력은": "능력（能力）+ 은（对比）",
+     "가장": "最",
+     "잘": "好地",
+     "평가하지만": "평가하다（评价）+ -지만（但是）",
+     "문제": "问题",
+     "해결과": "해결（解决）+ 과（和）",
+     "인생의": "인생（人生）+ 의（的）",
+     "성공에도": "성공（成功）+ 에도（对…也）",
+     "중요한": "중요하다（重要）的定语形",
+     "창의성과": "창의성（创造性）+ 과（和）",
+     "실용": "实用",
+     "지식은": "지식（知识）+ 은（主题）",
+     "측정하지": "측정하다（测量）+ -지（否定前接）",
+     "못한다고": "못하다（不能）+ -ㄴ다고（引用）",
+     "지적한다": "지적하다（指出）的现在时"
+    },
+    "gram": [
+     {
+      "t": "同位语 components also critical to…",
+      "d": "creativity and practical knowledge 后面的 components also critical to… 是名词性同位语，对前面内容补充说明，省略了 which are。be critical to 意为“对…至关重要”。",
+      "ex": [
+       {
+        "en": "Water is critical to life.",
+        "zh": "水对生命至关重要。",
+        "ko": "물은 생명에 매우 중요하다."
+       },
+       {
+        "en": "Sleep, a factor critical to health, is often ignored.",
+        "zh": "睡眠是对健康至关重要的因素，却常被忽视。",
+        "ko": "건강에 중요한 요소인 수면은 종종 무시된다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Be critical when you read news online.",
+    "src": "",
+    "zh": "在网上读新闻时要有批判性思维。",
+    "ko": "온라인에서 뉴스를 읽을 때는 비판적으로 생각해라.",
+    "g": {
+     "critical": "adj. 批判的 | 비판적인",
+     "read": "v. 读 | 읽다",
+     "news": "n. 新闻 | 뉴스",
+     "online": "adv. 在线 | 온라인"
+    },
+    "kg": {
+     "온라인에서": "온라인（在线）+ 에서（在）",
+     "뉴스를": "뉴스（新闻）+ 를（宾格）",
+     "읽을": "읽다（读）+ -ㄹ（将来定语形）",
+     "때는": "때（时候）+ 는（强调）",
+     "비판적으로": "비판적（批判性的）+ 으로（地）",
+     "생각해라": "생각하다（思考）的命令形 -해라"
+    },
+    "gram": [
+     {
+      "t": "critical 的三种意思",
+      "d": "critical 有三个常见意思：批评的（be critical of sb.）、关键的（critical moment）、危急的（critical condition）。读句子时要靠上下文判断，这里是“有批判性的”。",
+      "ex": [
+       {
+        "en": "She is critical of the plan.",
+        "zh": "她对这个计划持批评态度。",
+        "ko": "그녀는 그 계획에 비판적이다."
+       },
+       {
+        "en": "This is a critical moment.",
+        "zh": "这是关键时刻。",
+        "ko": "지금은 결정적인 순간이다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "critical thinking",
+    "zh": "批判性思维",
+    "ko": "비판적 사고"
+   },
+   {
+    "en": "critical condition",
+    "zh": "危重状态",
+    "ko": "위독한 상태"
+   }
+  ]
+ },
+ {
+  "w": "crucial",
+  "ipa": "/ˈkruːʃl/",
+  "pos": "adj.",
+  "zh": "至关重要的；关键的",
+  "ko": "결정적인；매우 중요한",
+  "kor": "gyeoljeongjeogin",
+  "ex": [
+   {
+    "en": "But acknowledging fire's inevitable presence in human life is an attitude crucial to developing the laws, policies, and practices that make it as safe as possible.",
+    "src": "英语二 2017 阅读 Text 4",
+    "zh": "但承认火在人类生活中不可避免的存在，这种态度对于制定使其尽可能安全的法律、政策和实践至关重要。",
+    "ko": "그러나 불이 인간의 삶에서 피할 수 없이 존재한다는 점을 인정하는 것은 불을 최대한 안전하게 만드는 법과 정책, 관행을 발전시키는 데 중요한 태도이다.",
+    "g": {
+     "acknowledging": "v. 承认 | 인정하다",
+     "fire": "n. 火 | 불",
+     "inevitable": "adj. 不可避免的 | 피할 수 없는",
+     "presence": "n. 存在 | 존재",
+     "human": "adj. 人类的 | 인간의",
+     "life": "n. 生活 | 삶",
+     "attitude": "n. 态度 | 태도",
+     "crucial": "adj. 至关重要的 | 중요한",
+     "developing": "v. 发展，制定 | 발전시키다",
+     "laws": "n. 法律 | 법",
+     "policies": "n. 政策 | 정책",
+     "practices": "n. 做法 | 관행",
+     "safe": "adj. 安全的 | 안전한",
+     "possible": "adj. 可能的 | 가능한"
+    },
+    "kg": {
+     "그러나": "但是",
+     "불이": "불（火）+ 이（主格）",
+     "인간의": "인간（人类）+ 의（的）",
+     "삶에서": "삶（生活）+ 에서（在）",
+     "피할": "피하다（避开）+ -ㄹ（将来定语形）",
+     "수": "可能",
+     "없이": "没有地",
+     "존재한다는": "존재하다（存在）+ -ㄴ다는（引用定语形）",
+     "점을": "점（点，方面）+ 을（宾格）",
+     "인정하는": "인정하다（承认）的定语形",
+     "것은": "것（事情）+ 은（主题）",
+     "불을": "불（火）+ 을（宾格）",
+     "최대한": "尽可能",
+     "안전하게": "안전하다（安全）的副词形",
+     "만드는": "만들다（使…）的定语形",
+     "법과": "법（法律）+ 과（和）",
+     "정책": "政策",
+     "관행을": "관행（惯例）+ 을（宾格）",
+     "발전시키는": "발전시키다（使发展）的定语形",
+     "데": "것（事情），-는 데 表示“在…方面”",
+     "중요한": "중요하다（重要）的定语形",
+     "태도이다": "태도（态度）+ 이다（是）"
+    },
+    "gram": [
+     {
+      "t": "动名词作主语 + as…as possible",
+      "d": "acknowledging… 是动名词短语作主语。make it as safe as possible 中，it 指 fire，as safe as possible = 尽可能安全。attitude crucial to… 中 crucial to 是形容词短语后置修饰 attitude。",
+      "ex": [
+       {
+        "en": "Telling the truth is not easy.",
+        "zh": "说实话并不容易。",
+        "ko": "진실을 말하는 것은 쉽지 않다."
+       },
+       {
+        "en": "Please reply as soon as possible.",
+        "zh": "请尽快回复。",
+        "ko": "가능한 한 빨리 답장해 주세요."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Practice is crucial if you want to learn a language.",
+    "src": "",
+    "zh": "如果你想学一门语言，练习至关重要。",
+    "ko": "언어를 배우고 싶다면 연습이 매우 중요하다.",
+    "g": {
+     "practice": "n. 练习 | 연습",
+     "crucial": "adj. 至关重要的 | 중요한",
+     "want": "v. 想要 | 원하다",
+     "learn": "v. 学习 | 배우다",
+     "language": "n. 语言 | 언어"
+    },
+    "kg": {
+     "언어를": "언어（语言）+ 를（宾格）",
+     "배우고": "배우다（学）+ -고",
+     "싶다면": "싶다（想）+ -다면（如果）",
+     "연습이": "연습（练习）+ 이（主格）",
+     "매우": "非常",
+     "중요하다": "중요하다（重要）的陈述形"
+    },
+    "gram": [
+     {
+      "t": "if 条件状语从句",
+      "d": "if you want to… 是条件状语从句，从句用一般现在时，主句可用一般现在时表示一般规律。",
+      "ex": [
+       {
+        "en": "If it rains, we stay home.",
+        "zh": "如果下雨，我们就待在家里。",
+        "ko": "비가 오면 우리는 집에 있다."
+       },
+       {
+        "en": "If you heat ice, it melts.",
+        "zh": "冰加热就会融化。",
+        "ko": "얼음을 가열하면 녹는다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "crucial role",
+    "zh": "关键作用",
+    "ko": "결정적인 역할"
+   },
+   {
+    "en": "crucial to",
+    "zh": "对……至关重要",
+    "ko": "~에 매우 중요한"
+   }
+  ]
+ },
+ {
+  "w": "culture",
+  "ipa": "/ˈkʌltʃə(r)/",
+  "pos": "n.",
+  "zh": "文化；文明；培养；（微生物）培养物",
+  "ko": "문화",
+  "kor": "munhwa",
+  "ex": [
+   {
+    "en": "People are absorbed into a culture of consumption, launched by the 19th-century department stores that offered vast arrays of goods in an elegant atmosphere.",
+    "src": "2006 阅读 Text 1",
+    "zh": "人们被卷入一种消费文化，它由19世纪的百货商店发起，那些商店在优雅的氛围中提供琳琅满目的商品。",
+    "ko": "사람들은 19세기 백화점이 시작한 소비 문화에 빠져든다. 그 백화점들은 우아한 분위기 속에서 방대한 상품을 진열했다.",
+    "g": {
+     "people": "n. 人们 | 사람들",
+     "absorbed": "v. 吸收，沉浸（absorb 过去分词）| 빠져들다",
+     "culture": "n. 文化 | 문화",
+     "consumption": "n. 消费 | 소비",
+     "launched": "v. 发起（launch 过去分词）| 시작하다",
+     "century": "n. 世纪 | 세기",
+     "department": "n. 部门（department store 百货商店）| 백화점",
+     "stores": "n. 商店 | 상점",
+     "offered": "v. 提供 | 제공하다",
+     "vast": "adj. 巨大的 | 방대한",
+     "arrays": "n. 一系列 | 다양한 진열",
+     "goods": "n. 商品 | 상품",
+     "elegant": "adj. 优雅的 | 우아한",
+     "atmosphere": "n. 氛围 | 분위기"
+    },
+    "kg": {
+     "사람들은": "사람（人）+ 들（复数）+ 은（主题）",
+     "19세기": "19世纪",
+     "백화점이": "백화점（百货商店）+ 이（主格）",
+     "시작한": "시작하다（开始）的过去定语形",
+     "소비": "消费",
+     "문화에": "문화（文化）+ 에（到，里）",
+     "빠져든다": "빠져들다（沉迷、陷入）的现在时",
+     "그": "那",
+     "백화점들은": "백화점（百货商店）+ 들 + 은",
+     "우아한": "우아하다（优雅）的定语形",
+     "분위기": "氛围",
+     "속에서": "속（里面）+ 에서（在）",
+     "방대한": "방대하다（庞大）的定语形",
+     "상품을": "상품（商品）+ 을（宾格）",
+     "진열했다": "진열하다（陈列）的过去式"
+    },
+    "gram": [
+     {
+      "t": "过去分词短语作后置定语 + 定语从句",
+      "d": "launched by… 是过去分词短语，后置修饰 culture of consumption，相当于 which was launched by…。后面 that offered… 是定语从句，修饰 department stores。",
+      "ex": [
+       {
+        "en": "The book written by him is popular.",
+        "zh": "他写的那本书很受欢迎。",
+        "ko": "그가 쓴 책은 인기가 많다."
+       },
+       {
+        "en": "I like the shop that sells old books.",
+        "zh": "我喜欢那家卖旧书的店。",
+        "ko": "나는 헌책을 파는 가게를 좋아한다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Learning about another culture can be great fun.",
+    "src": "",
+    "zh": "了解另一种文化会非常有趣。",
+    "ko": "다른 문화에 대해 배우는 것은 정말 재미있을 수 있다.",
+    "g": {
+     "learning": "n. 学习 | 배우기",
+     "another": "det. 另一个 | 다른",
+     "culture": "n. 文化 | 문화",
+     "great": "adj. 很大的 | 큰",
+     "fun": "n. 乐趣 | 재미"
+    },
+    "kg": {
+     "다른": "别的",
+     "문화에": "문화（文化）+ 에（对于）",
+     "대해": "대하다（关于）的连接形",
+     "배우는": "배우다（学习）的定语形",
+     "것은": "것（事情）+ 은（主题）",
+     "정말": "真的",
+     "재미있을": "재미있다（有趣）+ -ㄹ（将来定语形）",
+     "수": "可能",
+     "있다": "있다，-ㄹ 수 있다 = 能够/可能"
+    },
+    "gram": [
+     {
+      "t": "动名词短语作主语",
+      "d": "Learning about another culture 是动名词短语作主语，动名词带宾语/状语时整体当作单数，谓语用单数形式（can be 不受人称影响）。",
+      "ex": [
+       {
+        "en": "Swimming every day keeps me fit.",
+        "zh": "每天游泳使我保持健康。",
+        "ko": "매일 수영하는 것은 나를 건강하게 유지해 준다."
+       },
+       {
+        "en": "Reading widely helps you write well.",
+        "zh": "广泛阅读有助于写好文章。",
+        "ko": "폭넓게 읽는 것은 글을 잘 쓰는 데 도움이 된다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "popular culture",
+    "zh": "流行文化",
+    "ko": "대중문화"
+   },
+   {
+    "en": "culture shock",
+    "zh": "文化冲击",
+    "ko": "문화 충격"
+   }
+  ]
+ },
+ {
+  "w": "cultivate",
+  "ipa": "/ˈkʌltɪveɪt/",
+  "pos": "v.",
+  "zh": "培养；耕种；栽培；结交",
+  "ko": "기르다；재배하다；함양하다",
+  "kor": "gireuda",
+  "ex": [
+   {
+    "en": "They gave justices permanent positions so they would be free to upset those in power and have no need to cultivate political support.",
+    "src": "英语一 2012 完形",
+    "zh": "他们给予法官终身职位，这样法官就可以自由地得罪当权者，而无需培植政治上的支持。",
+    "ko": "그들은 대법관에게 종신직을 주어 권력자를 거스르는 것이 자유롭고 정치적 지지를 쌓을 필요가 없게 했다.",
+    "g": {
+     "gave": "v. 给予（give 过去式）| 주다",
+     "justices": "n. 法官 | 대법관",
+     "permanent": "adj. 永久的 | 종신의",
+     "positions": "n. 职位 | 직책",
+     "free": "adj. 自由的 | 자유로운",
+     "upset": "v. 使不快，得罪 | 거스르다",
+     "power": "n. 权力 | 권력",
+     "need": "n. 需要 | 필요",
+     "cultivate": "v. 培养，拉拢 | 쌓다",
+     "political": "adj. 政治的 | 정치적",
+     "support": "n. 支持 | 지지"
+    },
+    "kg": {
+     "그들은": "他们 + 은（主题）",
+     "대법관에게": "대법관（大法官）+ 에게（给）",
+     "종신직을": "종신직（终身职）+ 을（宾格）",
+     "주어": "주다（给）的连接形 -어",
+     "권력자를": "권력자（有权者）+ 를（宾格）",
+     "거스르는": "거스르다（违逆）的定语形",
+     "것이": "것（事情）+ 이（主格）",
+     "자유롭고": "자유롭다（自由）+ -고",
+     "정치적": "政治性的",
+     "지지를": "지지（支持）+ 를（宾格）",
+     "쌓을": "쌓다（积累）+ -ㄹ（将来定语形）",
+     "필요가": "필요（必要）+ 가（主格）",
+     "없게": "없다（没有）的副词形 -게，表示“使…没有”",
+     "했다": "하다（做）的过去式，-게 하다 = 使…"
+    },
+    "gram": [
+     {
+      "t": "so + would 表目的",
+      "d": "so they would be free to… 中 so 引导目的状语从句，意思是“以便…”，从句动词常用 would/could/can，对应主句过去时。those in power 指“当权者”（those + 介词短语）。",
+      "ex": [
+       {
+        "en": "She left early so she could catch the bus.",
+        "zh": "她早早出门，以便赶上公交车。",
+        "ko": "그녀는 버스를 타려고 일찍 나갔다."
+       },
+       {
+        "en": "Respect those in need.",
+        "zh": "要尊重有需要的人。",
+        "ko": "어려운 사람들을 존중하라."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Reading daily can cultivate a good habit.",
+    "src": "",
+    "zh": "每天阅读可以培养好习惯。",
+    "ko": "매일 책을 읽으면 좋은 습관을 기를 수 있다.",
+    "g": {
+     "reading": "n. 阅读 | 독서",
+     "daily": "adv. 每天 | 매일",
+     "cultivate": "v. 培养 | 기르다",
+     "good": "adj. 好的 | 좋은",
+     "habit": "n. 习惯 | 습관"
+    },
+    "kg": {
+     "매일": "每天",
+     "책을": "책（书）+ 을（宾格）",
+     "읽으면": "읽다（读）+ -으면（如果）",
+     "좋은": "좋다（好）的定语形",
+     "습관을": "습관（习惯）+ 을（宾格）",
+     "기를": "기르다（培养）+ -ㄹ（将来定语形）",
+     "수": "可能",
+     "있다": "있다，-ㄹ 수 있다 = 能够"
+    },
+    "gram": [
+     {
+      "t": "cultivate 的引申义",
+      "d": "cultivate 本义是“耕种”，引申为“培养（习惯、能力、关系）”。后面常接 habit, skill, relationship, taste 等抽象名词。",
+      "ex": [
+       {
+        "en": "He cultivated a taste for jazz.",
+        "zh": "他培养了对爵士乐的品味。",
+        "ko": "그는 재즈에 대한 취향을 길렀다."
+       },
+       {
+        "en": "Cultivate good relationships at work.",
+        "zh": "在工作中要建立良好的关系。",
+        "ko": "직장에서 좋은 관계를 쌓아라."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "cultivate a habit",
+    "zh": "养成习惯",
+    "ko": "습관을 기르다"
+   },
+   {
+    "en": "cultivate land",
+    "zh": "耕种土地",
+    "ko": "땅을 경작하다"
+   }
+  ]
+ },
+ {
+  "w": "colony",
+  "ipa": "/ˈkɒləni/",
+  "pos": "n.",
+  "zh": "殖民地；侨民群；（动物）群体",
+  "ko": "식민지；집단",
+  "kor": "singminji",
+  "ex": [
+   {
+    "en": "The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.",
+    "src": "2009 阅读 Text 4",
+    "zh": "新英格兰殖民地是人们追求广为人知的文明与才艺理想过程中重要事件的发生地。",
+    "ko": "뉴잉글랜드 식민지들은 널리 알려진 예절과 기량의 이상을 추구하는 과정에서 중요한 사건들이 일어난 무대였다.",
+    "g": {
+     "England": "n. 英格兰 | 잉글랜드",
+     "colonies": "n. 殖民地 | 식민지",
+     "scenes": "n. 场景，发生地 | 무대",
+     "important": "adj. 重要的 | 중요한",
+     "episodes": "n. 事件 | 사건",
+     "pursuit": "n. 追求 | 추구",
+     "widely": "adv. 广泛地 | 널리",
+     "understood": "v. 理解（understand 过去分词）| 알려진",
+     "ideals": "n. 理想 | 이상",
+     "civility": "n. 礼貌，文明 | 예절",
+     "virtuosity": "n. 精湛技艺 | 기량"
+    },
+    "kg": {
+     "뉴잉글랜드": "新英格兰",
+     "식민지들은": "식민지（殖民地）+ 들（复数）+ 은（主题）",
+     "널리": "广泛地",
+     "알려진": "알려지다（被知道）的定语形",
+     "예절과": "예절（礼节）+ 과（和）",
+     "기량의": "기량（才能）+ 의（的）",
+     "이상을": "이상（理想）+ 을（宾格）",
+     "추구하는": "추구하다（追求）的定语形",
+     "과정에서": "과정（过程）+ 에서（在）",
+     "중요한": "중요하다（重要）的定语形",
+     "사건들이": "사건（事件）+ 들 + 이（主格）",
+     "일어난": "일어나다（发生）的过去定语形",
+     "무대였다": "무대（舞台）+ 였다（是，过去式）"
+    },
+    "gram": [
+     {
+      "t": "the pursuit of / scene of",
+      "d": "the pursuit of… 表示“对…的追求”，of 后接追求的对象。the scenes of… 指“…发生的地点”。understood 是过去分词作定语，修饰 ideals，意为“被广泛理解的”。",
+      "ex": [
+       {
+        "en": "The pursuit of happiness is natural.",
+        "zh": "追求幸福是自然的。",
+        "ko": "행복을 추구하는 것은 자연스럽다."
+       },
+       {
+        "en": "The square was the scene of the protest.",
+        "zh": "那个广场是抗议活动的发生地。",
+        "ko": "그 광장은 시위가 일어난 곳이었다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Korea was a Japanese colony for 35 years.",
+    "src": "",
+    "zh": "韩国曾有35年是日本的殖民地。",
+    "ko": "한국은 35년 동안 일본의 식민지였다.",
+    "g": {
+     "Korea": "n. 韩国 | 한국",
+     "Japanese": "adj. 日本的 | 일본의",
+     "colony": "n. 殖民地 | 식민지",
+     "years": "n. 年 | 년"
+    },
+    "kg": {
+     "한국은": "한국（韩国）+ 은（主题）",
+     "35년": "35年",
+     "동안": "期间",
+     "일본의": "일본（日本）+ 의（的）",
+     "식민지였다": "식민지（殖民地）+ 였다（是，过去式）"
+    },
+    "gram": [
+     {
+      "t": "for + 时间段",
+      "d": "for 后接一段时间，表示“持续了多久”，如 for 35 years。注意和 since + 起点时间区分。",
+      "ex": [
+       {
+        "en": "I lived there for two years.",
+        "zh": "我在那儿住了两年。",
+        "ko": "나는 거기서 2년 동안 살았다."
+       },
+       {
+        "en": "She has waited for an hour.",
+        "zh": "她已经等了一小时。",
+        "ko": "그녀는 한 시간 동안 기다렸다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "colonial rule",
+    "zh": "殖民统治",
+    "ko": "식민 통치"
+   },
+   {
+    "en": "ant colony",
+    "zh": "蚁群",
+    "ko": "개미 군집"
+   }
+  ]
+ },
+ {
+  "w": "accurate",
+  "ipa": "/ˈækjərət/",
+  "pos": "adj.",
+  "zh": "准确的；精确的",
+  "ko": "정확한",
+  "kor": "jeonghwakan",
+  "ex": [
+   {
+    "en": "Accurate data is the foundation of any reliable scientific study.",
+    "src": "",
+    "zh": "准确的数据是任何可靠科学研究的基础。",
+    "ko": "정확한 데이터는 모든 신뢰할 만한 과학 연구의 토대이다.",
+    "g": {
+     "accurate": "adj. 准确的 | 정확한",
+     "data": "n. 数据 | 데이터",
+     "foundation": "n. 基础 | 토대",
+     "reliable": "adj. 可靠的 | 신뢰할 만한",
+     "scientific": "adj. 科学的 | 과학적인",
+     "study": "n. 研究 | 연구"
+    },
+    "kg": {
+     "정확한": "정확하다（准确）的定语形",
+     "데이터는": "데이터（数据）+ 는（主题）",
+     "모든": "所有的",
+     "신뢰할": "신뢰하다（信赖）+ -ㄹ（将来定语形）",
+     "만한": "만하다（值得）的定语形",
+     "과학": "科学",
+     "연구의": "연구（研究）+ 의（的）",
+     "토대이다": "토대（基础）+ 이다（是）"
+    },
+    "gram": [
+     {
+      "t": "any + 单数名词",
+      "d": "any 接单数可数名词，表示“任何一个”，强调不论哪一个都如此。",
+      "ex": [
+       {
+        "en": "Any student can join the club.",
+        "zh": "任何学生都可以加入俱乐部。",
+        "ko": "어떤 학생이든 동아리에 가입할 수 있다."
+       },
+       {
+        "en": "Any plan needs money.",
+        "zh": "任何计划都需要钱。",
+        "ko": "어떤 계획이든 돈이 필요하다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The map is accurate, so we will not get lost.",
+    "src": "",
+    "zh": "这张地图很准确，所以我们不会迷路。",
+    "ko": "지도가 정확해서 우리는 길을 잃지 않을 것이다.",
+    "g": {
+     "map": "n. 地图 | 지도",
+     "accurate": "adj. 准确的 | 정확한",
+     "lost": "adj. 迷路的 | 길을 잃은",
+     "get": "v. 变得 | 되다"
+    },
+    "kg": {
+     "지도가": "지도（地图）+ 가（主格）",
+     "정확해서": "정확하다（准确）+ -해서（因为）",
+     "우리는": "우리（我们）+ 는",
+     "길을": "길（路）+ 을（宾格）",
+     "잃지": "잃다（丢失）+ -지（否定前接）",
+     "않을": "않다（不）+ -을（将来定语形）",
+     "것이다": "것（事）+ 이다，-ㄹ 것이다 = 将会"
+    },
+    "gram": [
+     {
+      "t": "get + 形容词（变得）",
+      "d": "get lost = 迷路，get 后接形容词表示“变得/处于…状态”。",
+      "ex": [
+       {
+        "en": "Don't get angry.",
+        "zh": "别生气。",
+        "ko": "화내지 마."
+       },
+       {
+        "en": "It gets cold at night.",
+        "zh": "夜里会变冷。",
+        "ko": "밤에는 추워진다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "accurate information",
+    "zh": "准确的信息",
+    "ko": "정확한 정보"
+   },
+   {
+    "en": "an accurate prediction",
+    "zh": "准确的预测",
+    "ko": "정확한 예측"
+   }
+  ]
+ },
+ {
+  "w": "incur",
+  "ipa": "/ɪnˈkɜː(r)/",
+  "pos": "v.",
+  "zh": "招致；遭受；承担（费用、损失）",
+  "ko": "초래하다；(비용 등을) 입다",
+  "kor": "chorae-hada",
+  "ex": [
+   {
+    "en": "Companies that ignore safety rules may incur heavy fines and lose public trust.",
+    "src": "",
+    "zh": "无视安全规定的公司可能会招致巨额罚款，并失去公众的信任。",
+    "ko": "안전 규정을 무시하는 회사는 막대한 벌금을 물고 대중의 신뢰를 잃을 수 있다.",
+    "g": {
+     "companies": "n. 公司 | 회사",
+     "ignore": "v. 无视 | 무시하다",
+     "safety": "n. 安全 | 안전",
+     "rules": "n. 规定 | 규정",
+     "may": "modal 可能 | ~할 수 있다",
+     "incur": "v. 招致，承担 | 입다",
+     "heavy": "adj. 沉重的，巨额的 | 막대한",
+     "fines": "n. 罚款 | 벌금",
+     "lose": "v. 失去 | 잃다",
+     "public": "adj. 公众的 | 대중의",
+     "trust": "n. 信任 | 신뢰"
+    },
+    "kg": {
+     "안전": "安全",
+     "규정을": "규정（规定）+ 을（宾格）",
+     "무시하는": "무시하다（无视）的定语形",
+     "회사는": "회사（公司）+ 는（主题）",
+     "막대한": "막대하다（巨大）的定语形",
+     "벌금을": "벌금（罚款）+ 을（宾格）",
+     "물고": "물다（赔付，咬）+ -고",
+     "대중의": "대중（大众）+ 의（的）",
+     "신뢰를": "신뢰（信任）+ 를（宾格）",
+     "잃을": "잃다（失去）+ -ㄹ（将来定语形）",
+     "수": "可能",
+     "있다": "있다，-ㄹ 수 있다 = 可能"
+    },
+    "gram": [
+     {
+      "t": "that 引导定语从句 + 并列谓语",
+      "d": "that ignore safety rules 修饰 Companies；may 后面用 and 并列两个动词原形 incur… and lose…。incur 常搭配 cost, loss, debt, fine, anger 等消极名词。",
+      "ex": [
+       {
+        "en": "He incurred a huge debt.",
+        "zh": "他背上了巨额债务。",
+        "ko": "그는 막대한 빚을 졌다."
+       },
+       {
+        "en": "Her words incurred their anger.",
+        "zh": "她的话招来了他们的愤怒。",
+        "ko": "그녀의 말은 그들의 분노를 샀다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "You will incur extra charges if you cancel late.",
+    "src": "",
+    "zh": "如果你晚取消，会产生额外费用。",
+    "ko": "늦게 취소하면 추가 요금이 발생한다.",
+    "g": {
+     "incur": "v. 招致，产生 | 발생하다",
+     "extra": "adj. 额外的 | 추가의",
+     "charges": "n. 费用 | 요금",
+     "cancel": "v. 取消 | 취소하다",
+     "late": "adv. 晚 | 늦게"
+    },
+    "kg": {
+     "늦게": "晚地",
+     "취소하면": "취소하다（取消）+ -면（如果）",
+     "추가": "追加",
+     "요금이": "요금（费用）+ 이（主格）",
+     "발생한다": "발생하다（发生）的现在时"
+    },
+    "gram": [
+     {
+      "t": "if 条件句与 will",
+      "d": "if 从句用一般现在时表示将来，主句用 will。不要在 if 从句里写 will cancel。",
+      "ex": [
+       {
+        "en": "If it rains, I will stay home.",
+        "zh": "如果下雨，我就待在家。",
+        "ko": "비가 오면 나는 집에 있을 것이다."
+       },
+       {
+        "en": "If you study, you will pass.",
+        "zh": "你学习的话就会通过。",
+        "ko": "공부하면 합격할 것이다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "incur costs",
+    "zh": "产生费用",
+    "ko": "비용이 발생하다"
+   },
+   {
+    "en": "incur losses",
+    "zh": "蒙受损失",
+    "ko": "손실을 입다"
+   }
+  ]
+ },
+ {
+  "w": "current",
+  "ipa": "/ˈkʌrənt/",
+  "pos": "adj./n.",
+  "zh": "当前的；通用的；水流；电流；趋势",
+  "ko": "현재의；흐름；전류",
+  "kor": "hyeonjaeui",
+  "ex": [
+   {
+    "en": "The current emphasis on standardized testing highlights analysis and procedure.",
+    "src": "2009 阅读 Text 1",
+    "zh": "当前对标准化考试的强调突出了分析和程序。",
+    "ko": "표준화 시험에 대한 현재의 강조는 분석과 절차를 부각시킨다.",
+    "g": {
+     "current": "adj. 当前的 | 현재의",
+     "emphasis": "n. 强调 | 강조",
+     "standardized": "adj. 标准化的 | 표준화된",
+     "testing": "n. 测试 | 시험",
+     "highlights": "v. 突出 | 부각시키다",
+     "analysis": "n. 分析 | 분석",
+     "procedure": "n. 程序 | 절차"
+    },
+    "kg": {
+     "표준화": "标准化",
+     "시험에": "시험（考试）+ 에（对）",
+     "대한": "대하다（关于）的定语形",
+     "현재의": "현재（现在）+ 의（的）",
+     "강조는": "강조（强调）+ 는（主题）",
+     "분석과": "분석（分析）+ 과（和）",
+     "절차를": "절차（程序）+ 를（宾格）",
+     "부각시킨다": "부각시키다（使突出）的现在时"
+    },
+    "gram": [
+     {
+      "t": "emphasis on",
+      "d": "emphasis on sth. = 对某事的强调，介词用 on。highlights 是谓语动词（三单），主语是 The current emphasis…。",
+      "ex": [
+       {
+        "en": "The school puts emphasis on reading.",
+        "zh": "学校强调阅读。",
+        "ko": "그 학교는 독서를 강조한다."
+       },
+       {
+        "en": "The report highlights several problems.",
+        "zh": "报告突出了几个问题。",
+        "ko": "보고서는 몇 가지 문제를 부각한다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The current in this river is very strong.",
+    "src": "",
+    "zh": "这条河的水流很急。",
+    "ko": "이 강의 물살은 매우 세다.",
+    "g": {
+     "current": "n. 水流 | 물살",
+     "river": "n. 河 | 강",
+     "strong": "adj. 强的 | 센"
+    },
+    "kg": {
+     "이": "这",
+     "강의": "강（河）+ 의（的）",
+     "물살은": "물살（水流）+ 은（主题）",
+     "매우": "非常",
+     "세다": "세다（强劲）的陈述形"
+    },
+    "gram": [
+     {
+      "t": "current 作形容词与名词",
+      "d": "current 作形容词时表示“当前的”（current situation），作名词时可指“水流、电流”或“趋势”。注意与 currency（货币）区分。",
+      "ex": [
+       {
+        "en": "The current situation is serious.",
+        "zh": "当前形势很严峻。",
+        "ko": "현재 상황은 심각하다."
+       },
+       {
+        "en": "An electric current flows through the wire.",
+        "zh": "电流流过电线。",
+        "ko": "전류가 전선을 따라 흐른다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "current affairs",
+    "zh": "时事",
+    "ko": "시사"
+   },
+   {
+    "en": "current situation",
+    "zh": "当前形势",
+    "ko": "현재 상황"
+   }
+  ]
+ },
+ {
+  "w": "secure",
+  "ipa": "/sɪˈkjʊə(r)/",
+  "pos": "adj./v.",
+  "zh": "安全的；稳固的；获得；保护",
+  "ko": "안전한；확보하다",
+  "kor": "anjeonhan",
+  "ex": [
+   {
+    "en": "The American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realities.",
+    "src": "2007 阅读 Text 3",
+    "zh": "曾经能靠勤奋和公平竞争保持经济安稳的美国中产家庭，已被经济风险和新的现实所改变。",
+    "ko": "한때 근면과 공정한 경쟁으로 재정적 안정을 유지할 수 있었던 미국 중산층 가정은 경제적 위험과 새로운 현실로 인해 바뀌었다.",
+    "g": {
+     "American": "adj. 美国的 | 미국의",
+     "middle-class": "adj. 中产阶级的 | 중산층",
+     "family": "n. 家庭 | 가정",
+     "once": "adv. 曾经 | 한때",
+     "count": "v. 依靠（count on）| 의지하다",
+     "hard": "adj. 努力的 | 열심히 하는",
+     "work": "n. 工作 | 노동",
+     "fair": "adj. 公平的 | 공정한",
+     "play": "n. 竞争，比赛 | 경쟁",
+     "keep": "v. 保持 | 유지하다",
+     "financially": "adv. 经济上 | 재정적으로",
+     "secure": "adj. 安稳的 | 안정된",
+     "transformed": "v. 改变（transform 过去分词）| 바뀌다",
+     "economic": "adj. 经济的 | 경제적인",
+     "risk": "n. 风险 | 위험",
+     "realities": "n. 现实 | 현실"
+    },
+    "kg": {
+     "한때": "一度，曾经",
+     "근면과": "근면（勤勉）+ 과（和）",
+     "공정한": "공정하다（公正）的定语形",
+     "경쟁으로": "경쟁（竞争）+ 으로（凭借）",
+     "재정적": "财政上的",
+     "안정을": "안정（稳定）+ 을（宾格）",
+     "유지할": "유지하다（维持）+ -ㄹ（将来定语形）",
+     "수": "可能",
+     "있었던": "있다（有）的过去定语形 -었던",
+     "미국": "美国",
+     "중산층": "中产阶层",
+     "가정은": "가정（家庭）+ 은（主题）",
+     "경제적": "经济的",
+     "위험과": "위험（风险）+ 과（和）",
+     "새로운": "새롭다（新）的定语形",
+     "현실로": "현실（现实）+ 로（因…）",
+     "인해": "인하다（由于）的连接形",
+     "바뀌었다": "바뀌다（被改变）的过去式"
+    },
+    "gram": [
+     {
+      "t": "count on + 名词 + to do",
+      "d": "count on sth. to do 意为“依靠…来做某事”。keep itself financially secure 是 keep + 宾语 + 形容词（宾补）结构，意为“使自己保持经济安稳”。has been transformed 是现在完成时被动语态。",
+      "ex": [
+       {
+        "en": "You can count on me to help.",
+        "zh": "你可以指望我帮忙。",
+        "ko": "나를 믿고 도움을 청해도 돼."
+       },
+       {
+        "en": "Keep the door closed.",
+        "zh": "把门关着。",
+        "ko": "문을 닫아 둬라."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "It took months to secure a loan from the bank.",
+    "src": "",
+    "zh": "花了好几个月才从银行获得贷款。",
+    "ko": "은행에서 대출을 받아 내는 데 몇 달이 걸렸다.",
+    "g": {
+     "took": "v. 花费（take 过去式）| 걸리다",
+     "months": "n. 月 | 달",
+     "secure": "v. 获得，确保 | 확보하다",
+     "loan": "n. 贷款 | 대출",
+     "bank": "n. 银行 | 은행"
+    },
+    "kg": {
+     "은행에서": "은행（银行）+ 에서（从）",
+     "대출을": "대출（贷款）+ 을（宾格）",
+     "받아": "받다（接受）的连接形",
+     "내는": "내다（做成）的定语形，-아/어 내다 = 做成",
+     "데": "것，-는 데 = 在…方面",
+     "몇": "几",
+     "달이": "달（月）+ 이（主格）",
+     "걸렸다": "걸리다（花时间）的过去式"
+    },
+    "gram": [
+     {
+      "t": "secure 作动词是熟词僻义",
+      "d": "secure 常见义是形容词“安全的”，但考研常考动词义“获得、取得；保护”：secure a job / secure funding。",
+      "ex": [
+       {
+        "en": "She secured a place at Harvard.",
+        "zh": "她获得了哈佛的一个名额。",
+        "ko": "그녀는 하버드에 입학 자리를 확보했다."
+       },
+       {
+        "en": "We need to secure the building.",
+        "zh": "我们需要保障这栋楼的安全。",
+        "ko": "우리는 건물을 안전하게 지켜야 한다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "secure a job",
+    "zh": "谋得一份工作",
+    "ko": "일자리를 얻다"
+   },
+   {
+    "en": "financially secure",
+    "zh": "经济上有保障",
+    "ko": "재정적으로 안정된"
+   }
+  ]
+ },
+ {
+  "w": "calorie",
+  "ipa": "/ˈkæləri/",
+  "pos": "n.",
+  "zh": "卡路里（热量单位）",
+  "ko": "칼로리",
+  "kor": "kallori",
+  "ex": [
+   {
+    "en": "The company is seeking effective ways to cut calorie intake.",
+    "src": "英语二 2021 阅读 Text 2（改编）",
+    "zh": "该公司正在寻找有效的方法来减少热量摄入。",
+    "ko": "그 회사는 열량 섭취를 줄일 효과적인 방법을 찾고 있다.",
+    "g": {
+     "company": "n. 公司 | 회사",
+     "seeking": "v. 寻找 | 찾다",
+     "effective": "adj. 有效的 | 효과적인",
+     "ways": "n. 方法 | 방법",
+     "cut": "v. 削减 | 줄이다",
+     "calorie": "n. 卡路里 | 칼로리",
+     "intake": "n. 摄入量 | 섭취"
+    },
+    "kg": {
+     "그": "那",
+     "회사는": "회사（公司）+ 는（主题）",
+     "열량": "热量",
+     "섭취를": "섭취（摄取）+ 를（宾格）",
+     "줄일": "줄이다（减少）+ -ㄹ（将来定语形）",
+     "효과적인": "효과적（有效的）+ 인",
+     "방법을": "방법（方法）+ 을（宾格）",
+     "찾고": "찾다（寻找）+ -고",
+     "있다": "있다，-고 있다 = 正在"
+    },
+    "gram": [
+     {
+      "t": "现在进行时 + 不定式后置定语",
+      "d": "is seeking 是现在进行时，表示正在进行。ways to cut… 中不定式 to cut 作后置定语，修饰 ways。",
+      "ex": [
+       {
+        "en": "She is looking for a way to relax.",
+        "zh": "她正在找放松的方法。",
+        "ko": "그녀는 긴장을 풀 방법을 찾고 있다."
+       },
+       {
+        "en": "We need a plan to save money.",
+        "zh": "我们需要一个省钱的计划。",
+        "ko": "우리는 돈을 아낄 계획이 필요하다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "One slice of cake has about 300 calories.",
+    "src": "",
+    "zh": "一块蛋糕大约有300卡路里。",
+    "ko": "케이크 한 조각에는 약 300칼로리가 들어 있다.",
+    "g": {
+     "slice": "n. 一片 | 조각",
+     "cake": "n. 蛋糕 | 케이크",
+     "has": "v. 有 | 있다",
+     "about": "adv. 大约 | 약",
+     "calories": "n. 卡路里 | 칼로리"
+    },
+    "kg": {
+     "케이크": "蛋糕",
+     "한": "一",
+     "조각에는": "조각（片）+ 에는（在…里，强调）",
+     "약": "大约",
+     "300칼로리가": "300卡路里 + 가（主格）",
+     "들어": "들다（含有）的连接形",
+     "있다": "있다，-어 있다 = 处于状态"
+    },
+    "gram": [
+     {
+      "t": "about 作副词表约数",
+      "d": "about 放在数字前表示“大约”，相当于 around、roughly。作介词时表示“关于”，要根据位置判断。",
+      "ex": [
+       {
+        "en": "It costs about ten dollars.",
+        "zh": "这大约要十美元。",
+        "ko": "그것은 약 10달러이다."
+       },
+       {
+        "en": "We talked about our plans.",
+        "zh": "我们谈论了我们的计划。",
+        "ko": "우리는 계획에 대해 이야기했다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "burn calories",
+    "zh": "燃烧卡路里",
+    "ko": "칼로리를 태우다"
+   },
+   {
+    "en": "low-calorie",
+    "zh": "低热量的",
+    "ko": "저칼로리의"
+   }
+  ]
+ },
+ {
+  "w": "canteen",
+  "ipa": "/kænˈtiːn/",
+  "pos": "n.",
+  "zh": "食堂；餐厅；（军队）小卖部",
+  "ko": "구내식당",
+  "kor": "gunaesikdang",
+  "ex": [
+   {
+    "en": "Most students have lunch in the school canteen because it is cheap.",
+    "src": "",
+    "zh": "大多数学生在学校食堂吃午饭，因为那里便宜。",
+    "ko": "대부분의 학생들은 값이 싸서 학교 식당에서 점심을 먹는다.",
+    "g": {
+     "most": "det. 大多数 | 대부분의",
+     "students": "n. 学生 | 학생",
+     "lunch": "n. 午饭 | 점심",
+     "school": "n. 学校 | 학교",
+     "canteen": "n. 食堂 | 식당",
+     "cheap": "adj. 便宜的 | 싼"
+    },
+    "kg": {
+     "대부분의": "大部分的",
+     "학생들은": "학생（学生）+ 들 + 은",
+     "값이": "값（价格）+ 이（主格）",
+     "싸서": "싸다（便宜）+ -서（因为）",
+     "학교": "学校",
+     "식당에서": "식당（食堂）+ 에서（在）",
+     "점심을": "점심（午饭）+ 을（宾格）",
+     "먹는다": "먹다（吃）的现在时"
+    },
+    "gram": [
+     {
+      "t": "most + 名词",
+      "d": "most 直接加复数名词表示“大多数”，不用 the；most of the students 才需要 the。",
+      "ex": [
+       {
+        "en": "Most people like music.",
+        "zh": "大多数人喜欢音乐。",
+        "ko": "대부분의 사람들은 음악을 좋아한다."
+       },
+       {
+        "en": "Most of the students passed.",
+        "zh": "大部分学生通过了。",
+        "ko": "학생 대부분이 합격했다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The company canteen serves free breakfast every morning.",
+    "src": "",
+    "zh": "公司食堂每天早上提供免费早餐。",
+    "ko": "회사 구내식당은 매일 아침 무료 아침 식사를 제공한다.",
+    "g": {
+     "company": "n. 公司 | 회사",
+     "canteen": "n. 食堂 | 구내식당",
+     "serves": "v. 提供（食物）| 제공하다",
+     "free": "adj. 免费的 | 무료",
+     "breakfast": "n. 早餐 | 아침 식사",
+     "every": "det. 每 | 매",
+     "morning": "n. 早晨 | 아침"
+    },
+    "kg": {
+     "회사": "公司",
+     "구내식당은": "구내식당（内部食堂）+ 은",
+     "매일": "每天",
+     "아침": "早晨",
+     "무료": "免费",
+     "식사를": "식사（饭食）+ 를（宾格）",
+     "제공한다": "제공하다（提供）的现在时"
+    },
+    "gram": [
+     {
+      "t": "一般现在时表示习惯",
+      "d": "serves ... every morning 用一般现在时表示反复发生的习惯性动作，主语是第三人称单数，动词加 -s。every morning 是常见的时间标志。",
+      "ex": [
+       {
+        "en": "He walks to work every day.",
+        "zh": "他每天走路上班。",
+        "ko": "그는 매일 걸어서 출근한다."
+       },
+       {
+        "en": "The bus leaves at eight.",
+        "zh": "公交车八点出发。",
+        "ko": "버스는 여덟 시에 출발한다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "school canteen",
+    "zh": "学校食堂",
+    "ko": "학교 식당"
+   },
+   {
+    "en": "canteen food",
+    "zh": "食堂饭菜",
+    "ko": "식당 음식"
+   }
+  ]
+ },
+ {
+  "w": "category",
+  "ipa": "/ˈkætəɡəri/",
+  "pos": "n.",
+  "zh": "类别；范畴；种类",
+  "ko": "범주；분류",
+  "kor": "beomju",
+  "ex": [
+   {
+    "en": "Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved.",
+    "src": "2009 新题型",
+    "zh": "因此，在他看来，文化的各个不同方面，如家庭结构、婚姻形式、亲属类别、财产所有权、政府形式、技术和粮食生产体系，都随着社会的演进而改变。",
+    "ko": "따라서 그의 관점에서는 가족 구조, 혼인 형태, 친족 범주, 재산 소유권, 정부 형태, 기술, 식량 생산 체계 등 문화의 다양한 측면이 모두 사회가 진화함에 따라 변했다.",
+    "g": {
+     "thus": "adv. 因此 | 따라서",
+     "view": "n. 观点 | 관점",
+     "diverse": "adj. 多样的 | 다양한",
+     "aspects": "n. 方面 | 측면",
+     "culture": "n. 文化 | 문화",
+     "structure": "n. 结构 | 구조",
+     "families": "n. 家庭 | 가족",
+     "forms": "n. 形式 | 형태",
+     "marriage": "n. 婚姻 | 혼인",
+     "categories": "n. 类别 | 범주",
+     "kinship": "n. 亲属关系 | 친족",
+     "ownership": "n. 所有权 | 소유권",
+     "property": "n. 财产 | 재산",
+     "government": "n. 政府 | 정부",
+     "technology": "n. 技术 | 기술",
+     "systems": "n. 体系 | 체계",
+     "food": "n. 食物 | 식량",
+     "production": "n. 生产 | 생산",
+     "changed": "v. 改变 | 변하다",
+     "societies": "n. 社会 | 사회",
+     "evolved": "v. 进化 | 진화하다"
+    },
+    "kg": {
+     "따라서": "因此",
+     "그의": "他的",
+     "관점에서는": "관점（观点）+ 에서는（从…来看）",
+     "가족": "家庭",
+     "구조": "结构",
+     "혼인": "婚姻",
+     "형태": "形态",
+     "친족": "亲属",
+     "범주": "范畴",
+     "재산": "财产",
+     "소유권": "所有权",
+     "정부": "政府",
+     "기술": "技术",
+     "식량": "粮食",
+     "생산": "生产",
+     "체계": "体系",
+     "등": "等等",
+     "문화의": "문화（文化）+ 의（的）",
+     "다양한": "다양하다（多样）的定语形",
+     "측면이": "측면（方面）+ 이（主格）",
+     "모두": "全部",
+     "사회가": "사회（社会）+ 가（主格）",
+     "진화함에": "진화하다（进化）的名词形 -ㅁ + 에",
+     "따라": "따르다（随着）的连接形，-ㅁ에 따라 = 随着…",
+     "변했다": "변하다（改变）的过去式"
+    },
+    "gram": [
+     {
+      "t": "such as 列举 + as 引导时间/方式从句",
+      "d": "such as 后面列举很多例子，用逗号隔开。all changed as societies evolved 中 as 引导时间状语从句，意思是“随着…”。",
+      "ex": [
+       {
+        "en": "Prices rise as demand grows.",
+        "zh": "价格随着需求增长而上涨。",
+        "ko": "수요가 늘어남에 따라 가격이 오른다."
+       },
+       {
+        "en": "He likes sports such as tennis and golf.",
+        "zh": "他喜欢网球、高尔夫之类的运动。",
+        "ko": "그는 테니스와 골프 같은 운동을 좋아한다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Books are sorted into categories like fiction and history.",
+    "src": "",
+    "zh": "书籍按小说和历史等类别分类。",
+    "ko": "책은 소설과 역사 같은 범주로 나뉘어 있다.",
+    "g": {
+     "books": "n. 书 | 책",
+     "sorted": "v. 分类（sort 过去分词）| 나누다",
+     "categories": "n. 类别 | 범주",
+     "like": "prep. 像 | ~같은",
+     "fiction": "n. 小说 | 소설",
+     "history": "n. 历史 | 역사"
+    },
+    "kg": {
+     "책은": "책（书）+ 은（主题）",
+     "소설과": "소설（小说）+ 과（和）",
+     "역사": "历史",
+     "같은": "같다（像）的定语形",
+     "범주로": "범주（范畴）+ 로（以…形式）",
+     "나뉘어": "나뉘다（被分开）的连接形",
+     "있다": "있다，-어 있다 = 处于状态"
+    },
+    "gram": [
+     {
+      "t": "be sorted into",
+      "d": "sort A into B = 把 A 分成 B 类，被动语态是 A is sorted into B。介词用 into。",
+      "ex": [
+       {
+        "en": "The students were divided into three groups.",
+        "zh": "学生们被分成了三组。",
+        "ko": "학생들은 세 그룹으로 나뉘었다."
+       },
+       {
+        "en": "Sort the clothes into piles.",
+        "zh": "把衣服分成几堆。",
+        "ko": "옷을 몇 무더기로 분류해라."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "fall into a category",
+    "zh": "属于某类",
+    "ko": "한 범주에 속하다"
+   },
+   {
+    "en": "age category",
+    "zh": "年龄组",
+    "ko": "연령 범주"
+   }
+  ]
+ },
+ {
+  "w": "cater",
+  "ipa": "/ˈkeɪtə(r)/",
+  "pos": "v.",
+  "zh": "提供饮食；迎合；满足（需要）",
+  "ko": "음식을 제공하다；맞추다",
+  "kor": "eumsigeul jegonghada",
+  "ex": [
+   {
+    "en": "Instead of intimate shops catering to a knowledgeable elite, these were stores anyone could enter, regardless of class or background.",
+    "src": "2006 阅读 Text 1",
+    "zh": "这些不是迎合知识精英的小店，而是任何人都能进入的商店，不论阶层或背景。",
+    "ko": "이곳들은 식견 있는 엘리트층을 대상으로 하는 아담한 가게가 아니라, 계층이나 배경에 상관없이 누구나 들어갈 수 있는 상점이었다.",
+    "g": {
+     "instead": "adv. 取而代之（instead of）| ~ 대신",
+     "intimate": "adj. 亲密的，小巧的 | 아담한",
+     "shops": "n. 小店 | 가게",
+     "catering": "v. 迎合（cater to）| 겨냥하다",
+     "knowledgeable": "adj. 有见识的 | 식견 있는",
+     "elite": "n. 精英 | 엘리트",
+     "stores": "n. 商店 | 상점",
+     "anyone": "pron. 任何人 | 누구나",
+     "enter": "v. 进入 | 들어가다",
+     "regardless": "adv. 不管（regardless of）| 상관없이",
+     "class": "n. 阶层 | 계층",
+     "background": "n. 背景 | 배경"
+    },
+    "kg": {
+     "식견": "见识",
+     "있는": "있다（有）的定语形",
+     "엘리트층을": "엘리트층（精英层）+ 을（宾格）",
+     "대상으로": "대상（对象）+ 으로（作为）",
+     "하는": "하다（做）的定语形，-을 대상으로 하다 = 以…为对象",
+     "아담한": "아담하다（小巧）的定语形",
+     "가게가": "가게（小店）+ 가（主格）",
+     "아니라": "아니다（不是）+ -라（而是）",
+     "계층이나": "계층（阶层）+ 이나（或）",
+     "배경에": "배경（背景）+ 에",
+     "상관없이": "상관없다（无关）的副词形，“不论”",
+     "누구나": "任何人",
+     "들어갈": "들어가다（进入）+ -ㄹ（将来定语形）",
+     "수": "可能",
+     "상점이었다": "상점（商店）+ 이었다（是，过去式）"
+    },
+    "gram": [
+     {
+      "t": "instead of / regardless of / cater to",
+      "d": "instead of 后接名词或动名词，表示“代替”。catering 是现在分词短语作后置定语，修饰 shops。cater to sb. 表示“迎合/满足某人”。anyone could enter 是省略了 that 的定语从句，修饰 stores。",
+      "ex": [
+       {
+        "en": "Instead of waiting, let's go now.",
+        "zh": "别等了，现在就走吧。",
+        "ko": "기다리는 대신 지금 가자."
+       },
+       {
+        "en": "The hotel caters to business travelers.",
+        "zh": "这家酒店面向商务旅客。",
+        "ko": "그 호텔은 출장객을 대상으로 한다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "This restaurant caters for weddings and large parties.",
+    "src": "",
+    "zh": "这家餐厅承办婚礼和大型聚会的餐饮。",
+    "ko": "이 식당은 결혼식과 대규모 모임의 음식을 맡아 준비한다.",
+    "g": {
+     "restaurant": "n. 餐厅 | 식당",
+     "caters": "v. 承办酒席 | 음식을 제공하다",
+     "weddings": "n. 婚礼 | 결혼식",
+     "large": "adj. 大的 | 대규모",
+     "parties": "n. 聚会 | 모임"
+    },
+    "kg": {
+     "이": "这",
+     "식당은": "식당（餐厅）+ 은（主题）",
+     "결혼식과": "결혼식（婚礼）+ 과（和）",
+     "대규모": "大规模",
+     "모임의": "모임（聚会）+ 의（的）",
+     "음식을": "음식（食物）+ 을（宾格）",
+     "맡아": "맡다（承担）的连接形",
+     "준비한다": "준비하다（准备）的现在时"
+    },
+    "gram": [
+     {
+      "t": "cater 的用法",
+      "d": "cater 作不及物动词：cater for（英）/ cater to（美）= 提供饮食、满足需求；也可直接 cater a party（承办宴会）。",
+      "ex": [
+       {
+        "en": "They cater for all tastes.",
+        "zh": "他们满足各种口味。",
+        "ko": "그들은 모든 취향을 만족시킨다."
+       },
+       {
+        "en": "The firm will cater our wedding.",
+        "zh": "这家公司将承办我们的婚宴。",
+        "ko": "그 업체가 우리 결혼식 음식을 맡을 것이다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "cater to",
+    "zh": "迎合；满足",
+    "ko": "~에 맞추다"
+   },
+   {
+    "en": "catering service",
+    "zh": "餐饮服务",
+    "ko": "케이터링 서비스"
+   }
+  ]
+ },
+ {
+  "w": "chain",
+  "ipa": "/tʃeɪn/",
+  "pos": "n./v.",
+  "zh": "链子；连锁；连锁店；一连串；用链拴住",
+  "ko": "사슬；체인；연쇄",
+  "kor": "saseul",
+  "ex": [
+   {
+    "en": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.",
+    "src": "英语一 2019 阅读 Text 4",
+    "zh": "这一裁决对在许多州设有门店的大型连锁企业是一场胜利，因为它们本来就通常对网购收取销售税。",
+    "ko": "이 판결은 여러 주에 매장을 둔 대형 체인에게 승리이다. 이들은 이미 온라인 구매에 대해 보통 판매세를 걷고 있기 때문이다.",
+    "g": {
+     "ruling": "n. 裁决 | 판결",
+     "victory": "n. 胜利 | 승리",
+     "big": "adj. 大的 | 대형",
+     "chains": "n. 连锁企业 | 체인",
+     "presence": "n. 存在，门店 | 매장",
+     "many": "det. 许多 | 여러",
+     "states": "n. 州 | 주",
+     "usually": "adv. 通常 | 보통",
+     "collect": "v. 收取 | 걷다",
+     "sales": "n. 销售 | 판매",
+     "tax": "n. 税 | 세금",
+     "online": "adj. 在线的 | 온라인",
+     "purchases": "n. 购买 | 구매",
+     "already": "adv. 已经 | 이미"
+    },
+    "kg": {
+     "이": "这",
+     "판결은": "판결（裁决）+ 은（主题）",
+     "여러": "许多",
+     "주에": "주（州）+ 에",
+     "매장을": "매장（门店）+ 을（宾格）",
+     "둔": "두다（设置）的过去定语形",
+     "대형": "大型",
+     "체인에게": "체인（连锁店）+ 에게（对于）",
+     "승리이다": "승리（胜利）+ 이다（是）",
+     "이들은": "이들（这些）+ 은",
+     "이미": "已经",
+     "온라인": "在线",
+     "구매에": "구매（购买）+ 에",
+     "대해": "대하다（针对）的连接形",
+     "보통": "通常",
+     "판매세를": "판매세（销售税）+ 를（宾格）",
+     "걷고": "걷다（征收）+ -고",
+     "있기": "있다 + -기（名词化）",
+     "때문이다": "때문（原因）+ 이다，“是因为”"
+    },
+    "gram": [
+     {
+      "t": "with a presence in… / since 引导原因",
+      "d": "with a presence in many states 是 with 短语作后置定语，修饰 chains，表示“在许多州有业务的”。since 在这里引导原因状语从句，意思是“因为”。",
+      "ex": [
+       {
+        "en": "A girl with long hair smiled at me.",
+        "zh": "一个长发女孩对我微笑。",
+        "ko": "긴 머리의 소녀가 나에게 웃어 주었다."
+       },
+       {
+        "en": "Since it was late, we went home.",
+        "zh": "由于天色已晚，我们回家了。",
+        "ko": "늦었기 때문에 우리는 집에 갔다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The bike chain broke, so I had to walk home.",
+    "src": "",
+    "zh": "自行车链条断了，所以我只好走路回家。",
+    "ko": "자전거 체인이 끊어져서 나는 집까지 걸어가야 했다.",
+    "g": {
+     "bike": "n. 自行车 | 자전거",
+     "chain": "n. 链条 | 체인",
+     "broke": "v. 断（break 过去式）| 끊어지다",
+     "walk": "v. 走路 | 걷다",
+     "home": "adv. 回家 | 집"
+    },
+    "kg": {
+     "자전거": "自行车",
+     "체인이": "체인（链条）+ 이（主格）",
+     "끊어져서": "끊어지다（断）+ -어서（因为）",
+     "나는": "我 + 는",
+     "집까지": "집（家）+ 까지（到）",
+     "걸어가야": "걸어가다（走去）+ -야（必须）",
+     "했다": "하다（做）的过去式，-야 하다 = 必须"
+    },
+    "gram": [
+     {
+      "t": "had to do（过去必须）",
+      "d": "have to 的过去式是 had to，表示过去“不得不”做某事。否定用 didn't have to（不必），与 must 不同，must 没有过去式。",
+      "ex": [
+       {
+        "en": "I had to stay up late.",
+        "zh": "我不得不熬夜。",
+        "ko": "나는 밤늦게까지 깨어 있어야 했다."
+       },
+       {
+        "en": "She didn't have to pay.",
+        "zh": "她不必付钱。",
+        "ko": "그녀는 돈을 낼 필요가 없었다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "supermarket chain",
+    "zh": "连锁超市",
+    "ko": "슈퍼마켓 체인"
+   },
+   {
+    "en": "chain reaction",
+    "zh": "连锁反应",
+    "ko": "연쇄 반응"
+   }
+  ]
+ },
+ {
+  "w": "challenge",
+  "ipa": "/ˈtʃælɪndʒ/",
+  "pos": "n./v.",
+  "zh": "挑战；质疑；对…提出异议",
+  "ko": "도전；이의를 제기하다",
+  "kor": "dojeon",
+  "ex": [
+   {
+    "en": "Newly published discovery claims will always be open to challenge and potential modification or refutation by future researchers.",
+    "src": "英语一 2012 阅读 Text 3",
+    "zh": "新发表的发现声明总是可能受到未来研究者的质疑、修改或反驳。",
+    "ko": "새로 발표된 발견 주장은 언제나 미래 연구자들의 도전과 수정 또는 반박에 열려 있다.",
+    "g": {
+     "newly": "adv. 新近 | 새로",
+     "published": "adj. 发表的 | 발표된",
+     "discovery": "n. 发现 | 발견",
+     "claims": "n. 主张 | 주장",
+     "always": "adv. 总是 | 언제나",
+     "open": "adj. 易受…的 | 열려 있는",
+     "challenge": "n. 质疑 | 도전",
+     "potential": "adj. 潜在的 | 잠재적인",
+     "modification": "n. 修改 | 수정",
+     "refutation": "n. 反驳 | 반박",
+     "future": "adj. 未来的 | 미래의",
+     "researchers": "n. 研究者 | 연구자"
+    },
+    "kg": {
+     "새로": "新地",
+     "발표된": "발표되다（被发表）的定语形",
+     "발견": "发现",
+     "주장은": "주장（主张）+ 은（主题）",
+     "언제나": "总是",
+     "미래": "未来",
+     "연구자들의": "연구자（研究者）+ 들 + 의（的）",
+     "도전과": "도전（挑战）+ 과（和）",
+     "수정": "修改",
+     "또는": "或者",
+     "반박에": "반박（反驳）+ 에",
+     "열려": "열리다（开着）的连接形",
+     "있다": "있다，-어 있다 = 保持状态"
+    },
+    "gram": [
+     {
+      "t": "be open to",
+      "d": "be open to 表示“容易受…影响；愿意接受”。这里 open to challenge = 容易被质疑。by future researchers 是 modification 和 refutation 的被动施事者。",
+      "ex": [
+       {
+        "en": "The plan is open to question.",
+        "zh": "这个计划有待商榷。",
+        "ko": "그 계획은 의문의 여지가 있다."
+       },
+       {
+        "en": "She is open to suggestions.",
+        "zh": "她乐于接受建议。",
+        "ko": "그녀는 제안을 받아들일 준비가 되어 있다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Learning to swim was a big challenge for me.",
+    "src": "",
+    "zh": "学游泳对我来说是个大挑战。",
+    "ko": "수영을 배우는 것은 나에게 큰 도전이었다.",
+    "g": {
+     "learning": "n. 学习 | 배우기",
+     "swim": "v. 游泳 | 수영하다",
+     "big": "adj. 大的 | 큰",
+     "challenge": "n. 挑战 | 도전"
+    },
+    "kg": {
+     "수영을": "수영（游泳）+ 을（宾格）",
+     "배우는": "배우다（学习）的定语形",
+     "것은": "것（事情）+ 은（主题）",
+     "나에게": "나（我）+ 에게（对）",
+     "큰": "크다（大）的定语形",
+     "도전이었다": "도전（挑战）+ 이었다（是，过去式）"
+    },
+    "gram": [
+     {
+      "t": "challenge 作动词",
+      "d": "challenge 也是动词：challenge sb. to do sth.（向某人挑战做某事）、challenge a decision（质疑决定）。",
+      "ex": [
+       {
+        "en": "He challenged me to a race.",
+        "zh": "他向我挑战赛跑。",
+        "ko": "그는 나에게 달리기 시합을 청했다."
+       },
+       {
+        "en": "They challenged the ruling in court.",
+        "zh": "他们在法庭上对裁决提出异议。",
+        "ko": "그들은 법정에서 판결에 이의를 제기했다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "face a challenge",
+    "zh": "面对挑战",
+    "ko": "도전에 직면하다"
+   },
+   {
+    "en": "meet the challenge",
+    "zh": "迎接挑战",
+    "ko": "도전에 맞서다"
+   }
+  ]
+ },
+ {
+  "w": "chaos",
+  "ipa": "/ˈkeɪɒs/",
+  "pos": "n.",
+  "zh": "混乱；无秩序",
+  "ko": "혼돈；혼란",
+  "kor": "hondon",
+  "ex": [
+   {
+    "en": "The sudden snowstorm caused chaos on the roads and delayed hundreds of flights.",
+    "src": "",
+    "zh": "突如其来的暴风雪造成道路混乱，数百个航班被延误。",
+    "ko": "갑작스러운 눈보라가 도로를 혼란에 빠뜨렸고 수백 편의 항공편이 지연되었다.",
+    "g": {
+     "sudden": "adj. 突然的 | 갑작스러운",
+     "snowstorm": "n. 暴风雪 | 눈보라",
+     "caused": "v. 造成 | 일으키다",
+     "chaos": "n. 混乱 | 혼란",
+     "roads": "n. 道路 | 도로",
+     "delayed": "v. 延误 | 지연시키다",
+     "hundreds": "n. 数百 | 수백",
+     "flights": "n. 航班 | 항공편"
+    },
+    "kg": {
+     "갑작스러운": "갑작스럽다（突然）的定语形",
+     "눈보라가": "눈보라（暴风雪）+ 가（主格）",
+     "도로를": "도로（道路）+ 를（宾格）",
+     "혼란에": "혼란（混乱）+ 에（到…中）",
+     "빠뜨렸고": "빠뜨리다（使陷入）+ -고",
+     "수백": "数百",
+     "편의": "편（班次）+ 의（的）",
+     "항공편이": "항공편（航班）+ 이（主格）",
+     "지연되었다": "지연되다（被延误）的过去式"
+    },
+    "gram": [
+     {
+      "t": "不可数名词 chaos",
+      "d": "chaos 是不可数名词，前面不加 a，也没有复数。cause chaos 是固定搭配。caused… and delayed… 是两个并列的谓语动词。",
+      "ex": [
+       {
+        "en": "The news caused panic.",
+        "zh": "这个消息引起了恐慌。",
+        "ko": "그 소식은 공황을 일으켰다."
+       },
+       {
+        "en": "Traffic is heavy today.",
+        "zh": "今天交通拥堵。",
+        "ko": "오늘은 교통이 혼잡하다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "My room was in chaos after the party.",
+    "src": "",
+    "zh": "聚会后我的房间一片混乱。",
+    "ko": "파티가 끝난 뒤 내 방은 엉망이었다.",
+    "g": {
+     "room": "n. 房间 | 방",
+     "chaos": "n. 混乱 | 혼란",
+     "after": "prep. 在…之后 | ~후에",
+     "party": "n. 聚会 | 파티"
+    },
+    "kg": {
+     "파티가": "파티（聚会）+ 가（主格）",
+     "끝난": "끝나다（结束）的过去定语形",
+     "뒤": "后",
+     "내": "我的",
+     "방은": "방（房间）+ 은（主题）",
+     "엉망이었다": "엉망（一团糟）+ 이었다（是，过去式）"
+    },
+    "gram": [
+     {
+      "t": "in chaos",
+      "d": "in + 抽象名词表示“处于…状态”：in chaos（一片混乱）、in trouble（有麻烦）、in order（井然有序）。",
+      "ex": [
+       {
+        "en": "The market is in chaos.",
+        "zh": "市场一片混乱。",
+        "ko": "시장은 혼란에 빠져 있다."
+       },
+       {
+        "en": "Everything is in order.",
+        "zh": "一切井然有序。",
+        "ko": "모든 것이 질서 있게 정리되어 있다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "cause chaos",
+    "zh": "造成混乱",
+    "ko": "혼란을 일으키다"
+   },
+   {
+    "en": "in chaos",
+    "zh": "一片混乱",
+    "ko": "혼란 상태에"
+   }
+  ]
+ },
+ {
+  "w": "charge",
+  "ipa": "/tʃɑːdʒ/",
+  "pos": "n./v.",
+  "zh": "收费；费用；指控；主管；充电",
+  "ko": "요금；청구하다；고발；책임",
+  "kor": "yogeum",
+  "ex": [
+   {
+    "en": "The company was cleared of the charge of favoritism.",
+    "src": "英语一 2017 阅读 Text 4（改编）",
+    "zh": "该公司被免除了偏袒的指控。",
+    "ko": "그 회사는 편애했다는 혐의를 벗었다.",
+    "g": {
+     "company": "n. 公司 | 회사",
+     "cleared": "v. 洗清（clear 过去分词）| 벗다",
+     "charge": "n. 指控 | 혐의",
+     "favoritism": "n. 偏袒 | 편애"
+    },
+    "kg": {
+     "그": "那",
+     "회사는": "회사（公司）+ 는（主题）",
+     "편애했다는": "편애하다（偏袒）的过去式 + -다는（引用定语形）",
+     "혐의를": "혐의（嫌疑）+ 를（宾格）",
+     "벗었다": "벗다（摆脱，脱掉）的过去式"
+    },
+    "gram": [
+     {
+      "t": "be cleared of the charge",
+      "d": "clear sb. of sth. 表示“证明某人无罪、洗清嫌疑”，被动语态为 be cleared of。the charge of… 表示“…的指控”。",
+      "ex": [
+       {
+        "en": "He was cleared of all charges.",
+        "zh": "他被洗脱了所有指控。",
+        "ko": "그는 모든 혐의를 벗었다."
+       },
+       {
+        "en": "She faces a charge of theft.",
+        "zh": "她面临盗窃指控。",
+        "ko": "그녀는 절도 혐의를 받고 있다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The hotel does not charge extra for breakfast.",
+    "src": "",
+    "zh": "酒店早餐不另外收费。",
+    "ko": "그 호텔은 아침 식사에 추가 요금을 받지 않는다.",
+    "g": {
+     "hotel": "n. 酒店 | 호텔",
+     "charge": "v. 收费 | 청구하다",
+     "extra": "adj. 额外的 | 추가",
+     "breakfast": "n. 早餐 | 아침 식사"
+    },
+    "kg": {
+     "그": "那",
+     "호텔은": "호텔（酒店）+ 은（主题）",
+     "아침": "早晨",
+     "식사에": "식사（饭）+ 에（对于）",
+     "추가": "额外",
+     "요금을": "요금（费用）+ 을（宾格）",
+     "받지": "받다（收取）+ -지（否定前接）",
+     "않는다": "않다（不）的现在时"
+    },
+    "gram": [
+     {
+      "t": "charge 的几种常见用法",
+      "d": "charge 有“收费”（charge sb. money）、“指控”（charge sb. with sth.）、“主管”（in charge of）、“充电”等意思。表示“负责”时用 be in charge of。",
+      "ex": [
+       {
+        "en": "She is in charge of sales.",
+        "zh": "她负责销售。",
+        "ko": "그녀는 영업을 맡고 있다."
+       },
+       {
+        "en": "He was charged with fraud.",
+        "zh": "他被控诈骗。",
+        "ko": "그는 사기 혐의로 기소되었다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "in charge of",
+    "zh": "负责",
+    "ko": "~을 책임지다"
+   },
+   {
+    "en": "free of charge",
+    "zh": "免费",
+    "ko": "무료로"
+   }
+  ]
+ },
+ {
+  "w": "cite",
+  "ipa": "/saɪt/",
+  "pos": "v.",
+  "zh": "引用；列举；传讯",
+  "ko": "인용하다；예로 들다",
+  "kor": "inyonghada",
+  "ex": [
+   {
+    "en": "The court may want to allow room for police to cite situations where they are entitled to more freedom.",
+    "src": "英语一 2015 阅读 Text 2",
+    "zh": "法院或许应当为警方留出空间，让他们列举自己有权享有更多自由的情形。",
+    "ko": "법원은 경찰이 더 많은 자유를 누릴 자격이 있는 상황을 제시할 여지를 허용하고 싶어 할지도 모른다.",
+    "g": {
+     "court": "n. 法院 | 법원",
+     "want": "v. 想要 | 원하다",
+     "allow": "v. 允许 | 허용하다",
+     "room": "n. 空间，余地 | 여지",
+     "police": "n. 警方 | 경찰",
+     "cite": "v. 列举 | 제시하다",
+     "situations": "n. 情形 | 상황",
+     "entitled": "adj. 有权的（be entitled to）| 자격이 있는",
+     "freedom": "n. 自由 | 자유"
+    },
+    "kg": {
+     "법원은": "법원（法院）+ 은（主题）",
+     "경찰이": "경찰（警察）+ 이（主格）",
+     "더": "更",
+     "많은": "많다（多）的定语形",
+     "자유를": "자유（自由）+ 를（宾格）",
+     "누릴": "누리다（享有）+ -ㄹ（将来定语形）",
+     "자격이": "자격（资格）+ 이（主格）",
+     "있는": "있다（有）的定语形",
+     "상황을": "상황（情况）+ 을（宾格）",
+     "제시할": "제시하다（提出）+ -ㄹ",
+     "여지를": "여지（余地）+ 를（宾格）",
+     "허용하고": "허용하다（允许）+ -고",
+     "싶어": "싶다（想）的连接形",
+     "할지도": "하다（做）+ -ㄹ지도（也许）",
+     "모른다": "모르다（不知道），-ㄹ지도 모른다 = 也许"
+    },
+    "gram": [
+     {
+      "t": "where 引导定语从句 + be entitled to",
+      "d": "where they are entitled to… 是 where 引导的定语从句，修饰 situations。be entitled to sth. 表示“有权享有”。allow room for sb. to do 意为“为某人做某事留出余地”。",
+      "ex": [
+       {
+        "en": "This is a case where the law is unclear.",
+        "zh": "这是法律不明确的一个案例。",
+        "ko": "이것은 법이 불분명한 사례이다."
+       },
+       {
+        "en": "Every worker is entitled to a holiday.",
+        "zh": "每个工人都有权享受假期。",
+        "ko": "모든 노동자는 휴가를 받을 권리가 있다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The author cites three studies to support her claim.",
+    "src": "",
+    "zh": "作者引用了三项研究来支持她的观点。",
+    "ko": "저자는 자신의 주장을 뒷받침하기 위해 세 편의 연구를 인용한다.",
+    "g": {
+     "author": "n. 作者 | 저자",
+     "cites": "v. 引用 | 인용하다",
+     "three": "num. 三 | 세",
+     "studies": "n. 研究 | 연구",
+     "support": "v. 支持 | 뒷받침하다",
+     "claim": "n. 观点 | 주장"
+    },
+    "kg": {
+     "저자는": "저자（作者）+ 는（主题）",
+     "자신의": "자신（自己）+ 의（的）",
+     "주장을": "주장（主张）+ 을（宾格）",
+     "뒷받침하기": "뒷받침하다（支持）的名词形 -기",
+     "위해": "위하다（为了）的连接形",
+     "세": "三",
+     "편의": "편（篇）+ 의",
+     "연구를": "연구（研究）+ 를（宾格）",
+     "인용한다": "인용하다（引用）的现在时"
+    },
+    "gram": [
+     {
+      "t": "不定式表目的",
+      "d": "to support her claim 是不定式短语作目的状语，表示“为了支持她的观点”。",
+      "ex": [
+       {
+        "en": "I came here to learn English.",
+        "zh": "我来这里是为了学英语。",
+        "ko": "나는 영어를 배우려고 여기에 왔다."
+       },
+       {
+        "en": "He saves money to buy a house.",
+        "zh": "他存钱是为了买房。",
+        "ko": "그는 집을 사기 위해 돈을 모은다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "cite an example",
+    "zh": "举例",
+    "ko": "예를 들다"
+   },
+   {
+    "en": "cite as evidence",
+    "zh": "作为证据引用",
+    "ko": "증거로 인용하다"
+   }
+  ]
+ },
+ {
+  "w": "citizen",
+  "ipa": "/ˈsɪtɪzn/",
+  "pos": "n.",
+  "zh": "公民；市民",
+  "ko": "시민；국민",
+  "kor": "simin",
+  "ex": [
+   {
+    "en": "No citizen should be denied the right to serve on a jury on account of race, religion, sex, or national origin.",
+    "src": "英语二 2010 阅读 Text 4",
+    "zh": "任何公民都不应因种族、宗教、性别或民族出身而被剥夺担任陪审员的权利。",
+    "ko": "어떤 시민도 인종, 종교, 성별 또는 출신 국가를 이유로 배심원이 될 권리를 박탈당해서는 안 된다.",
+    "g": {
+     "citizen": "n. 公民 | 시민",
+     "denied": "v. 拒绝，剥夺（deny 过去分词）| 박탈하다",
+     "right": "n. 权利 | 권리",
+     "serve": "v. 担任 | 일하다",
+     "jury": "n. 陪审团 | 배심원",
+     "account": "n. 理由（on account of）| ~이유로",
+     "race": "n. 种族 | 인종",
+     "religion": "n. 宗教 | 종교",
+     "sex": "n. 性别 | 성별",
+     "national": "adj. 国家的 | 국가의",
+     "origin": "n. 出身 | 출신"
+    },
+    "kg": {
+     "어떤": "任何",
+     "시민도": "시민（市民）+ 도（也，在否定中表示“连…都”）",
+     "인종": "种族",
+     "종교": "宗教",
+     "성별": "性别",
+     "또는": "或者",
+     "출신": "出身",
+     "국가를": "국가（国家）+ 를（宾格）",
+     "이유로": "이유（理由）+ 로（作为）",
+     "배심원이": "배심원（陪审员）+ 이（补语）",
+     "될": "되다（成为）+ -ㄹ（将来定语形）",
+     "권리를": "권리（权利）+ 를（宾格）",
+     "박탈당해서는": "박탈당하다（被剥夺）+ -해서는（如果…的话）",
+     "안": "不",
+     "된다": "되다（可以），안 된다 = 不可以"
+    },
+    "gram": [
+     {
+      "t": "no + 名词 + should be denied",
+      "d": "No citizen should be denied… 是否定形容词 no 加被动语态，意思“没有任何公民应被剥夺”。deny sb. sth. 被动：sb. be denied sth.。on account of 意为“由于”，相当于 because of。",
+      "ex": [
+       {
+        "en": "No student is allowed to leave.",
+        "zh": "不允许任何学生离开。",
+        "ko": "어떤 학생도 떠나서는 안 된다."
+       },
+       {
+        "en": "The flight was cancelled on account of fog.",
+        "zh": "航班因大雾取消了。",
+        "ko": "항공편은 안개 때문에 취소되었다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "She became a citizen of Canada last year.",
+    "src": "",
+    "zh": "她去年成为了加拿大公民。",
+    "ko": "그녀는 작년에 캐나다 시민이 되었다.",
+    "g": {
+     "became": "v. 成为（become 过去式）| 되다",
+     "citizen": "n. 公民 | 시민",
+     "Canada": "n. 加拿大 | 캐나다",
+     "last": "adj. 上一个 | 작년"
+    },
+    "kg": {
+     "그녀는": "她 + 는（主题）",
+     "작년에": "작년（去年）+ 에（在）",
+     "캐나다": "加拿大",
+     "시민이": "시민（公民）+ 이（补语助词）",
+     "되었다": "되다（成为）的过去式"
+    },
+    "gram": [
+     {
+      "t": "become + 名词",
+      "d": "become 后接名词表示“成为…”，如 become a citizen。系动词 become 后用补语，不是宾语。",
+      "ex": [
+       {
+        "en": "He became a doctor.",
+        "zh": "他成了一名医生。",
+        "ko": "그는 의사가 되었다."
+       },
+       {
+        "en": "It became dark soon.",
+        "zh": "天很快黑了。",
+        "ko": "곧 어두워졌다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "senior citizen",
+    "zh": "老年人",
+    "ko": "노인"
+   },
+   {
+    "en": "citizen of",
+    "zh": "……的公民",
+    "ko": "~의 시민"
+   }
+  ]
+ },
+ {
+  "w": "clash",
+  "ipa": "/klæʃ/",
+  "pos": "v./n.",
+  "zh": "冲突；碰撞；不协调",
+  "ko": "충돌하다；충돌",
+  "kor": "chungdol",
+  "ex": [
+   {
+    "en": "The two groups clashed over how to spend the city's budget.",
+    "src": "",
+    "zh": "两个团体就如何花费城市预算发生了冲突。",
+    "ko": "두 단체는 도시 예산을 어떻게 쓸지를 두고 충돌했다.",
+    "g": {
+     "two": "num. 二 | 두",
+     "groups": "n. 团体 | 단체",
+     "clashed": "v. 冲突 | 충돌하다",
+     "spend": "v. 花费 | 쓰다",
+     "city": "n. 城市 | 도시",
+     "budget": "n. 预算 | 예산"
+    },
+    "kg": {
+     "두": "两",
+     "단체는": "단체（团体）+ 는（主题）",
+     "도시": "城市",
+     "예산을": "예산（预算）+ 을（宾格）",
+     "어떻게": "怎么",
+     "쓸지를": "쓰다（使用）+ -ㄹ지（是否/怎样）+ 를",
+     "두고": "두다（放置），-을 두고 = 围绕…",
+     "충돌했다": "충돌하다（冲突）的过去式"
+    },
+    "gram": [
+     {
+      "t": "疑问词 + to do",
+      "d": "how to spend… 是“疑问词 + 不定式”结构，作介词 over 的宾语，意为“关于怎么花”。常见：what to do, where to go, how to use。",
+      "ex": [
+       {
+        "en": "I don't know what to say.",
+        "zh": "我不知道说什么。",
+        "ko": "나는 무슨 말을 해야 할지 모르겠다."
+       },
+       {
+        "en": "Tell me how to get there.",
+        "zh": "告诉我怎么去那儿。",
+        "ko": "거기에 어떻게 가는지 알려 줘."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The match clashes with my English class.",
+    "src": "",
+    "zh": "这场比赛与我的英语课时间冲突。",
+    "ko": "그 경기는 내 영어 수업과 시간이 겹친다.",
+    "g": {
+     "match": "n. 比赛 | 경기",
+     "clashes": "v. 冲突 | 겹치다",
+     "English": "n. 英语 | 영어",
+     "class": "n. 课 | 수업"
+    },
+    "kg": {
+     "그": "那",
+     "경기는": "경기（比赛）+ 는（主题）",
+     "내": "我的",
+     "영어": "英语",
+     "수업과": "수업（课）+ 과（与）",
+     "시간이": "시간（时间）+ 이（主格）",
+     "겹친다": "겹치다（重叠）的现在时"
+    },
+    "gram": [
+     {
+      "t": "clash with",
+      "d": "clash with 除了“与…冲突”，还可表示“（时间）冲突”“（颜色等）不协调”。",
+      "ex": [
+       {
+        "en": "Red clashes with orange.",
+        "zh": "红色和橙色不搭。",
+        "ko": "빨간색은 주황색과 어울리지 않는다."
+       },
+       {
+        "en": "The two events clash.",
+        "zh": "两个活动撞期了。",
+        "ko": "두 행사의 시간이 겹친다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "clash with",
+    "zh": "与……冲突",
+    "ko": "~와 충돌하다"
+   },
+   {
+    "en": "a clash of opinions",
+    "zh": "意见冲突",
+    "ko": "의견 충돌"
+   }
+  ]
+ },
+ {
+  "w": "crash",
+  "ipa": "/kræʃ/",
+  "pos": "v./n.",
+  "zh": "碰撞；坠毁；崩溃；暴跌；撞车",
+  "ko": "충돌하다；추락하다；붕괴",
+  "kor": "chungdol",
+  "ex": [
+   {
+    "en": "Yes, there has been a budding economic recovery since the 2008 global crash.",
+    "src": "英语一 2017 阅读 Text 3",
+    "zh": "是的，自2008年全球经济崩盘以来，经济确实出现了萌芽状态的复苏。",
+    "ko": "그렇다, 2008년 세계 금융 붕괴 이후 경제가 싹트는 회복세를 보이고 있다.",
+    "g": {
+     "budding": "adj. 萌芽的 | 싹트는",
+     "economic": "adj. 经济的 | 경제적인",
+     "recovery": "n. 复苏 | 회복",
+     "since": "prep. 自从 | ~이후",
+     "global": "adj. 全球的 | 세계적인",
+     "crash": "n. 崩盘 | 붕괴"
+    },
+    "kg": {
+     "그렇다": "是的",
+     "년": "年",
+     "세계": "世界",
+     "금융": "金融",
+     "붕괴": "崩溃",
+     "이후": "以后",
+     "경제가": "경제（经济）+ 가（主格）",
+     "싹트는": "싹트다（萌芽）的定语形",
+     "회복세를": "회복세（复苏趋势）+ 를（宾格）",
+     "보이고": "보이다（显示）+ -고",
+     "있다": "있다，-고 있다 = 正在"
+    },
+    "gram": [
+     {
+      "t": "there has been + 名词 + since…",
+      "d": "there has been… since 2008 是 there be 的现在完成时，since + 时间点表示“自…以来”。",
+      "ex": [
+       {
+        "en": "There has been little rain since May.",
+        "zh": "自五月以来几乎没下雨。",
+        "ko": "5월 이후 비가 거의 오지 않았다."
+       },
+       {
+        "en": "There have been many changes since then.",
+        "zh": "从那时起发生了许多变化。",
+        "ko": "그 이후로 많은 변화가 있었다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The car crashed into a tree, but the driver was safe.",
+    "src": "",
+    "zh": "汽车撞上了一棵树，但司机安然无恙。",
+    "ko": "차가 나무에 충돌했지만 운전자는 무사했다.",
+    "g": {
+     "car": "n. 汽车 | 차",
+     "crashed": "v. 撞 | 충돌하다",
+     "tree": "n. 树 | 나무",
+     "driver": "n. 司机 | 운전자",
+     "safe": "adj. 安全的 | 무사한"
+    },
+    "kg": {
+     "차가": "차（车）+ 가（主格）",
+     "나무에": "나무（树）+ 에（对）",
+     "충돌했지만": "충돌하다（撞）+ -했지만（但是）",
+     "운전자는": "운전자（司机）+ 는（主题）",
+     "무사했다": "무사하다（平安）的过去式"
+    },
+    "gram": [
+     {
+      "t": "crash into",
+      "d": "crash into 表示“撞上”，介词用 into 或 against。crash 还可表示“（电脑）死机、（股市）崩盘”。",
+      "ex": [
+       {
+        "en": "The plane crashed into the sea.",
+        "zh": "飞机坠入大海。",
+        "ko": "비행기가 바다에 추락했다."
+       },
+       {
+        "en": "My computer crashed again.",
+        "zh": "我的电脑又死机了。",
+        "ko": "내 컴퓨터가 또 멈췄다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "car crash",
+    "zh": "车祸",
+    "ko": "자동차 사고"
+   },
+   {
+    "en": "stock market crash",
+    "zh": "股市崩盘",
+    "ko": "주가 폭락"
+   }
+  ]
+ },
+ {
+  "w": "client",
+  "ipa": "/ˈklaɪənt/",
+  "pos": "n.",
+  "zh": "客户；委托人；顾客",
+  "ko": "고객；의뢰인",
+  "kor": "gogaek",
+  "ex": [
+   {
+    "en": "It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive clientele.",
+    "src": "2006 阅读 Text 2",
+    "zh": "价格涨得太多会很可惜，因为那会赶走斯特拉特福德最有吸引力的客源——年轻人。",
+    "ko": "가격을 너무 많이 올리면 스트랫퍼드의 가장 매력적인 고객층인 젊은이들을 쫓아내게 되어 아쉬울 것이다.",
+    "g": {
+     "shame": "n. 遗憾，可惜 | 아쉬운 일",
+     "raise": "v. 提高 | 올리다",
+     "prices": "n. 价格 | 가격",
+     "much": "adv. 多 | 많이",
+     "drive": "v. 驱赶（drive away）| 쫓아내다",
+     "young": "adj. 年轻的 | 젊은",
+     "people": "n. 人 | 사람",
+     "attractive": "adj. 有吸引力的 | 매력적인",
+     "clientele": "n. 客户群 | 고객층"
+    },
+    "kg": {
+     "가격을": "가격（价格）+ 을（宾格）",
+     "너무": "太",
+     "많이": "多地",
+     "올리면": "올리다（提高）+ -면（如果）",
+     "스트랫퍼드의": "스트랫퍼드（斯特拉特福德）+ 의（的）",
+     "가장": "最",
+     "매력적인": "매력적（有魅力的）+ 인",
+     "고객층인": "고객층（客户群）+ 인（是…的）",
+     "젊은이들을": "젊은이（年轻人）+ 들（复数）+ 을（宾格）",
+     "쫓아내게": "쫓아내다（赶走）+ -게 되다（变得…）",
+     "되어": "되다（变成）的连接形",
+     "아쉬울": "아쉽다（遗憾）+ -ㄹ（将来定语形）",
+     "것이다": "것（事）+ 이다，-ㄹ 것이다 = 将会"
+    },
+    "gram": [
+     {
+      "t": "It would be a shame to do… because…",
+      "d": "it would be a shame to… 是虚拟/委婉的语气，it 是形式主语，to raise… 是真正主语。who are… 是定语从句，修饰 the young people，后面 Stratford's most attractive clientele 是同位语。",
+      "ex": [
+       {
+        "en": "It would be a shame to waste this chance.",
+        "zh": "浪费这个机会会很可惜。",
+        "ko": "이 기회를 낭비하면 아쉬울 것이다."
+       },
+       {
+        "en": "I met Tom, who is a lawyer.",
+        "zh": "我遇见了汤姆，他是一名律师。",
+        "ko": "나는 변호사인 톰을 만났다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The lawyer met his client at the office yesterday.",
+    "src": "",
+    "zh": "律师昨天在办公室见了他的委托人。",
+    "ko": "변호사는 어제 사무실에서 의뢰인을 만났다.",
+    "g": {
+     "lawyer": "n. 律师 | 변호사",
+     "met": "v. 见面（meet 过去式）| 만나다",
+     "client": "n. 委托人 | 의뢰인",
+     "office": "n. 办公室 | 사무실",
+     "yesterday": "adv. 昨天 | 어제"
+    },
+    "kg": {
+     "변호사는": "변호사（律师）+ 는（主题）",
+     "어제": "昨天",
+     "사무실에서": "사무실（办公室）+ 에서（在）",
+     "의뢰인을": "의뢰인（委托人）+ 을（宾格）",
+     "만났다": "만나다（见）的过去式"
+    },
+    "gram": [
+     {
+      "t": "一般过去时与时间状语",
+      "d": "met 是 meet 的过去式，yesterday 是一般过去时的标志词。不规则动词的过去式要单独记，如 meet–met、go–went。",
+      "ex": [
+       {
+        "en": "I went to the park yesterday.",
+        "zh": "我昨天去了公园。",
+        "ko": "나는 어제 공원에 갔다."
+       },
+       {
+        "en": "She wrote a letter last night.",
+        "zh": "她昨晚写了一封信。",
+        "ko": "그녀는 어젯밤에 편지를 썼다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "regular client",
+    "zh": "老客户",
+    "ko": "단골 고객"
+   },
+   {
+    "en": "client base",
+    "zh": "客户群",
+    "ko": "고객 기반"
+   }
+  ]
+ },
+ {
+  "w": "cling",
+  "ipa": "/klɪŋ/",
+  "pos": "v.",
+  "zh": "紧贴；附着；坚持；依恋",
+  "ko": "달라붙다；집착하다",
+  "kor": "dallabutda",
+  "ex": [
+   {
+    "en": "Top performers used to cling to their posts for as long as they could.",
+    "src": "英语一 2011 阅读 Text 2（改编）",
+    "zh": "表现出色的人过去总是尽可能长久地坚守自己的职位。",
+    "ko": "실적이 우수한 사람들은 예전에 가능한 한 오래 자기 자리에 매달리곤 했다.",
+    "g": {
+     "top": "adj. 顶尖的 | 최고의",
+     "performers": "n. 表现者 | 실적자",
+     "used": "v. 过去常常（used to）| ~하곤 했다",
+     "cling": "v. 紧抓不放 | 매달리다",
+     "posts": "n. 职位 | 자리",
+     "long": "adv. 长久地 | 오래",
+     "could": "modal 能够 | 할 수 있다"
+    },
+    "kg": {
+     "실적이": "실적（业绩）+ 이（主格）",
+     "우수한": "우수하다（优秀）的定语形",
+     "사람들은": "사람（人）+ 들 + 은",
+     "예전에": "예전（以前）+ 에",
+     "가능한": "가능하다（可能）的定语形",
+     "한": "限",
+     "오래": "长久",
+     "자기": "自己",
+     "자리에": "자리（位置）+ 에",
+     "매달리곤": "매달리다（依附）+ -곤（常常，-고는 的缩写）",
+     "했다": "하다（做）的过去式，-곤 하다 = 总是…"
+    },
+    "gram": [
+     {
+      "t": "used to do / as long as",
+      "d": "used to do 表示“过去常常做某事（现在不了）”。cling to 表示“紧抓；坚持”。for as long as they could 是“尽可能久”。",
+      "ex": [
+       {
+        "en": "I used to live in Busan.",
+        "zh": "我以前住在釜山。",
+        "ko": "나는 예전에 부산에 살았다."
+       },
+       {
+        "en": "Stay as long as you like.",
+        "zh": "你想待多久就待多久。",
+        "ko": "원하는 만큼 오래 있어라."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The baby clung to her mother's hand.",
+    "src": "",
+    "zh": "婴儿紧紧抓着妈妈的手。",
+    "ko": "아기는 엄마의 손에 꼭 매달렸다.",
+    "g": {
+     "baby": "n. 婴儿 | 아기",
+     "clung": "v. 紧抓（cling 过去式）| 매달렸다",
+     "mother": "n. 母亲 | 엄마",
+     "hand": "n. 手 | 손"
+    },
+    "kg": {
+     "아기는": "아기（婴儿）+ 는（主题）",
+     "엄마의": "엄마（妈妈）+ 의（的）",
+     "손에": "손（手）+ 에（在）",
+     "꼭": "紧紧地",
+     "매달렸다": "매달리다（吊着、抓住）的过去式"
+    },
+    "gram": [
+     {
+      "t": "cling 的变形",
+      "d": "cling–clung–clung 是不规则动词。cling to sth. 既可以表示抓住物体，也可以表示坚持观点、想法或希望。",
+      "ex": [
+       {
+        "en": "He clung to the hope of winning.",
+        "zh": "他仍抱着获胜的希望。",
+        "ko": "그는 이길 희망에 매달렸다."
+       },
+       {
+        "en": "Wet clothes cling to the skin.",
+        "zh": "湿衣服会黏在皮肤上。",
+        "ko": "젖은 옷은 피부에 달라붙는다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "cling to",
+    "zh": "紧抓；坚持",
+    "ko": "~에 매달리다"
+   },
+   {
+    "en": "cling to the hope",
+    "zh": "抱着希望",
+    "ko": "희망을 붙들다"
+   }
+  ]
+ },
+ {
+  "w": "clue",
+  "ipa": "/kluː/",
+  "pos": "n.",
+  "zh": "线索；提示",
+  "ko": "단서",
+  "kor": "danseo",
+  "ex": [
+   {
+    "en": "Most ground surveys involve a lot of walking, looking for surface clues.",
+    "src": "英语一 2014 新题型",
+    "zh": "大多数地面勘察需要大量步行，寻找地表线索。",
+    "ko": "대부분의 지상 조사는 지표면의 단서를 찾으며 많이 걷는 일을 포함한다.",
+    "g": {
+     "most": "det. 大多数 | 대부분의",
+     "ground": "n. 地面 | 지상",
+     "surveys": "n. 勘察 | 조사",
+     "involve": "v. 涉及，需要 | 포함하다",
+     "walking": "n. 步行 | 걷기",
+     "looking": "v. 寻找（look for）| 찾다",
+     "surface": "n. 表面 | 지표면",
+     "clues": "n. 线索 | 단서"
+    },
+    "kg": {
+     "대부분의": "大部分的",
+     "지상": "地面",
+     "조사는": "조사（调查）+ 는（主题）",
+     "지표면의": "지표면（地表）+ 의（的）",
+     "단서를": "단서（线索）+ 를（宾格）",
+     "찾으며": "찾다（寻找）+ -으며（一边）",
+     "많이": "多",
+     "걷는": "걷다（走）的定语形",
+     "일을": "일（事）+ 을（宾格）",
+     "포함한다": "포함하다（包含）的现在时"
+    },
+    "gram": [
+     {
+      "t": "现在分词短语作伴随状语",
+      "d": "looking for surface clues 是现在分词短语作伴随状语，说明走路时同时在做什么。involve a lot of walking，involve 后面接动名词。",
+      "ex": [
+       {
+        "en": "He sat there, reading a book.",
+        "zh": "他坐在那儿看书。",
+        "ko": "그는 책을 읽으며 거기에 앉아 있었다."
+       },
+       {
+        "en": "The job involves traveling a lot.",
+        "zh": "这份工作需要经常出差。",
+        "ko": "그 일은 출장이 많은 것을 포함한다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The detective found a clue at the crime scene.",
+    "src": "",
+    "zh": "侦探在犯罪现场发现了一条线索。",
+    "ko": "형사는 범죄 현장에서 단서를 발견했다.",
+    "g": {
+     "detective": "n. 侦探 | 형사",
+     "found": "v. 发现（find 过去式）| 발견하다",
+     "clue": "n. 线索 | 단서",
+     "crime": "n. 犯罪 | 범죄",
+     "scene": "n. 现场 | 현장"
+    },
+    "kg": {
+     "형사는": "형사（刑警）+ 는（主题）",
+     "범죄": "犯罪",
+     "현장에서": "현장（现场）+ 에서（在）",
+     "단서를": "단서（线索）+ 를（宾格）",
+     "발견했다": "발견하다（发现）的过去式"
+    },
+    "gram": [
+     {
+      "t": "clue 的搭配",
+      "d": "clue 常与 to/about 连用：a clue to the mystery（谜团的线索）。常见短语：have no clue（毫无头绪）。",
+      "ex": [
+       {
+        "en": "I have no clue about this.",
+        "zh": "我对此毫无头绪。",
+        "ko": "나는 이것에 대해 전혀 모르겠다."
+       },
+       {
+        "en": "This is a clue to his plan.",
+        "zh": "这是他计划的一条线索。",
+        "ko": "이것은 그의 계획에 대한 단서이다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "a clue to",
+    "zh": "……的线索",
+    "ko": "~에 대한 단서"
+   },
+   {
+    "en": "have no clue",
+    "zh": "毫无头绪",
+    "ko": "전혀 모르다"
+   }
+  ]
+ },
+ {
+  "w": "corporation",
+  "ipa": "/ˌkɔːpəˈreɪʃn/",
+  "pos": "n.",
+  "zh": "公司；法人；大企业",
+  "ko": "기업；법인",
+  "kor": "gieop",
+  "ex": [
+   {
+    "en": "After all, four decades of evidence has now shown that corporations in Europe as well as the US are evading the meritocratic hiring and promotion of women to top positions.",
+    "src": "英语二 2013 阅读 Text 4",
+    "zh": "毕竟，四十年的证据现已表明，欧洲和美国的公司都在回避以能力为标准录用和提拔女性担任高层职位。",
+    "ko": "결국 40년간의 증거는 미국뿐 아니라 유럽의 기업들도 실력 위주로 여성을 채용하고 최고위직으로 승진시키는 것을 회피하고 있음을 보여 주었다.",
+    "g": {
+     "after": "prep. 毕竟（after all）| 결국",
+     "four": "num. 四 | 사",
+     "decades": "n. 十年 | 십 년",
+     "evidence": "n. 证据 | 증거",
+     "shown": "v. 表明（show 过去分词）| 보여 주다",
+     "corporations": "n. 公司 | 기업",
+     "Europe": "n. 欧洲 | 유럽",
+     "well": "adv. 同样（as well as）| ~뿐 아니라",
+     "evading": "v. 回避 | 회피하다",
+     "meritocratic": "adj. 任人唯贤的 | 실력 위주의",
+     "hiring": "n. 录用 | 채용",
+     "promotion": "n. 晋升 | 승진",
+     "women": "n. 女性 | 여성",
+     "top": "adj. 最高的 | 최고위",
+     "positions": "n. 职位 | 직위"
+    },
+    "kg": {
+     "결국": "到头来",
+     "40년간의": "40년간（四十年间）+ 의（的）",
+     "증거는": "증거（证据）+ 는（主题）",
+     "미국뿐": "미국（美国）+ 뿐（仅）",
+     "아니라": "아니다（不是）+ -라",
+     "유럽의": "유럽（欧洲）+ 의",
+     "기업들도": "기업（企业）+ 들 + 도（也）",
+     "실력": "实力",
+     "위주로": "위주（为主）+ 로（以）",
+     "여성을": "여성（女性）+ 을（宾格）",
+     "채용하고": "채용하다（录用）+ -고",
+     "최고위직으로": "최고위직（最高职位）+ 으로（到）",
+     "승진시키는": "승진시키다（使晋升）的定语形",
+     "것을": "것（事情）+ 을",
+     "회피하고": "회피하다（回避）+ -고",
+     "있음을": "있다（在）的名词形 -음 + 을（宾格）",
+     "보여": "보이다（展示）的连接形（보여 주다）",
+     "주었다": "주다（给），-아/어 주다 = 为…做"
+    },
+    "gram": [
+     {
+      "t": "现在完成时 + as well as",
+      "d": "has now shown that… 是现在完成时，强调结果延续到现在。A as well as B 表示“B 和 A 都”，重点在 A；corporations in Europe as well as the US 重点是欧洲公司。",
+      "ex": [
+       {
+        "en": "The teacher as well as the students was late.",
+        "zh": "老师和学生们都迟到了。",
+        "ko": "학생들뿐 아니라 선생님도 늦었다."
+       },
+       {
+        "en": "Research has shown that sleep matters.",
+        "zh": "研究表明睡眠很重要。",
+        "ko": "연구는 수면이 중요함을 보여 주었다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "My uncle works for a large multinational corporation.",
+    "src": "",
+    "zh": "我叔叔在一家大型跨国公司工作。",
+    "ko": "내 삼촌은 대형 다국적 기업에서 일한다.",
+    "g": {
+     "uncle": "n. 叔叔 | 삼촌",
+     "works": "v. 工作 | 일하다",
+     "large": "adj. 大型的 | 대형",
+     "multinational": "adj. 跨国的 | 다국적",
+     "corporation": "n. 公司 | 기업"
+    },
+    "kg": {
+     "내": "我的",
+     "삼촌은": "삼촌（叔叔）+ 은（主题）",
+     "대형": "大型",
+     "다국적": "跨国",
+     "기업에서": "기업（企业）+ 에서（在）",
+     "일한다": "일하다（工作）的现在时"
+    },
+    "gram": [
+     {
+      "t": "work for",
+      "d": "work for + 公司/老板 = 为…工作；work at 接地点，work on 接项目。",
+      "ex": [
+       {
+        "en": "She works for a bank.",
+        "zh": "她在银行工作。",
+        "ko": "그녀는 은행에서 일한다."
+       },
+       {
+        "en": "He is working on a new book.",
+        "zh": "他正在写一本新书。",
+        "ko": "그는 새 책을 작업하고 있다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "multinational corporation",
+    "zh": "跨国公司",
+    "ko": "다국적 기업"
+   },
+   {
+    "en": "corporation tax",
+    "zh": "公司税",
+    "ko": "법인세"
+   }
+  ]
+ },
+ {
+  "w": "crisis",
+  "ipa": "/ˈkraɪsɪs/",
+  "pos": "n.",
+  "zh": "危机；危急关头；转折点",
+  "ko": "위기",
+  "kor": "wigi",
+  "ex": [
+   {
+    "en": "Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign.",
+    "src": "英语一 2011 阅读 Text 3",
+    "zh": "例如，丰田汽车通过相对迅速且精心策划的社交媒体应对活动，缓解了今年早些时候召回危机造成的部分损失。",
+    "ko": "예를 들어 도요타는 올해 초 리콜 위기로 인한 피해의 일부를 비교적 빠르고 잘 짜인 소셜 미디어 대응 캠페인으로 완화했다.",
+    "g": {
+     "Toyota": "n. 丰田 | 도요타",
+     "example": "n. 例子 | 예",
+     "alleviated": "v. 缓解 | 완화하다",
+     "damage": "n. 损害 | 피해",
+     "recall": "n. 召回 | 리콜",
+     "crisis": "n. 危机 | 위기",
+     "earlier": "adv. 较早 | 이른",
+     "relatively": "adv. 相对地 | 비교적",
+     "quick": "adj. 迅速的 | 빠른",
+     "well-orchestrated": "adj. 精心策划的 | 잘 짜인",
+     "social-media": "n. 社交媒体 | 소셜 미디어",
+     "response": "n. 应对 | 대응",
+     "campaign": "n. 活动 | 캠페인"
+    },
+    "kg": {
+     "예를": "예（例子）+ 를（宾格）",
+     "들어": "들다（举）的连接形，예를 들어 = 例如",
+     "도요타는": "도요타（丰田）+ 는（主题）",
+     "올해": "今年",
+     "초": "初",
+     "리콜": "召回",
+     "위기로": "위기（危机）+ 로（由于）",
+     "인한": "인하다（因为）的定语形",
+     "피해의": "피해（损害）+ 의（的）",
+     "일부를": "일부（一部分）+ 를（宾格）",
+     "비교적": "比较地",
+     "빠르고": "빠르다（快）+ -고",
+     "잘": "好地",
+     "짜인": "짜이다（被编排）的过去定语形",
+     "소셜": "社交",
+     "미디어": "媒体",
+     "대응": "应对",
+     "캠페인으로": "캠페인（活动）+ 으로（凭借）",
+     "완화했다": "완화하다（缓和）的过去式"
+    },
+    "gram": [
+     {
+      "t": "with + 名词短语表方式 / 并列形容词修饰",
+      "d": "with a relatively quick and well-orchestrated… campaign 中 with 表示手段（靠…）。quick and well-orchestrated 两个形容词并列修饰 campaign。alleviate some of the damage 中 some of + 名词表示“其中一部分”。",
+      "ex": [
+       {
+        "en": "She solved it with a simple trick.",
+        "zh": "她用一个简单的窍门解决了它。",
+        "ko": "그녀는 간단한 요령으로 그것을 해결했다."
+       },
+       {
+        "en": "Some of the answers are wrong.",
+        "zh": "有些答案是错的。",
+        "ko": "답 중 일부는 틀렸다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The company faced a serious financial crisis last year.",
+    "src": "",
+    "zh": "公司去年面临了严重的财务危机。",
+    "ko": "그 회사는 작년에 심각한 재정 위기를 맞았다.",
+    "g": {
+     "company": "n. 公司 | 회사",
+     "faced": "v. 面临 | 맞다",
+     "serious": "adj. 严重的 | 심각한",
+     "financial": "adj. 财务的 | 재정적",
+     "crisis": "n. 危机 | 위기",
+     "last": "adj. 上一个 | 작년"
+    },
+    "kg": {
+     "그": "那",
+     "회사는": "회사（公司）+ 는",
+     "작년에": "작년（去年）+ 에",
+     "심각한": "심각하다（严重）的定语形",
+     "재정": "财政",
+     "위기를": "위기（危机）+ 를（宾格）",
+     "맞았다": "맞다（迎来）的过去式"
+    },
+    "gram": [
+     {
+      "t": "crisis 的复数",
+      "d": "crisis 的复数是 crises（读 /ˈkraɪsiːz/），类似的还有 analysis–analyses、basis–bases。",
+      "ex": [
+       {
+        "en": "Many crises hit the country.",
+        "zh": "许多危机冲击了这个国家。",
+        "ko": "많은 위기가 그 나라를 강타했다."
+       },
+       {
+        "en": "The analyses were wrong.",
+        "zh": "这些分析是错的。",
+        "ko": "그 분석들은 틀렸다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "financial crisis",
+    "zh": "金融危机",
+    "ko": "금융 위기"
+   },
+   {
+    "en": "in a crisis",
+    "zh": "在危机中",
+    "ko": "위기 속에서"
+   }
+  ]
+ },
+ {
+  "w": "crisp",
+  "ipa": "/krɪsp/",
+  "pos": "adj./n.",
+  "zh": "脆的；清脆的；干脆利落的；（英）薯片",
+  "ko": "바삭한；산뜻한；감자칩",
+  "kor": "basakan",
+  "ex": [
+   {
+    "en": "The apple was fresh and crisp, and the autumn air was cool.",
+    "src": "",
+    "zh": "苹果新鲜又脆，秋天的空气也很凉爽。",
+    "ko": "사과는 신선하고 아삭했으며 가을 공기는 서늘했다.",
+    "g": {
+     "apple": "n. 苹果 | 사과",
+     "fresh": "adj. 新鲜的 | 신선한",
+     "crisp": "adj. 脆的 | 아삭한",
+     "autumn": "n. 秋天 | 가을",
+     "air": "n. 空气 | 공기",
+     "cool": "adj. 凉爽的 | 서늘한"
+    },
+    "kg": {
+     "사과는": "사과（苹果）+ 는（主题）",
+     "신선하고": "신선하다（新鲜）+ -고",
+     "아삭했으며": "아삭하다（脆）+ -했으며（过去 + 并列）",
+     "가을": "秋天",
+     "공기는": "공기（空气）+ 는",
+     "서늘했다": "서늘하다（凉爽）的过去式"
+    },
+    "gram": [
+     {
+      "t": "形容词作表语",
+      "d": "crisp 作表语跟在 be 动词后，两个形容词用 and 并列：was fresh and crisp。后半句 the air was cool 与前半句用 and 并列，构成并列句。",
+      "ex": [
+       {
+        "en": "The soup is hot and spicy.",
+        "zh": "这汤又热又辣。",
+        "ko": "그 국은 뜨겁고 맵다."
+       },
+       {
+        "en": "The room was clean and quiet.",
+        "zh": "房间又干净又安静。",
+        "ko": "방은 깨끗하고 조용했다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "I bought a bag of crisps at the shop.",
+    "src": "",
+    "zh": "我在店里买了一袋薯片。",
+    "ko": "나는 가게에서 감자칩 한 봉지를 샀다.",
+    "g": {
+     "bought": "v. 买（buy 过去式）| 사다",
+     "bag": "n. 袋 | 봉지",
+     "crisps": "n. 薯片（英式）| 감자칩",
+     "shop": "n. 商店 | 가게"
+    },
+    "kg": {
+     "나는": "我 + 는",
+     "가게에서": "가게（商店）+ 에서（在）",
+     "감자칩": "薯片",
+     "한": "一",
+     "봉지를": "봉지（袋）+ 를（宾格）",
+     "샀다": "사다（买）的过去式"
+    },
+    "gram": [
+     {
+      "t": "crisp 的英美差异",
+      "d": "crisps 在英国指“薯片”，美国用 chips；而英国的 chips 是“炸薯条”，美国叫 French fries。crisp 作形容词还可形容天气“清爽的”、言辞“干脆的”。",
+      "ex": [
+       {
+        "en": "a crisp winter morning",
+        "zh": "一个清爽的冬日早晨",
+        "ko": "상쾌한 겨울 아침"
+       },
+       {
+        "en": "She gave a crisp reply.",
+        "zh": "她干脆地回答。",
+        "ko": "그녀는 간결하게 대답했다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "crisp air",
+    "zh": "清新的空气",
+    "ko": "상쾌한 공기"
+   },
+   {
+    "en": "a bag of crisps",
+    "zh": "一袋薯片",
+    "ko": "감자칩 한 봉지"
+   }
+  ]
+ },
+ {
+  "w": "cruel",
+  "ipa": "/ˈkruːəl/",
+  "pos": "adj.",
+  "zh": "残忍的；残酷的；冷酷无情的",
+  "ko": "잔인한；가혹한",
+  "kor": "janinhan",
+  "ex": [
+   {
+    "en": "As a zoology professor, I agree with Emma Marris that zoo displays can be sad and cruel.",
+    "src": "英语一 2022 新题型",
+    "zh": "作为一名动物学教授，我同意艾玛·马里斯所说的，动物园的展示可能既令人难过又残忍。",
+    "ko": "동물학 교수로서 나는 동물원 전시가 슬프고 잔인할 수 있다는 엠마 마리스의 말에 동의한다.",
+    "g": {
+     "zoology": "n. 动物学 | 동물학",
+     "professor": "n. 教授 | 교수",
+     "agree": "v. 同意 | 동의하다",
+     "zoo": "n. 动物园 | 동물원",
+     "displays": "n. 展示 | 전시",
+     "sad": "adj. 悲伤的 | 슬픈",
+     "cruel": "adj. 残忍的 | 잔인한"
+    },
+    "kg": {
+     "동물학": "动物学",
+     "교수로서": "교수（教授）+ 로서（作为）",
+     "나는": "我 + 는",
+     "동물원": "动物园",
+     "전시가": "전시（展览）+ 가（主格）",
+     "슬프고": "슬프다（悲伤）+ -고",
+     "잔인할": "잔인하다（残忍）+ -ㄹ（将来定语形）",
+     "수": "可能",
+     "있다는": "있다（有）+ -다는（引用定语形）",
+     "엠마": "艾玛",
+     "마리스의": "마리스（马里斯）+ 의（的）",
+     "말에": "말（话）+ 에（对）",
+     "동의한다": "동의하다（同意）的现在时"
+    },
+    "gram": [
+     {
+      "t": "agree with sb. that…",
+      "d": "agree with sb. that… 表示“同意某人所说的…”，that 从句是 agree 的内容。As a… professor 中 as 表示“作为”，是介词。",
+      "ex": [
+       {
+        "en": "I agree with you that it's expensive.",
+        "zh": "我同意你说的它很贵。",
+        "ko": "나는 그것이 비싸다는 너의 말에 동의한다."
+       },
+       {
+        "en": "As a teacher, she cares about students.",
+        "zh": "作为老师，她关心学生。",
+        "ko": "교사로서 그녀는 학생들을 아낀다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "It is cruel to keep a bird in a small cage.",
+    "src": "",
+    "zh": "把鸟关在小笼子里很残忍。",
+    "ko": "새를 작은 새장에 가두는 것은 잔인하다.",
+    "g": {
+     "cruel": "adj. 残忍的 | 잔인한",
+     "keep": "v. 关养 | 가두다",
+     "bird": "n. 鸟 | 새",
+     "small": "adj. 小的 | 작은",
+     "cage": "n. 笼子 | 새장"
+    },
+    "kg": {
+     "새를": "새（鸟）+ 를（宾格）",
+     "작은": "작다（小）的定语形",
+     "새장에": "새장（鸟笼）+ 에（在）",
+     "가두는": "가두다（关押）的定语形",
+     "것은": "것（事情）+ 은",
+     "잔인하다": "잔인하다（残忍）的陈述形"
+    },
+    "gram": [
+     {
+      "t": "It is cruel to do（形式主语）",
+      "d": "it 是形式主语，to keep… 才是真正主语。cruel 后接 to sb.（对某人残忍）：be cruel to animals。",
+      "ex": [
+       {
+        "en": "It is kind to help others.",
+        "zh": "帮助别人是善良的。",
+        "ko": "남을 돕는 것은 친절하다."
+       },
+       {
+        "en": "Don't be cruel to animals.",
+        "zh": "不要虐待动物。",
+        "ko": "동물에게 잔인하게 굴지 마라."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "cruel to",
+    "zh": "对……残忍",
+    "ko": "~에게 잔인한"
+   },
+   {
+    "en": "cruel irony",
+    "zh": "残酷的讽刺",
+    "ko": "잔인한 아이러니"
+   }
+  ]
+ },
+ {
+  "w": "curb",
+  "ipa": "/kɜːb/",
+  "pos": "v./n.",
+  "zh": "控制；抑制；约束；路缘",
+  "ko": "억제하다；제한",
+  "kor": "eokjehada",
+  "ex": [
+   {
+    "en": "Curbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit itself that introduced such patents with its 1998 decision.",
+    "src": "英语一 2010 阅读 Text 2",
+    "zh": "限制商业方法专利主张将是一次戏剧性的大转弯，因为正是联邦巡回法院自己通过1998年的判决引入了此类专利。",
+    "ko": "사업 방법 특허 주장을 제한하는 것은 극적인 180도 전환이 될 것이다. 그러한 특허를 1998년 판결로 도입한 것이 바로 연방순회법원 자신이었기 때문이다.",
+    "g": {
+     "curbs": "n. 限制 | 제한",
+     "business-method": "n. 商业方法 | 사업 방법",
+     "claims": "n. 专利主张 | 주장",
+     "dramatic": "adj. 戏剧性的 | 극적인",
+     "about-face": "n. 大转弯 | 180도 전환",
+     "because": "conj. 因为 | ~때문에",
+     "Federal": "adj. 联邦的 | 연방",
+     "Circuit": "n. 巡回法院 | 순회법원",
+     "introduced": "v. 引入 | 도입하다",
+     "patents": "n. 专利 | 특허",
+     "decision": "n. 判决 | 판결"
+    },
+    "kg": {
+     "사업": "事业，业务",
+     "방법": "方法",
+     "특허": "专利",
+     "주장을": "주장（主张）+ 을（宾格）",
+     "제한하는": "제한하다（限制）的定语形",
+     "것은": "것（事情）+ 은",
+     "극적인": "극적（戏剧性）+ 인",
+     "180도": "180度",
+     "전환이": "전환（转换）+ 이",
+     "될": "되다（成为）+ -ㄹ",
+     "것이다": "것（事）+ 이다，-ㄹ 것이다 = 将会",
+     "그러한": "那样的",
+     "1998년": "1998年",
+     "판결로": "판결（判决）+ 로（凭借）",
+     "도입한": "도입하다（引入）的过去定语形",
+     "것이": "것（事情）+ 이",
+     "바로": "正是",
+     "연방순회법원": "联邦巡回法院",
+     "자신이었기": "자신（自身）+ 이었기（是…因为）",
+     "때문이다": "때문（原因）+ 이다"
+    },
+    "gram": [
+     {
+      "t": "强调句 it was … that …",
+      "d": "it was the Federal Circuit itself that introduced… 是强调句型：it is/was + 被强调部分 + that…，去掉 it was 和 that 后仍是完整句子。用来强调“正是…”。",
+      "ex": [
+       {
+        "en": "It was Tom that broke the window.",
+        "zh": "正是汤姆打破了窗户。",
+        "ko": "창문을 깬 사람은 바로 톰이었다."
+       },
+       {
+        "en": "It is health that matters most.",
+        "zh": "最重要的正是健康。",
+        "ko": "가장 중요한 것은 바로 건강이다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The government is trying to curb rising prices.",
+    "src": "",
+    "zh": "政府正试图遏制物价上涨。",
+    "ko": "정부는 오르는 물가를 억제하려고 노력하고 있다.",
+    "g": {
+     "government": "n. 政府 | 정부",
+     "trying": "v. 试图 | 노력하다",
+     "curb": "v. 抑制 | 억제하다",
+     "rising": "adj. 上涨的 | 오르는",
+     "prices": "n. 价格 | 물가"
+    },
+    "kg": {
+     "정부는": "정부（政府）+ 는",
+     "오르는": "오르다（上涨）的定语形",
+     "물가를": "물가（物价）+ 를（宾格）",
+     "억제하려고": "억제하다（抑制）+ -려고（想要）",
+     "노력하고": "노력하다（努力）+ -고",
+     "있다": "있다，-고 있다 = 正在"
+    },
+    "gram": [
+     {
+      "t": "现在分词作定语",
+      "d": "rising prices 中 rising 是现在分词作定语，表示“正在上涨的”。try to do 表示“试图/努力做”，try doing 则是“试着做”。",
+      "ex": [
+       {
+        "en": "The falling leaves cover the road.",
+        "zh": "落叶盖住了道路。",
+        "ko": "떨어지는 낙엽이 길을 덮는다."
+       },
+       {
+        "en": "I tried to open the door.",
+        "zh": "我试图开门。",
+        "ko": "나는 문을 열려고 했다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "curb inflation",
+    "zh": "抑制通胀",
+    "ko": "인플레이션을 억제하다"
+   },
+   {
+    "en": "a curb on",
+    "zh": "对……的限制",
+    "ko": "~에 대한 제한"
+   }
+  ]
+ },
+ {
+  "w": "cyber",
+  "ipa": "/ˈsaɪbə(r)/",
+  "pos": "adj.",
+  "zh": "计算机的；网络的；信息技术的",
+  "ko": "사이버의",
+  "kor": "saibeo",
+  "ex": [
+   {
+    "en": "Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace.",
+    "src": "英语一 2018 阅读 Text 2",
+    "zh": "作为数字原住民的年轻人，在网络空间中分辨事实与虚构的能力确实越来越强。",
+    "ko": "디지털 원주민인 젊은이들은 사이버 공간에서 사실과 허구를 구분하는 데 실제로 점점 더 능숙해지고 있다.",
+    "g": {
+     "young": "adj. 年轻的 | 젊은",
+     "people": "n. 人们 | 사람들",
+     "digital": "adj. 数字的 | 디지털",
+     "natives": "n. 原住民 | 원주민",
+     "indeed": "adv. 确实 | 실제로",
+     "becoming": "v. 变得 | 되다",
+     "skillful": "adj. 熟练的 | 능숙한",
+     "separating": "v. 区分 | 구분하다",
+     "fact": "n. 事实 | 사실",
+     "fiction": "n. 虚构 | 허구",
+     "cyberspace": "n. 网络空间 | 사이버 공간"
+    },
+    "kg": {
+     "디지털": "数字",
+     "원주민인": "원주민（原住民）+ 인（是…的）",
+     "젊은이들은": "젊은이（年轻人）+ 들 + 은",
+     "사이버": "网络",
+     "공간에서": "공간（空间）+ 에서（在）",
+     "사실과": "사실（事实）+ 과（和）",
+     "허구를": "허구（虚构）+ 를（宾格）",
+     "구분하는": "구분하다（区分）的定语形",
+     "데": "것（事情），-는 데 = 在…方面",
+     "실제로": "实际上",
+     "점점": "渐渐",
+     "더": "更",
+     "능숙해지고": "능숙해지다（变熟练）+ -고",
+     "있다": "있다，-고 있다 = 正在"
+    },
+    "gram": [
+     {
+      "t": "who 定语从句 + be good/skillful at doing",
+      "d": "who are digital natives 是定语从句修饰 Young people。becoming more skillful at separating A from B：be skillful at doing 表示“擅长做”，separate A from B 表示“把 A 与 B 区分开”。",
+      "ex": [
+       {
+        "en": "She is good at solving problems.",
+        "zh": "她擅长解决问题。",
+        "ko": "그녀는 문제를 푸는 데 능하다."
+       },
+       {
+        "en": "Learn to separate work from play.",
+        "zh": "要学会把工作和娱乐分开。",
+        "ko": "일과 놀이를 구분하는 법을 배워라."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Cyber attacks on banks are becoming more common.",
+    "src": "",
+    "zh": "针对银行的网络攻击越来越常见。",
+    "ko": "은행에 대한 사이버 공격이 점점 흔해지고 있다.",
+    "g": {
+     "cyber": "adj. 网络的 | 사이버",
+     "attacks": "n. 攻击 | 공격",
+     "banks": "n. 银行 | 은행",
+     "becoming": "v. 变得 | 되다",
+     "common": "adj. 常见的 | 흔한"
+    },
+    "kg": {
+     "은행에": "은행（银行）+ 에（对）",
+     "대한": "대하다（针对）的定语形",
+     "사이버": "网络",
+     "공격이": "공격（攻击）+ 이（主格）",
+     "점점": "渐渐",
+     "흔해지고": "흔해지다（变常见）+ -고",
+     "있다": "있다，-고 있다 = 正在"
+    },
+    "gram": [
+     {
+      "t": "比较级 more + 形容词",
+      "d": "多音节形容词的比较级用 more + 形容词。becoming more common 表示“变得越来越常见”，becoming 为现在进行时。",
+      "ex": [
+       {
+        "en": "The test is getting more difficult.",
+        "zh": "测试越来越难。",
+        "ko": "시험이 점점 더 어려워지고 있다."
+       },
+       {
+        "en": "Life is becoming more expensive.",
+        "zh": "生活越来越贵。",
+        "ko": "생활이 점점 더 비싸지고 있다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "cyber attack",
+    "zh": "网络攻击",
+    "ko": "사이버 공격"
+   },
+   {
+    "en": "cyber security",
+    "zh": "网络安全",
+    "ko": "사이버 보안"
+   }
+  ]
+ },
+ {
+  "w": "deforestation",
+  "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+  "pos": "n.",
+  "zh": "滥伐森林；森林砍伐",
+  "ko": "삼림 파괴；산림 벌채",
+  "kor": "samnim pagoe",
+  "ex": [
+   {
+    "en": "Last year marked the third year in a row that Indonesia's bleak rate of deforestation has slowed in pace.",
+    "src": "英语一 2021 阅读 Text 2",
+    "zh": "去年是印度尼西亚严峻的森林砍伐速度连续第三年放缓。",
+    "ko": "작년은 인도네시아의 암울한 산림 파괴 속도가 3년 연속으로 둔화된 해였다.",
+    "g": {
+     "last": "adj. 上一个 | 작년",
+     "marked": "v. 标志着 | 기록하다",
+     "third": "num. 第三 | 세 번째",
+     "row": "n. 一排（in a row 连续）| 연속",
+     "Indonesia": "n. 印度尼西亚 | 인도네시아",
+     "bleak": "adj. 严峻的 | 암울한",
+     "rate": "n. 速度，比率 | 속도",
+     "deforestation": "n. 森林砍伐 | 산림 파괴",
+     "slowed": "v. 放缓 | 둔화되다",
+     "pace": "n. 步伐 | 속도"
+    },
+    "kg": {
+     "작년은": "작년（去年）+ 은（主题）",
+     "인도네시아의": "인도네시아（印度尼西亚）+ 의",
+     "암울한": "암울하다（暗淡）的定语形",
+     "산림": "山林",
+     "파괴": "破坏",
+     "속도가": "속도（速度）+ 가（主格）",
+     "3년": "三年",
+     "연속으로": "연속（连续）+ 으로（地）",
+     "둔화된": "둔화되다（放缓）的过去定语形",
+     "해였다": "해（年）+ 였다（是，过去式）"
+    },
+    "gram": [
+     {
+      "t": "the + 序数词 + year in a row that…",
+      "d": "mark the third year in a row that… 中 that 引导同位语/定语从句，说明是第几年“连续”。in a row 表示“连续”。",
+      "ex": [
+       {
+        "en": "She won three times in a row.",
+        "zh": "她连续赢了三次。",
+        "ko": "그녀는 세 번 연속 이겼다."
+       },
+       {
+        "en": "It is the first time that I have been here.",
+        "zh": "这是我第一次来这儿。",
+        "ko": "내가 여기에 온 것은 이번이 처음이다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Deforestation destroys the homes of many animals.",
+    "src": "",
+    "zh": "森林砍伐毁掉了许多动物的家园。",
+    "ko": "산림 파괴는 많은 동물의 서식지를 없앤다.",
+    "g": {
+     "deforestation": "n. 森林砍伐 | 산림 파괴",
+     "destroys": "v. 摧毁 | 없애다",
+     "homes": "n. 家园 | 서식지",
+     "many": "det. 许多 | 많은",
+     "animals": "n. 动物 | 동물"
+    },
+    "kg": {
+     "산림": "山林",
+     "파괴는": "파괴（破坏）+ 는（主题）",
+     "많은": "많다（多）的定语形",
+     "동물의": "동물（动物）+ 의（的）",
+     "서식지를": "서식지（栖息地）+ 를（宾格）",
+     "없앤다": "없애다（消除）的现在时"
+    },
+    "gram": [
+     {
+      "t": "词根构词 de- + forest",
+      "d": "deforestation 由 de-（去除）+ forest（森林）+ -ation（名词后缀）构成。类似：decode（解码）、decrease（减少）、deactivate（停用）。",
+      "ex": [
+       {
+        "en": "They decoded the secret message.",
+        "zh": "他们破译了密信。",
+        "ko": "그들은 비밀 메시지를 해독했다."
+       },
+       {
+        "en": "Please deactivate your account.",
+        "zh": "请停用你的账户。",
+        "ko": "계정을 비활성화해 주세요."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "combat deforestation",
+    "zh": "打击森林砍伐",
+    "ko": "산림 파괴에 맞서다"
+   },
+   {
+    "en": "rate of deforestation",
+    "zh": "森林砍伐率",
+    "ko": "산림 파괴율"
+   }
+  ]
+ },
+ {
+  "w": "delay",
+  "ipa": "/dɪˈleɪ/",
+  "pos": "v./n.",
+  "zh": "推迟；延误；耽搁",
+  "ko": "미루다；지연시키다；지연",
+  "kor": "jiyeonsikida",
+  "ex": [
+   {
+    "en": "Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing.",
+    "src": "英语一 2019 阅读 Text 1",
+    "zh": "从明年起，如果银行因不当行为正在接受调查，高管的任何保底奖金都可能被推迟10年发放。",
+    "ko": "내년부터 최고 경영진의 보장된 보너스는 소속 은행이 비위 혐의로 조사를 받고 있다면 10년 동안 지급이 미뤄질 수 있다.",
+    "g": {
+     "starting": "v. 从…开始 | 시작하여",
+     "next": "adj. 下一个 | 내년",
+     "year": "n. 年 | 해",
+     "guaranteed": "adj. 有保证的 | 보장된",
+     "bonus": "n. 奖金 | 보너스",
+     "top": "adj. 最高的 | 최고",
+     "executives": "n. 高管 | 경영진",
+     "delayed": "v. 推迟 | 미루다",
+     "banks": "n. 银行 | 은행",
+     "under": "prep. 在…之中 | ~중",
+     "investigation": "n. 调查 | 조사",
+     "wrongdoing": "n. 不当行为 | 비위"
+    },
+    "kg": {
+     "내년부터": "내년（明年）+ 부터（从）",
+     "최고": "最高",
+     "경영진의": "경영진（经营层）+ 의",
+     "보장된": "보장되다（被保障）的定语形",
+     "보너스는": "보너스（奖金）+ 는",
+     "소속": "所属",
+     "은행이": "은행（银行）+ 이",
+     "비위": "违规行为",
+     "혐의로": "혐의（嫌疑）+ 로（因）",
+     "조사를": "조사（调查）+ 를（宾格）",
+     "받고": "받다（接受）+ -고",
+     "있다면": "있다（在）+ -다면（如果）",
+     "10년": "十年",
+     "동안": "期间",
+     "지급이": "지급（支付）+ 이",
+     "미뤄질": "미뤄지다（被推迟）+ -ㄹ",
+     "수": "可能",
+     "있다": "있다，-ㄹ 수 있다 = 可能"
+    },
+    "gram": [
+     {
+      "t": "现在分词作时间状语 + 被动 + if 条件",
+      "d": "Starting next year 是现在分词短语作时间状语，意为“从明年起”。could be delayed 10 years 是情态动词的被动语态，10 years 表示推迟的时间长度。if their banks are under investigation 表示条件。",
+      "ex": [
+       {
+        "en": "Starting tomorrow, I will run daily.",
+        "zh": "从明天起，我每天跑步。",
+        "ko": "내일부터 나는 매일 달릴 것이다."
+       },
+       {
+        "en": "The meeting could be delayed if it rains.",
+        "zh": "如果下雨，会议可能推迟。",
+        "ko": "비가 오면 회의가 미뤄질 수 있다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The flight was delayed for two hours because of fog.",
+    "src": "",
+    "zh": "由于大雾，航班延误了两个小时。",
+    "ko": "안개 때문에 비행기가 두 시간 지연되었다.",
+    "g": {
+     "flight": "n. 航班 | 비행기",
+     "delayed": "v. 延误 | 지연되다",
+     "two": "num. 二 | 두",
+     "hours": "n. 小时 | 시간",
+     "fog": "n. 雾 | 안개"
+    },
+    "kg": {
+     "안개": "雾",
+     "때문에": "因为",
+     "비행기가": "비행기（飞机）+ 가",
+     "두": "两",
+     "시간": "小时",
+     "지연되었다": "지연되다（被延误）的过去式"
+    },
+    "gram": [
+     {
+      "t": "because of + 名词",
+      "d": "because of 是介词短语，后接名词/名词短语；because 后面接完整句子。",
+      "ex": [
+       {
+        "en": "We stayed home because of the snow.",
+        "zh": "因为下雪我们待在家里。",
+        "ko": "눈 때문에 우리는 집에 있었다."
+       },
+       {
+        "en": "We stayed home because it snowed.",
+        "zh": "因为下雪了我们待在家里。",
+        "ko": "눈이 와서 우리는 집에 있었다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "without delay",
+    "zh": "立刻",
+    "ko": "지체 없이"
+   },
+   {
+    "en": "delay payment",
+    "zh": "推迟付款",
+    "ko": "지불을 미루다"
+   }
+  ]
+ },
+ {
+  "w": "deliver",
+  "ipa": "/dɪˈlɪvə(r)/",
+  "pos": "v.",
+  "zh": "递送；交付；发表（演讲）；分娩；实现",
+  "ko": "배달하다；전달하다；연설하다",
+  "kor": "baedalhada",
+  "ex": [
+   {
+    "en": "To deliver results to its users quickly, Google has to maintain vast data centers around the world, packed with powerful computers.",
+    "src": "英语二 2011 翻译",
+    "zh": "为了快速向用户提供结果，谷歌必须在全球维护庞大的数据中心，里面装满了强大的计算机。",
+    "ko": "사용자에게 결과를 빠르게 전달하기 위해 구글은 강력한 컴퓨터로 가득 찬 방대한 데이터 센터를 전 세계에서 유지해야 한다.",
+    "g": {
+     "deliver": "v. 提供，传递 | 전달하다",
+     "results": "n. 结果 | 결과",
+     "users": "n. 用户 | 사용자",
+     "quickly": "adv. 快速地 | 빠르게",
+     "maintain": "v. 维护 | 유지하다",
+     "vast": "adj. 庞大的 | 방대한",
+     "data": "n. 数据 | 데이터",
+     "centers": "n. 中心 | 센터",
+     "around": "prep. 在…各处 | ~ 곳곳에",
+     "world": "n. 世界 | 세계",
+     "packed": "adj. 塞满的 | 가득 찬",
+     "powerful": "adj. 强大的 | 강력한",
+     "computers": "n. 计算机 | 컴퓨터"
+    },
+    "kg": {
+     "사용자에게": "사용자（用户）+ 에게（给）",
+     "결과를": "결과（结果）+ 를（宾格）",
+     "빠르게": "빠르다（快）的副词形",
+     "전달하기": "전달하다（传递）的名词形 -기",
+     "위해": "위하다（为了）的连接形",
+     "구글은": "구글（谷歌）+ 은（主题）",
+     "강력한": "강력하다（强力）的定语形",
+     "컴퓨터로": "컴퓨터（计算机）+ 로（用）",
+     "가득": "满满地",
+     "찬": "차다（满）的过去定语形",
+     "방대한": "방대하다（庞大）的定语形",
+     "데이터": "数据",
+     "센터를": "센터（中心）+ 를（宾格）",
+     "전": "全",
+     "세계에서": "세계（世界）+ 에서（在）",
+     "유지해야": "유지하다（维持）+ -해야（必须）",
+     "한다": "하다，-해야 한다 = 必须"
+    },
+    "gram": [
+     {
+      "t": "不定式作目的状语 + 过去分词作后置定语",
+      "d": "To deliver… 在句首作目的状语，意为“为了…”。packed with powerful computers 是过去分词短语，后置修饰 data centers，相当于 which are packed with…。have to 表示“必须”。",
+      "ex": [
+       {
+        "en": "To save money, we cook at home.",
+        "zh": "为了省钱，我们在家做饭。",
+        "ko": "돈을 아끼기 위해 우리는 집에서 요리한다."
+       },
+       {
+        "en": "The box, packed with books, was heavy.",
+        "zh": "装满书的箱子很重。",
+        "ko": "책으로 가득 찬 상자는 무거웠다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The postman delivers letters to our house every morning.",
+    "src": "",
+    "zh": "邮递员每天早上把信送到我们家。",
+    "ko": "우체부는 매일 아침 우리 집으로 편지를 배달한다.",
+    "g": {
+     "postman": "n. 邮递员 | 우체부",
+     "delivers": "v. 递送 | 배달하다",
+     "letters": "n. 信 | 편지",
+     "house": "n. 房子 | 집",
+     "every": "det. 每 | 매",
+     "morning": "n. 早晨 | 아침"
+    },
+    "kg": {
+     "우체부는": "우체부（邮递员）+ 는",
+     "매일": "每天",
+     "아침": "早晨",
+     "우리": "我们（的）",
+     "집으로": "집（家）+ 으로（到）",
+     "편지를": "편지（信）+ 를（宾格）",
+     "배달한다": "배달하다（配送）的现在时"
+    },
+    "gram": [
+     {
+      "t": "deliver 的多个意思",
+      "d": "deliver 除了“递送”，还有“发表（演讲：deliver a speech）”、“兑现（deliver on a promise）”、“接生”等意思。名词 delivery 是“递送；分娩；（演讲的）表达方式”。",
+      "ex": [
+       {
+        "en": "She delivered a speech at the meeting.",
+        "zh": "她在会上发表了演讲。",
+        "ko": "그녀는 회의에서 연설을 했다."
+       },
+       {
+        "en": "The company always delivers on its promises.",
+        "zh": "这家公司总能兑现承诺。",
+        "ko": "그 회사는 늘 약속을 지킨다."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "deliver a speech",
+    "zh": "发表演讲",
+    "ko": "연설하다"
+   },
+   {
+    "en": "deliver on a promise",
+    "zh": "兑现承诺",
+    "ko": "약속을 지키다"
+   }
+  ]
+ },
+ {
+  "w": "default",
+  "ipa": "/dɪˈfɔːlt/",
+  "pos": "n./v.",
+  "zh": "默认；违约；不履行；默认值",
+  "ko": "기본값；채무 불이행",
+  "kor": "gibongap",
+  "ex": [
+   {
+    "en": "Unable to tell whether someone really objects to behavioural ads or whether they are sticking with Microsoft's default, some may ignore a DNT signal and press on anyway.",
+    "src": "英语一 2013 阅读 Text 2",
+    "zh": "由于无法判断某人是真的反对行为广告，还是只是沿用微软的默认设置，一些公司可能会无视“请勿跟踪”信号，照旧推进。",
+    "ko": "누군가가 정말로 행동 기반 광고에 반대하는 것인지, 아니면 마이크로소프트의 기본 설정을 그대로 쓰는 것인지 알 수 없어서 일부는 DNT 신호를 무시하고 어쨌든 밀어붙일 수 있다.",
+    "g": {
+     "unable": "adj. 不能的 | ~할 수 없는",
+     "tell": "v. 判断，分辨 | 알다",
+     "whether": "conj. 是否 | ~인지",
+     "someone": "pron. 某人 | 누군가",
+     "really": "adv. 真正地 | 정말로",
+     "objects": "v. 反对（object to）| 반대하다",
+     "behavioural": "adj. 行为的 | 행동 기반",
+     "ads": "n. 广告 | 광고",
+     "sticking": "v. 坚持（stick with）| 고수하다",
+     "default": "n. 默认设置 | 기본 설정",
+     "ignore": "v. 忽视 | 무시하다",
+     "signal": "n. 信号 | 신호",
+     "press": "v. 推进（press on）| 밀어붙이다",
+     "anyway": "adv. 无论如何 | 어쨌든"
+    },
+    "kg": {
+     "누군가가": "누군가（某人）+ 가（主格）",
+     "정말로": "真地",
+     "행동": "行为",
+     "기반": "基础",
+     "광고에": "광고（广告）+ 에（对）",
+     "반대하는": "반대하다（反对）的定语形",
+     "것인지": "것（事）+ 인지（是不是）",
+     "아니면": "否则，还是",
+     "마이크로소프트의": "마이크로소프트（微软）+ 의",
+     "기본": "基本",
+     "설정을": "설정（设置）+ 을（宾格）",
+     "그대로": "照原样",
+     "쓰는": "쓰다（使用）的定语形",
+     "알": "알다（知道）+ -ㄹ",
+     "수": "可能",
+     "없어서": "없다（没有）+ -어서（因为）",
+     "일부는": "일부（一部分）+ 는",
+     "DNT": "DNT（请勿跟踪）",
+     "신호를": "신호（信号）+ 를（宾格）",
+     "무시하고": "무시하다（忽视）+ -고",
+     "어쨌든": "无论如何",
+     "밀어붙일": "밀어붙이다（强行推进）+ -ㄹ",
+     "있다": "있다，-ㄹ 수 있다 = 可能"
+    },
+    "gram": [
+     {
+      "t": "形容词短语作原因状语 + whether…or whether…",
+      "d": "Unable to tell… 是形容词短语作原因状语，相当于 Because they are unable to tell…。whether… or whether… 引导两个并列的宾语从句，表示“是…还是…”。stick with 表示“坚持使用，继续沿用”。",
+      "ex": [
+       {
+        "en": "Unable to sleep, he read a book.",
+        "zh": "因为睡不着，他看了会儿书。",
+        "ko": "잠들지 못해서 그는 책을 읽었다."
+       },
+       {
+        "en": "I can't tell whether he is joking or serious.",
+        "zh": "我分不清他是在开玩笑还是认真的。",
+        "ko": "그가 농담인지 진담인지 알 수 없다."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The phone's default language is English, but you can change it.",
+    "src": "",
+    "zh": "手机的默认语言是英语，但你可以更改。",
+    "ko": "휴대전화의 기본 언어는 영어이지만 바꿀 수 있다.",
+    "g": {
+     "phone": "n. 手机 | 휴대전화",
+     "default": "adj. 默认的 | 기본",
+     "language": "n. 语言 | 언어",
+     "English": "n. 英语 | 영어",
+     "change": "v. 更改 | 바꾸다"
+    },
+    "kg": {
+     "휴대전화의": "휴대전화（手机）+ 의（的）",
+     "기본": "基本",
+     "언어는": "언어（语言）+ 는",
+     "영어이지만": "영어（英语）+ 이지만（是…但是）",
+     "바꿀": "바꾸다（更改）+ -ㄹ",
+     "수": "可能",
+     "있다": "있다，-ㄹ 수 있다 = 能够"
+    },
+    "gram": [
+     {
+      "t": "default 的两种词性",
+      "d": "default 作名词表示“默认设置；违约”（in default），作形容词表示“默认的”（default setting），作动词表示“违约；缺省”（default on a loan）。",
+      "ex": [
+       {
+        "en": "He defaulted on the loan.",
+        "zh": "他拖欠了贷款。",
+        "ko": "그는 대출금을 갚지 못했다."
+       },
+       {
+        "en": "Use the default settings first.",
+        "zh": "先使用默认设置。",
+        "ko": "먼저 기본 설정을 사용해라."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "phr": [
+   {
+    "en": "by default",
+    "zh": "默认地",
+    "ko": "기본적으로"
+   },
+   {
+    "en": "default setting",
+    "zh": "默认设置",
+    "ko": "기본 설정"
+   }
+  ]
+ }
+]

@@ -1,5 +1,5 @@
-const VER = 'vb-7c221773e4';
-const ASSETS = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "data/index.json", "data/d01.json", "data/d02.json"];
+const VER = 'vb-8370924f93';
+const ASSETS = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "data/index.json", "data/d01.json", "data/d02.json", "data/d04.json", "data/d07.json"];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VER).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
 });
