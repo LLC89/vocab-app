@@ -1,5 +1,5 @@
-const VER = 'vb-1e6344a984';
-const ASSETS = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "data/index.json", "data/d01.json", "data/d02.json", "data/d03.json", "data/d04.json", "data/d05.json", "data/d06.json", "data/d07.json", "data/d08.json", "data/d09.json", "data/d10.json", "data/d11.json", "data/d12.json", "data/d13.json", "data/d14.json", "data/d15.json", "data/d16.json", "data/d17.json", "data/d18.json", "data/d19.json", "data/d20.json", "data/d21.json", "data/d22.json", "data/d23.json", "data/d24.json", "data/d29.json", "data/d33.json"];
+const VER = 'vb-a6a48709f0';
+const ASSETS = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "data/index.json", "data/d01.json", "data/d02.json", "data/d03.json", "data/d04.json", "data/d05.json", "data/d06.json", "data/d07.json", "data/d08.json", "data/d09.json", "data/d10.json", "data/d11.json", "data/d12.json", "data/d13.json", "data/d14.json", "data/d15.json", "data/d16.json", "data/d17.json", "data/d18.json", "data/d19.json", "data/d20.json", "data/d21.json", "data/d22.json", "data/d23.json", "data/d24.json", "data/d26.json", "data/d29.json", "data/d33.json"];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VER).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
 });
