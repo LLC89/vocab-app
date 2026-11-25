@@ -11,7 +11,7 @@ function load() {
   s = s || {};
   s.prog = s.prog || {};
   s.log = s.log || {};
-  s.set = Object.assign({ daily: 20, rate: 0.9, enLang: 'en-US', enVoice: '', koVoice: '', auto: true, days: [] }, s.set || {});
+  s.set = Object.assign({ daily: 20, rate: 0.9, enLang: 'en-US', enVoice: '', koVoice: '', auto: true, days: [], engine: 'auto' }, s.set || {});
   return s;
 }
 function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { toast('无法保存进度（浏览器存储不可用）'); } }
@@ -47,9 +47,48 @@ function pickVoice(lang) {
   const cand = voices.filter(v => v.lang.replace('_', '-').toLowerCase().startsWith(pref.toLowerCase()));
   return cand.find(v => /natural|enhanced|premium|neural|google/i.test(v.name)) || cand[0] || null;
 }
+/* 在线发音：用 <audio> 播放，手机上比系统语音可靠（不受静音键、语音包影响） */
+const player = new Audio();
+player.preload = 'auto';
+let chunks = [], chunkLang = 'en', chunkRate = 1, chunkFallback = null;
+function splitText(t) {
+  const out = []; let cur = '';
+  for (const part of String(t).split(/(?<=[.!?;,，。！？；:])\s+/)) {
+    if ((cur + ' ' + part).trim().length > 180) { if (cur) out.push(cur); cur = part; } else cur = (cur + ' ' + part).trim();
+  }
+  if (cur) out.push(cur);
+  return out.flatMap(c => c.length > 190 ? c.match(/.{1,180}(\s|$)/g) : [c]);
+}
+function ttsUrl(text, lang) {
+  const tl = lang === 'ko' ? 'ko' : (S.set.enLang === 'en-GB' ? 'en-GB' : 'en-US');
+  return `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=${tl}&q=${encodeURIComponent(text)}`;
+}
+function playNextChunk() {
+  if (!chunks.length) return;
+  player.src = ttsUrl(chunks.shift(), chunkLang);
+  player.playbackRate = chunkRate;
+  const p = player.play();
+  if (p && p.catch) p.catch(err => { if (err && err.name === 'NotAllowedError') toast('请再点一次 🔊'); else if (chunkFallback) { const f = chunkFallback; chunkFallback = null; f(); } });
+}
+player.addEventListener('ended', playNextChunk);
+player.addEventListener('error', () => { if (chunkFallback) { const f = chunkFallback; chunkFallback = null; chunks = []; f(); } });
+function speakOnline(text, lang, rate, fallback) {
+  try { speechSynthesis && speechSynthesis.cancel(); } catch (e) {}
+  player.pause();
+  chunks = splitText(text); chunkLang = lang; chunkRate = rate; chunkFallback = fallback;
+  playNextChunk();
+}
 function speak(text, lang, rate) {
-  if (!('speechSynthesis' in window)) { toast('此浏览器不支持发音'); return; }
-  speechSynthesis.cancel();
+  rate = rate || S.set.rate;
+  const sys = () => speakSystem(text, lang, rate);
+  if (S.set.engine !== 'system' && navigator.onLine !== false) return speakOnline(text, lang, rate, S.set.engine === 'online' ? () => toast('在线发音失败，请检查网络') : sys);
+  sys();
+}
+function speakSystem(text, lang, rate) {
+  if (!('speechSynthesis' in window)) { toast('此浏览器不支持系统语音，请联网使用在线发音'); return; }
+  player.pause(); chunks = [];
+  if (speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel();
+  try { speechSynthesis.resume(); } catch (e) {}
   const u = new SpeechSynthesisUtterance(text);
   const v = pickVoice(lang);
   u.lang = lang === 'ko' ? 'ko-KR' : S.set.enLang;
@@ -62,7 +101,7 @@ function speak(text, lang, rate) {
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 function toast(m) { const t = $('#toast'); t.textContent = m; t.hidden = false; clearTimeout(t._h); t._h = setTimeout(() => t.hidden = true, 2200); }
-function sayBtn(text, lang, label) { return `<button class="say${lang === 'ko' ? ' ko' : ''}" data-say="${esc(text)}" data-lang="${lang}" aria-label="发音">${label || '🔊'}</button>`; }
+function sayBtn(text, lang, label) { return `<button class="say${lang === 'ko' ? ' ko' : ''}" data-say="${esc(text)}" data-lang="${lang}"${label === '🐢' ? ' data-rate="0.6"' : ''} aria-label="${label === '🐢' ? '慢速发音' : '发音'}">${label || '🔊'}</button>`; }
 function setTitle(t, back) { $('#title').textContent = t; $('#backBtn').hidden = !back; }
 function stageOf(w) { const p = S.prog[w]; return p ? p.s : -1; }
 
@@ -267,6 +306,7 @@ function settings() {
   const vopt = (pref, cur) => `<option value="">自动选择</option>` + voices.filter(v => v.lang.toLowerCase().replace('_', '-').startsWith(pref)).map(v => `<option value="${esc(v.voiceURI)}" ${v.voiceURI === cur ? 'selected' : ''}>${esc(v.name)} (${v.lang})</option>`).join('');
   $('#view').innerHTML = `<div class="card">
     <label>每天新学单词数</label><input type="number" id="daily" min="5" max="200" value="${S.set.daily}">
+    <label>发音方式</label><select id="engine"><option value="auto" ${S.set.engine === 'auto' ? 'selected' : ''}>自动（联网用在线发音，断网用系统语音）</option><option value="online" ${S.set.engine === 'online' ? 'selected' : ''}>只用在线发音</option><option value="system" ${S.set.engine === 'system' ? 'selected' : ''}>只用系统语音（可离线）</option></select>
     <label>英语口音</label><select id="enLang"><option value="en-US" ${S.set.enLang === 'en-US' ? 'selected' : ''}>美式</option><option value="en-GB" ${S.set.enLang === 'en-GB' ? 'selected' : ''}>英式</option></select>
     <label>英语语音</label><select id="enVoice">${vopt(S.set.enLang.toLowerCase(), S.set.enVoice)}</select>
     <label>韩语语音</label><select id="koVoice">${vopt('ko', S.set.koVoice)}</select>
@@ -279,8 +319,8 @@ function settings() {
     <div class="row"><button class="btn ghost" id="exp">导出</button><button class="btn ghost" id="imp">导入</button></div>
     <button class="btn ghost" id="reset" style="color:var(--warn)">清空所有进度</button></div>
   <p class="muted">${voices.filter(v => v.lang.toLowerCase().startsWith('ko')).length ? '' : '⚠ 当前设备没有检测到韩语语音。iPhone：设置 → 辅助功能 → 朗读内容 → 声音 → 韩语 下载；小米平板：设置 → 更多设置 → 语言与输入法 → 文字转语音 → 安装韩语语音数据。'}</p>`;
-  const upd = () => { S.set.daily = Math.max(1, +$('#daily').value || 20); S.set.enLang = $('#enLang').value; S.set.enVoice = $('#enVoice').value; S.set.koVoice = $('#koVoice').value; S.set.rate = +$('#rate').value; S.set.auto = $('#auto').checked; $('#rv').textContent = S.set.rate; save(); };
-  ['daily', 'enVoice', 'koVoice', 'rate', 'auto'].forEach(id => $('#' + id).oninput = upd);
+  const upd = () => { S.set.daily = Math.max(1, +$('#daily').value || 20); S.set.enLang = $('#enLang').value; S.set.enVoice = $('#enVoice').value; S.set.koVoice = $('#koVoice').value; S.set.rate = +$('#rate').value; S.set.auto = $('#auto').checked; S.set.engine = $('#engine').value; $('#rv').textContent = S.set.rate; save(); };
+  ['daily', 'enVoice', 'koVoice', 'rate', 'auto', 'engine'].forEach(id => $('#' + id).oninput = upd);
   $('#enLang').onchange = () => { upd(); S.set.enVoice = ''; save(); settings(); };
   $('#tEn').onclick = () => speak('Practice makes perfect.', 'en');
   $('#tKo').onclick = () => speak('연습이 완벽을 만든다.', 'ko');
@@ -303,7 +343,7 @@ async function route() {
   curWord = null; return home();
 }
 document.addEventListener('click', e => {
-  const sb = e.target.closest('[data-say]'); if (sb) { e.stopPropagation(); speak(sb.dataset.say, sb.dataset.lang); return; }
+  const sb = e.target.closest('[data-say]'); if (sb) { e.stopPropagation(); speak(sb.dataset.say, sb.dataset.lang, sb.dataset.rate ? +sb.dataset.rate : undefined); return; }
   const op = e.target.closest('[data-open]'); if (op) { hidePop(); go('#/w/' + encodeURIComponent(op.dataset.open)); return; }
   const te = e.target.closest('.t[data-en]'); if (te && !te.closest('.blur')) { hidePop(); te.classList.add('act'); onTokenEn(te); return; }
   const tk = e.target.closest('.t[data-ko]'); if (tk && !tk.closest('.blur')) { hidePop(); tk.classList.add('act'); onTokenKo(tk); return; }
