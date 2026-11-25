@@ -57,8 +57,22 @@ function speakSystem(text, lang, rate) {
   u.lang = lang === 'ko' ? 'ko-KR' : S.set.enLang;
   if (v) u.voice = v; else if (lang === 'ko') toast('没找到韩语语音，请在系统设置里下载韩语语音包');
   u.rate = rate || S.set.rate;
+  u.onstart = () => ttsLog('开始发音 ✓');
+  u.onend = () => ttsLog('发音结束');
+  u.onerror = e => ttsLog('出错：' + e.error);
+  ttsLog(`请求发音：${text.slice(0, 20)}（${u.lang}，语音：${v ? v.name : '系统默认'}）`);
+  window._lastUtter = u; // iPhone 上防止被回收
   speechSynthesis.speak(u);
 }
+let ttsLines = [];
+function ttsLog(m) { ttsLines.push(new Date().toLocaleTimeString() + ' ' + m); ttsLines = ttsLines.slice(-8); const el = document.getElementById('ttsLog'); if (el) el.textContent = ttsLines.join('
+'); }
+/* iPhone：第一次触摸时先“预热”语音功能 */
+let ttsWarm = false;
+document.addEventListener('touchend', () => {
+  if (ttsWarm || !('speechSynthesis' in window)) return; ttsWarm = true;
+  try { const w = new SpeechSynthesisUtterance(' '); w.volume = 0; speechSynthesis.speak(w); } catch (e) {}
+}, { passive: true });
 
 /* ========== 工具 ========== */
 const $ = s => document.querySelector(s);
@@ -276,6 +290,9 @@ function settings() {
     <label><input type="checkbox" id="auto" ${S.set.auto ? 'checked' : ''}> 出现新卡片时自动读单词</label>
     <div class="row"><button class="btn ghost" id="tEn">试听英语</button><button class="btn ghost" id="tKo">试听韩语</button></div>
   </div>
+  <div class="card"><b>发音检测</b><div class="muted" id="ttsInfo" style="white-space:pre-line;margin-top:6px"></div>
+    <button class="btn ghost" id="tDiag">测试发音（会读 hello 和 안녕하세요）</button>
+    <pre id="ttsLog" class="muted" style="white-space:pre-wrap;font-size:13px;margin:8px 0 0"></pre></div>
   <div class="card"><b>备份 / 换设备</b><p class="muted">进度只保存在当前设备。换设备时：在旧设备点“导出”，把文字发到新设备，粘贴后点“导入”。</p>
     <textarea id="bk" rows="3" placeholder="导出的进度文字会显示在这里"></textarea>
     <div class="row"><button class="btn ghost" id="exp">导出</button><button class="btn ghost" id="imp">导入</button></div>
@@ -285,6 +302,12 @@ function settings() {
   ['daily', 'enVoice', 'koVoice', 'rate', 'auto'].forEach(id => $('#' + id).oninput = upd);
   $('#enLang').onchange = () => { upd(); S.set.enVoice = ''; save(); settings(); };
   $('#tEn').onclick = () => speak('Practice makes perfect.', 'en');
+  const info = () => { refreshVoices(); const en = voices.filter(v => /^en/i.test(v.lang)).length, ko = voices.filter(v => /^ko/i.test(v.lang)).length;
+    $('#ttsInfo').textContent = `支持发音：${'speechSynthesis' in window ? '是' : '否'}
+语音总数：${voices.length}（英语 ${en} 个，韩语 ${ko} 个）
+打开方式：${navigator.standalone || matchMedia('(display-mode: standalone)').matches ? '主屏幕图标' : '浏览器'}`; };
+  info(); setTimeout(info, 800); ttsLog('');
+  $('#tDiag').onclick = () => { ttsLines = []; speak('hello', 'en'); const n = new SpeechSynthesisUtterance('안녕하세요'); n.lang = 'ko-KR'; const kv = pickVoice('ko'); if (kv) n.voice = kv; n.onstart = () => ttsLog('韩语开始 ✓'); n.onerror = e => ttsLog('韩语出错：' + e.error); window._u2 = n; speechSynthesis.speak(n); setTimeout(() => { if (!ttsLines.some(l => l.includes('✓'))) ttsLog('⚠ 没有开始发音：请检查静音键和音量'); info(); }, 2500); };
   $('#tKo').onclick = () => speak('연습이 완벽을 만든다.', 'ko');
   $('#exp').onclick = () => { $('#bk').value = btoa(unescape(encodeURIComponent(JSON.stringify(S)))); $('#bk').select(); toast('已导出，复制这段文字即可'); };
   $('#imp').onclick = () => { try { const s = JSON.parse(decodeURIComponent(escape(atob($('#bk').value.trim())))); if (!s.prog) throw 0; localStorage.setItem(KEY, JSON.stringify(s)); S = load(); toast('导入成功'); } catch (e) { toast('导入失败：文字不完整'); } };
