@@ -65,8 +65,7 @@ function speakSystem(text, lang, rate) {
   speechSynthesis.speak(u);
 }
 let ttsLines = [];
-function ttsLog(m) { ttsLines.push(new Date().toLocaleTimeString() + ' ' + m); ttsLines = ttsLines.slice(-8); const el = document.getElementById('ttsLog'); if (el) el.textContent = ttsLines.join('
-'); }
+function ttsLog(m) { ttsLines.push(new Date().toLocaleTimeString() + ' ' + m); ttsLines = ttsLines.slice(-8); const el = document.getElementById('ttsLog'); if (el) el.textContent = ttsLines.join('\n'); }
 /* iPhone：第一次触摸时先“预热”语音功能 */
 let ttsWarm = false;
 document.addEventListener('touchend', () => {
@@ -306,8 +305,7 @@ function settings() {
     $('#ttsInfo').textContent = `支持发音：${'speechSynthesis' in window ? '是' : '否'}
 语音总数：${voices.length}（英语 ${en} 个，韩语 ${ko} 个）
 打开方式：${navigator.standalone || matchMedia('(display-mode: standalone)').matches ? '主屏幕图标' : '浏览器'}`; };
-  info(); setTimeout(info, 800); $('#ttsLog').textContent = ttsLines.join('
-');
+  info(); setTimeout(info, 800); $('#ttsLog').textContent = ttsLines.join('\n');
   $('#tDiag').onclick = () => { ttsLines = []; speak('hello', 'en'); const n = new SpeechSynthesisUtterance('안녕하세요'); n.lang = 'ko-KR'; const kv = pickVoice('ko'); if (kv) n.voice = kv; n.onstart = () => ttsLog('韩语开始 ✓'); n.onerror = e => ttsLog('韩语出错：' + e.error); window._u2 = n; speechSynthesis.speak(n); setTimeout(() => { if (!ttsLines.some(l => l.includes('✓'))) ttsLog('⚠ 没有开始发音：请检查静音键和音量'); info(); }, 2500); };
   $('#tKo').onclick = () => speak('연습이 완벽을 만든다.', 'ko');
   $('#exp').onclick = () => { $('#bk').value = btoa(unescape(encodeURIComponent(JSON.stringify(S)))); $('#bk').select(); toast('已导出，复制这段文字即可'); };
